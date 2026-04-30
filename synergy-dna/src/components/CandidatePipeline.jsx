@@ -1,15 +1,19 @@
 import { useState, useEffect } from 'react';
 import axios from 'axios';
-import { Target, ArrowRight, CheckCircle, FileText, Calendar, DollarSign, BrainCircuit } from 'lucide-react';
+import { Target, ArrowRight, CheckCircle, FileText, Calendar, DollarSign, BrainCircuit, Bot, Printer } from 'lucide-react';
 import DNARadarChart from './DNARadarChart';
 import SHAPExplainer from './SHAPExplainer';
 import CandidateProfile from './CandidateProfile';
 import AlgorithmProof from './AlgorithmProof';
+import OfferLetterModal from './OfferLetterModal';
+import NegotiationAgent from './NegotiationAgent';
 
 const CandidatePipeline = ({ job, onUpdateCandidate, savedCandidates, overrideCandidateId, isReviewMode }) => {
   const [candidates, setCandidates] = useState([]);
   const [activeIdx, setActiveIdx] = useState(0);
   const [loading, setLoading] = useState(true);
+  const [showOfferLetter, setShowOfferLetter] = useState(false);
+  const [showNegotiationAgent, setShowNegotiationAgent] = useState(false);
 
   useEffect(() => {
     if (isReviewMode && savedCandidates && savedCandidates.length > 0) {
@@ -215,9 +219,14 @@ const CandidatePipeline = ({ job, onUpdateCandidate, savedCandidates, overrideCa
               <h3 className="font-bold text-xl" style={{ color: '#166534' }}>Offer Accepted</h3>
               <p className="text-sm" style={{ color: '#166534' }}>{activeCandidate.name} has been hired for {job.job_title}.</p>
             </div>
-            <button className="btn btn-primary" style={{ marginLeft: 'auto', background: 'white', color: '#166534', border: '1px solid #166534' }} onClick={() => alert('Drafting formal offer letter to candidate email... (Mocked)')}>
-              <FileText size={16} style={{ marginRight: '0.5rem' }} /> Generate Offer Letter
-            </button>
+            <div style={{ marginLeft:'auto', display:'flex', gap:'0.75rem' }}>
+              <button className="btn" style={{ background:'white', color:'#7c3aed', border:'1px solid #7c3aed', display:'flex', alignItems:'center', gap:'0.5rem' }} onClick={() => setShowNegotiationAgent(true)}>
+                <Bot size={16}/> AI Negotiator
+              </button>
+              <button className="btn btn-primary" style={{ background:'white', color:'#166534', border:'1px solid #166534', display:'flex', alignItems:'center', gap:'0.5rem' }} onClick={() => setShowOfferLetter(true)}>
+                <FileText size={16}/> Generate Offer Letter
+              </button>
+            </div>
           </div>
           <div className="panel-body" style={{ padding: '1.5rem' }}>
             <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '1.5rem', marginBottom: '2rem' }}>
@@ -258,6 +267,7 @@ const CandidatePipeline = ({ job, onUpdateCandidate, savedCandidates, overrideCa
   };
 
   return (
+    <>
     <div className="panel" style={{ height: '100%' }}>
       <div className="panel-header" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
         <h2 className="panel-title">
@@ -331,8 +341,14 @@ const CandidatePipeline = ({ job, onUpdateCandidate, savedCandidates, overrideCa
                   
                   {activeCandidate.status !== 'Hired' && (
                     <div style={{ display: 'flex', gap: '1rem' }}>
-                      <button className="btn" style={{ background: '#f1f5f9', color: 'var(--text-secondary)' }} onClick={() => alert('Downloading Comprehensive 4D DNA Profile Report PDF... (Mocked)')}>
-                        <FileText size={16} style={{ marginRight: '0.5rem' }}/> Export Report
+                      <button className="btn" style={{ background:'#f1f5f9', color:'var(--text-secondary)', display:'flex', alignItems:'center', gap:'0.5rem' }} onClick={() => {
+                        const w = window.open('','_blank');
+                        const fmt = (n) => new Intl.NumberFormat('en-IN',{style:'currency',currency:'INR',maximumFractionDigits:0}).format(n);
+                        const p = activeCandidate.math_proof || {};
+                        w.document.write(`<!DOCTYPE html><html><head><title>SynergyDNA Dossier - ${activeCandidate.name}</title><style>*{margin:0;padding:0;box-sizing:border-box}body{font-family:Arial,sans-serif;color:#1e293b;padding:40px;max-width:800px;margin:auto}.logo{font-size:22px;font-weight:800;color:#4f46e5;margin-bottom:4px}h1{font-size:22px;font-weight:800;margin:20px 0 8px}h3{font-size:14px;font-weight:700;margin:18px 0 8px;color:#4f46e5}p,li{font-size:13px;line-height:1.8;color:#334155}table{width:100%;border-collapse:collapse;margin:12px 0}th{background:#4f46e5;color:white;padding:8px 12px;text-align:left;font-size:12px}td{padding:8px 12px;font-size:12px;border-bottom:1px solid #e2e8f0}.green{background:#dcfce7;color:#166534;font-weight:700}.red{background:#fee2e2;color:#991b1b}.footer{margin-top:32px;font-size:11px;color:#94a3b8;border-top:1px solid #e2e8f0;padding-top:12px}</style></head><body><div class="logo">SynergyDNA</div><div style="font-size:11px;color:#64748b">Career Soulmate Algorithm™ · Candidate Dossier</div><h1>${activeCandidate.name}</h1><p><strong>Role:</strong> ${job.job_title} at ${job.company_name} &nbsp;|&nbsp; <strong>CIS Score:</strong> ${activeCandidate.compatibility_index_score}/100 &nbsp;|&nbsp; <strong>ID:</strong> ${activeCandidate.candidate_id}</p><p><strong>AI Recommendation:</strong> ${activeCandidate.ai_recommendation}</p><h3>5-Dimensional Compatibility Breakdown</h3><table><tr><th>Dimension</th><th>Score</th><th>Weight</th><th>Contribution</th></tr><tr><td>Technical Fit</td><td>${p.tech_score||'—'}</td><td>30%</td><td>${((p.tech_score||0)*0.3).toFixed(1)}</td></tr><tr><td>Cultural Resonance</td><td>${p.cult_score||'—'}</td><td>25%</td><td>${((p.cult_score||0)*0.25).toFixed(1)}</td></tr><tr><td>Growth Alignment</td><td>${p.growth_score||'—'}</td><td>20%</td><td>${((p.growth_score||0)*0.2).toFixed(1)}</td></tr><tr><td>Chemistry Score</td><td>${p.chemistry_score||'—'}</td><td>15%</td><td>${((p.chemistry_score||0)*0.15).toFixed(1)}</td></tr><tr><td>Market Timing</td><td>${p.market_score||'—'}</td><td>10%</td><td>${((p.market_score||0)*0.1).toFixed(1)}</td></tr><tr class="green"><td><strong>TOTAL CIS</strong></td><td><strong>${activeCandidate.compatibility_index_score}</strong></td><td>100%</td><td><strong>${activeCandidate.compatibility_index_score}</strong></td></tr></table><h3>SHAP Positive Drivers</h3><ul>${(activeCandidate.top_drivers||[]).map(d=>`<li>${d}</li>`).join('')}</ul><h3>Risk Flags</h3><ul>${(activeCandidate.risks||[]).map(r=>`<li style="color:#991b1b">${r}</li>`).join('')}</ul><h3>SDS Big Five Personality</h3><table><tr><th>Trait</th><th>Score</th><th>Interpretation</th></tr>${Object.entries(activeCandidate.personality||{}).map(([k,v])=>`<tr><td style="text-transform:capitalize">${k}</td><td>${v.toFixed(1)}</td><td>${v>65?'High':v>40?'Moderate':'Low'}</td></tr>`).join('')}</table><div class="footer">Generated by SynergyDNA Enterprise ATS · DPDPA 2023 Compliant · ${new Date().toLocaleDateString('en-IN')}</div></body></html>`);
+                        w.document.close(); setTimeout(()=>w.print(),500);
+                      }}>
+                        <Printer size={16}/> Export Dossier
                       </button>
                       <button className="btn btn-primary" onClick={handleNextStep}>
                         Move to {activeCandidate.status === 'Sourced' ? 'Screening' : activeCandidate.status === 'Screening' ? 'Interview' : 'Hired'} <ArrowRight size={16} style={{ marginLeft: '0.5rem' }}/>
@@ -392,7 +408,20 @@ const CandidatePipeline = ({ job, onUpdateCandidate, savedCandidates, overrideCa
               {/* RENDER THE CORRECT DASHBOARD STATE */}
               {activeCandidate.status === 'Sourced' && renderSourcedDashboard()}
               {activeCandidate.status === 'Screening' && renderScreeningDashboard()}
-              {activeCandidate.status === 'Interview' && renderInterviewDashboard()}
+              {activeCandidate.status === 'Interview' && (
+                <div>
+                  {renderInterviewDashboard()}
+                  <div style={{ marginTop:'1rem', padding:'1rem', background:'#f5f3ff', borderRadius:'8px', border:'1px solid #e9d5ff', display:'flex', alignItems:'center', justifyContent:'space-between' }}>
+                    <div>
+                      <div style={{ fontWeight:700, color:'#6d28d9', fontSize:'0.875rem', display:'flex', alignItems:'center', gap:'0.5rem' }}><Bot size={16}/> Year 3 Feature Preview</div>
+                      <div style={{ fontSize:'0.75rem', color:'#7c3aed', marginTop:'2px' }}>Simulate the AI autonomous salary negotiation agent</div>
+                    </div>
+                    <button onClick={() => setShowNegotiationAgent(true)} style={{ background:'#7c3aed', color:'white', border:'none', borderRadius:'8px', padding:'0.6rem 1.25rem', fontWeight:700, cursor:'pointer', fontSize:'0.85rem', display:'flex', alignItems:'center', gap:'0.5rem' }}>
+                      <Bot size={16}/> Launch AI Negotiator
+                    </button>
+                  </div>
+                </div>
+              )}
               {activeCandidate.status === 'Hired' && renderHiredDashboard()}
 
             </div>
@@ -400,7 +429,14 @@ const CandidatePipeline = ({ job, onUpdateCandidate, savedCandidates, overrideCa
         </div>
       </div>
     </div>
-  );
+
+    {showOfferLetter && activeCandidate && (
+      <OfferLetterModal candidate={activeCandidate} job={job} onClose={() => setShowOfferLetter(false)} />
+    )}
+    {showNegotiationAgent && activeCandidate && (
+      <NegotiationAgent candidate={activeCandidate} job={job} onClose={() => setShowNegotiationAgent(false)} />
+    )}
+  </>);
 };
 
 export default CandidatePipeline;
