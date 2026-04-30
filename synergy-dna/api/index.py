@@ -16,24 +16,25 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Load Datasets dynamically
 BASE_DIR = os.path.join(os.path.dirname(__file__), "data")
+
 try:
     df_jobs = pd.read_csv(os.path.join(BASE_DIR, "ai_jobs.csv")).dropna(subset=['job_id', 'job_title', 'company_size', 'industry'])
-except Exception as e:
+except:
     df_jobs = pd.DataFrame()
 
 try:
     df_sds = pd.read_csv(os.path.join(BASE_DIR, "SDS Personality Traits.csv")).dropna()
+    df_sds.columns = df_sds.columns.str.strip()
 except:
     df_sds = pd.DataFrame()
 
 try:
     df_jds = pd.read_csv(os.path.join(BASE_DIR, "JDS Skill Traits.csv")).dropna()
+    df_jds.columns = df_jds.columns.str.strip()
 except:
     df_jds = pd.DataFrame()
 
-# Data Models
 class JobReq(BaseModel):
     job_id: str
     job_title: str
@@ -69,36 +70,40 @@ class CandidateProfile(BaseModel):
     ai_recommendation: str
     math_proof: MathProof
     status: str
+    data_source: str
 
-INDIAN_NAMES = ["Aarav Nair", "Shruti Das", "Vikram Patel", "Pooja Sharma", "Nikhil Gupta", "Meera Nair", "Rahul Singh", "Sneha Chopra", "Amit Malhotra", "Kavya Menon", "Rohan Bose", "Divya Rao", "Karthik Reddy", "Ananya Verma", "Siddharth Iyer"]
+INDIAN_NAMES = [
+    "Aarav Nair", "Shruti Das", "Vikram Patel", "Pooja Sharma", "Nikhil Gupta",
+    "Meera Nair", "Rahul Singh", "Sneha Chopra", "Amit Malhotra", "Kavya Menon",
+    "Rohan Bose", "Divya Rao", "Karthik Reddy", "Ananya Verma", "Siddharth Iyer",
+    "Priya Krishnan", "Arjun Mehta", "Nandita Joshi", "Varun Tiwari", "Ishita Banerjee"
+]
+
+INDIAN_CITIES = ["Bengaluru", "Mumbai", "Hyderabad", "Pune", "Chennai", "Delhi NCR", "Kolkata", "Ahmedabad"]
 
 def compute_cultural_resonance(personality, company_type):
-    # Base match: Conscientiousness and Agreeableness are generally good
     score = (personality.get('conscientiousness', 50) * 0.5) + (personality.get('agreeableness', 50) * 0.5)
-    
-    # Contextual Modifiers based on Startup vs MNC
-    if "Startup" in str(company_type) or "Small" in str(company_type):
+    ctype = str(company_type).lower()
+    if "startup" in ctype or "small" in ctype:
         score += (personality.get('openness', 50) * 0.3)
         score += (personality.get('extraversion', 50) * 0.2)
-    else: # MNC / Large
+    else:
         score -= (personality.get('neuroticism', 50) * 0.2)
-        
     return min(max(score * 1.5, 10.0), 99.0)
 
 @app.get("/api/jobs", response_model=List[JobReq])
 def get_open_jobs():
     if df_jobs.empty:
         return []
-    
     sampled = df_jobs.sample(min(8, len(df_jobs))).to_dict('records')
     jobs = []
     for row in sampled:
         jobs.append(JobReq(
             job_id=str(row['job_id']),
             job_title=str(row['job_title']),
-            company_name=str(row.get('company_name', 'Tech Corp')),
+            company_name=str(row.get('company_name', 'Tech Corp India')),
             industry=str(row['industry']),
-            location=str(row.get('location', 'India')),
+            location=str(row.get('location', random.choice(INDIAN_CITIES))),
             salary=str(row.get('salary_max_usd', '100000')),
             company_size=str(row['company_size']),
             company_type=str(row.get('company_type', 'MNC'))
@@ -109,103 +114,112 @@ def get_open_jobs():
 def generate_candidates_for_job(job_id: str):
     if df_sds.empty or df_jds.empty or df_jobs.empty:
         return []
-        
-    # Find job
-    job = df_jobs[df_jobs['job_id'] == job_id]
-    if job.empty:
-        job = df_jobs.iloc[0].to_dict()
-    else:
-        job = job.iloc[0].to_dict()
-        
-    # Sample 12 candidates
+
+    job_match = df_jobs[df_jobs['job_id'] == job_id]
+    job = job_match.iloc[0].to_dict() if not job_match.empty else df_jobs.iloc[0].to_dict()
+
+    # Deterministic seed per job — same job always returns same 12 candidates
+    seed = abs(hash(str(job_id))) % (2**31)
+    rng = random.Random(seed)
+
+    sds_indices = rng.sample(range(len(df_sds)), min(12, len(df_sds)))
+    jds_indices = rng.sample(range(len(df_jds)), min(12, len(df_jds)))
+    name_pool = rng.sample(INDIAN_NAMES, 12)
+
     candidates = []
-    names = random.sample(INDIAN_NAMES, 12)
-    
     for i in range(12):
-        sds_row = df_sds.sample(1).iloc[0]
-        jds_row = df_jds.sample(1).iloc[0]
-        
+        sds_row = df_sds.iloc[sds_indices[i]]
+        jds_row = df_jds.iloc[jds_indices[i]]
+
+        # Real SDS columns (after strip): id, neuroticism, extraversion,
+        # openness_to_experience, agreeableness, conscientiousness,
+        # success_ classification_ high_low  (note the spaces — stripped now)
+        sds_id = int(sds_row.get('id', 0))
         personality = {
-            "openness": float(sds_row.get('openness', 50)),
+            "openness":          float(sds_row.get('openness_to_experience', 50)),
             "conscientiousness": float(sds_row.get('conscientiousness', 50)),
-            "extraversion": float(sds_row.get('extraversion', 50)),
-            "agreeableness": float(sds_row.get('agreeableness', 50)),
-            "neuroticism": float(sds_row.get('neuroticism', 50))
+            "extraversion":      float(sds_row.get('extraversion', 50)),
+            "agreeableness":     float(sds_row.get('agreeableness', 50)),
+            "neuroticism":       float(sds_row.get('neuroticism', 50)),
         }
-        
+        sds_success = int(sds_row.get('success_ classification_ high_low', 0))
+
+        # Real JDS columns (after strip): id, big_data_skills, maths-stats_skills,
+        # coding_skills, ai_and_ml_skills, dashboard_and_storytelling_skills,
+        # salary_hike_high_or_low
+        jds_id = int(jds_row.get('id', 0))
         skills = {
-            "AI & Machine Learning": float(jds_row.get('ai_ml', random.uniform(2, 5))),
-            "Maths & Stats": float(jds_row.get('maths_stats', random.uniform(2, 5))),
-            "Coding Skills": float(jds_row.get('coding', random.uniform(2, 5))),
-            "Big Data": float(jds_row.get('big_data', random.uniform(1, 5))),
-            "Dashboarding": float(jds_row.get('dashboarding', random.uniform(1, 5)))
+            "AI & Machine Learning": round(float(jds_row.get('ai_and_ml_skills', 3.0)), 2),
+            "Maths & Stats":         round(float(jds_row.get('maths-stats_skills', 3.0)), 2),
+            "Coding Skills":         round(float(jds_row.get('coding_skills', 3.0)), 2),
+            "Big Data":              round(float(jds_row.get('big_data_skills', 3.0)), 2),
+            "Dashboarding":          round(float(jds_row.get('dashboard_and_storytelling_skills', 3.0)), 2),
         }
-        
+        jds_hike = int(jds_row.get('salary_hike_high_or_low', 0))
+
         avg_tech = sum(skills.values()) / 5.0
-        tech_score = (avg_tech / 5.0) * 100 * random.uniform(0.7, 1.0) # Scale to 100
-        
-        cult_score = compute_cultural_resonance(personality, job.get('company_type', 'MNC'))
-        growth_score = random.uniform(60, 95)
-        chemistry_score = min(max(personality['agreeableness'] * 1.5 + random.uniform(-10, 10), 10.0), 99.0)
-        market_score = random.uniform(50, 90)
-        
+        tech_score = round((avg_tech / 5.0) * 100, 1)
+
+        # Growth boosted by real success classifications from both datasets
+        growth_base = 65.0 + (sds_success * 10) + (jds_hike * 10)
+        growth_score = round(min(growth_base + rng.uniform(-5, 8), 97.0), 1)
+
+        cult_score      = round(compute_cultural_resonance(personality, job.get('company_type', 'MNC')), 1)
+        chemistry_score = round(min(max(personality['agreeableness'] * 1.5 + rng.uniform(-8, 8), 10.0), 99.0), 1)
+        market_score    = round(rng.uniform(52, 91), 1)
+
         weights = {"tech": 0.30, "cult": 0.25, "growth": 0.20, "chemistry": 0.15, "market": 0.10}
-        
-        cis = (
-            (tech_score * weights["tech"]) +
-            (cult_score * weights["cult"]) +
-            (growth_score * weights["growth"]) +
-            (chemistry_score * weights["chemistry"]) +
-            (market_score * weights["market"])
+        cis = round(
+            tech_score * weights["tech"] + cult_score * weights["cult"] +
+            growth_score * weights["growth"] + chemistry_score * weights["chemistry"] +
+            market_score * weights["market"], 1
         )
-        
-        formula = f"({tech_score:.1f} × {weights['tech']}) + ({cult_score:.1f} × {weights['cult']}) + ({growth_score:.1f} × {weights['growth']}) + ({chemistry_score:.1f} × {weights['chemistry']}) + ({market_score:.1f} × {weights['market']}) = {cis:.1f}"
-        
+
+        formula = (f"({tech_score} × 0.30) + ({cult_score} × 0.25) + "
+                   f"({growth_score} × 0.20) + ({chemistry_score} × 0.15) + "
+                   f"({market_score} × 0.10) = {cis}")
+
         proof = MathProof(
-            tech_score=round(tech_score, 1),
-            cult_score=round(cult_score, 1),
-            growth_score=round(growth_score, 1),
-            chemistry_score=round(chemistry_score, 1),
-            market_score=round(market_score, 1),
-            tech_weight=weights["tech"],
-            cult_weight=weights["cult"],
-            growth_weight=weights["growth"],
-            chemistry_weight=weights["chemistry"],
-            market_weight=weights["market"],
-            formula_string=formula
+            tech_score=tech_score, cult_score=cult_score, growth_score=growth_score,
+            chemistry_score=chemistry_score, market_score=market_score,
+            tech_weight=weights["tech"], cult_weight=weights["cult"],
+            growth_weight=weights["growth"], chemistry_weight=weights["chemistry"],
+            market_weight=weights["market"], formula_string=formula
         )
-        
+
         drivers = []
-        if tech_score > 80: drivers.append(f"Strong match for {job.get('job_title', 'Role')} technical stack.")
-        if cult_score > 80: drivers.append(f"High cultural resonance with {job.get('company_size', 'Enterprise')} environment.")
-        if growth_score > 80: drivers.append("Growth trajectory aligns tightly with role requirements.")
-        if not drivers: drivers.append("Solid overall fit across multiple dimensions.")
-        
+        if tech_score > 78:   drivers.append(f"Strong match for {job.get('job_title','Role')} technical stack (JDS #{jds_id}).")
+        if cult_score > 78:   drivers.append(f"High cultural resonance with {job.get('company_size','Enterprise')} environment.")
+        if growth_score > 80: drivers.append(f"High-success SDS profile (#{sds_id}) — strong growth trajectory signal.")
+        if jds_hike == 1:     drivers.append("JDS data: High salary-hike classification — proven top-performer pattern.")
+        if sds_success == 1:  drivers.append("SDS data: High-success classification — above-average career outcomes.")
+        if not drivers:       drivers.append("Balanced fit across all 5 compatibility dimensions.")
+
         risks = []
-        if personality['conscientiousness'] < 45: risks.append("Low Conscientiousness indicates potential unstructured execution or flight risk.")
-        if skills['Big Data'] < 3: risks.append("Technical gap: Big Data proficiency is critically low.")
-        if personality['neuroticism'] > 65: risks.append("High Neuroticism suggests potential stress management issues under pressure.")
-        if tech_score < 60: risks.append("Core technical skills do not meet baseline requirements.")
+        if personality['conscientiousness'] < 35: risks.append(f"Low Conscientiousness ({personality['conscientiousness']}/100) — risk of unstructured execution.")
+        if skills['Big Data'] < 2.5:              risks.append(f"Big Data gap: {skills['Big Data']}/5 — below role threshold.")
+        if personality['neuroticism'] > 65:       risks.append(f"Elevated Neuroticism ({personality['neuroticism']}/100) — stress resilience risk.")
+        if tech_score < 58:                       risks.append(f"Tech score {tech_score}/100 below role minimum of 60.")
+        if avg_tech < 3.0:                        risks.append(f"Average JDS skill score {avg_tech:.1f}/5 — significant upskilling required.")
 
         ai_rec = "PROCEED WITH CAUTION"
-        if cis > 82 and len(risks) <= 1:
-            ai_rec = "STRONG HIRE"
-        elif cis < 70 or len(risks) >= 3:
-            ai_rec = "REJECT"
+        if cis >= 78 and len(risks) <= 1: ai_rec = "STRONG HIRE"
+        elif cis < 68 or len(risks) >= 3: ai_rec = "REJECT"
 
         candidates.append(CandidateProfile(
-            candidate_id=f"CAND-{random.randint(1000, 9999)}",
-            name=names[i],
-            job_title=job.get('job_title', 'Role'),
-            compatibility_index_score=round(cis, 1),
+            candidate_id=f"SDS{sds_id}-JDS{jds_id}",
+            name=name_pool[i],
+            job_title=str(job.get('job_title', 'Role')),
+            compatibility_index_score=cis,
             skills=skills,
             personality=personality,
             top_drivers=drivers[:3],
             risks=risks[:3],
             ai_recommendation=ai_rec,
             math_proof=proof,
-            status='Sourced'
+            status='Sourced',
+            data_source=f"SDS Dataset Row #{sds_id} × JDS Dataset Row #{jds_id}"
         ))
-        
+
     candidates.sort(key=lambda x: x.compatibility_index_score, reverse=True)
     return candidates

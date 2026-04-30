@@ -41,6 +41,11 @@ const CandidateProfile = ({ candidate }) => {
           </div>
           <h3 className="text-lg font-bold">{candidate.name}</h3>
           <p className="text-sm text-secondary">Ref: {candidate.candidate_id}</p>
+          {candidate.data_source && (
+            <p style={{ fontSize: '0.65rem', color: '#6366f1', background: '#eef2ff', padding: '3px 8px', borderRadius: '4px', marginTop: '6px', fontWeight: 600 }}>
+              📊 {candidate.data_source}
+            </p>
+          )}
         </div>
 
         <div style={{ marginBottom: '2rem' }}>
