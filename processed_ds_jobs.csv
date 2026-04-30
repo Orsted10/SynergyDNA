@@ -1,0 +1,1603 @@
+reference_no,company_name,job_title,min_experience,avg_salary,min_salary,max_salary,num_of_jobs,job_title_normalized,experience_level
+7834.0,TCS,Data Scientist,2.0,7.8,4.5,16.0,841.0,Data Scientist,Junior
+7862.0,Accenture,Data Scientist,2.0,12.8,5.8,23.0,501.0,Data Scientist,Junior
+5925.0,IBM,Data Scientist,2.0,13.4,5.3,25.0,394.0,Data Scientist,Junior
+7578.0,Cognizant,Data Scientist,2.0,9.8,5.0,18.0,318.0,Data Scientist,Junior
+7177.0,Capgemini,Data Scientist,2.0,8.6,4.8,14.6,300.0,Data Scientist,Junior
+4018.0,Infosys,Data Scientist,2.0,9.3,4.5,24.0,228.0,Data Scientist,Junior
+8562.0,Wipro,Data Scientist,2.0,9.7,4.5,18.2,225.0,Data Scientist,Junior
+6212.0,Tech Mahindra,Data Scientist,2.0,7.6,4.1,15.4,218.0,Data Scientist,Junior
+8334.0,Fractal Analytics,Data Scientist,2.0,15.9,10.0,23.0,166.0,Data Scientist,Junior
+3930.0,Deloitte,Data Scientist,2.0,14.2,7.0,25.0,163.0,Data Scientist,Junior
+5436.0,Ericsson,Data Scientist,3.0,14.6,6.0,26.9,152.0,Data Scientist,Mid
+7445.0,HCL Technologies,Data Scientist,2.0,9.8,4.5,20.3,152.0,Data Scientist,Junior
+4215.0,Amazon,Data Scientist,2.0,28.1,9.5,50.0,140.0,Data Scientist,Junior
+8777.0,UnitedHealth,Data Scientist,2.0,14.8,8.3,21.5,120.0,Data Scientist,Junior
+1347.0,Mu Sigma,Data Scientist,1.0,7.4,5.0,12.0,116.0,Data Scientist,Junior
+3097.0,Ab Inbev,Data Scientist,2.0,20.6,15.0,26.2,116.0,Data Scientist,Junior
+1322.0,L&T Infotech,Data Scientist,2.0,11.6,6.5,20.9,102.0,Data Scientist,Junior
+3990.0,Tiger Analytics,Data Scientist,2.0,14.8,9.0,20.0,102.0,Data Scientist,Junior
+8847.0,Optum,Data Scientist,2.0,16.6,11.0,22.5,101.0,Data Scientist,Junior
+3700.0,Ernst & Young,Data Scientist,2.0,12.4,6.7,20.0,96.0,Data Scientist,Junior
+8732.0,Mindtree,Data Scientist,2.0,10.6,4.8,18.7,94.0,Data Scientist,Junior
+5837.0,Walmart,Data Scientist,2.0,28.3,17.8,41.0,85.0,Data Scientist,Junior
+4163.0,DXC Technology,Data Scientist,2.0,10.0,4.4,15.5,83.0,Data Scientist,Junior
+1769.0,Microsoft Corporation,Data Scientist,1.0,32.1,13.0,51.0,81.0,Data Scientist,Junior
+3026.0,Genpact,Data Scientist,2.0,12.2,5.5,20.0,74.0,Data Scientist,Junior
+6255.0,Hewlett-Packard Enterprise,Data Scientist,2.0,16.6,7.1,26.5,70.0,Data Scientist,Junior
+8658.0,Ford Motor,Data Scientist,2.0,14.4,10.0,20.0,64.0,Data Scientist,Junior
+7508.0,Reliance jio,Data Scientist,1.0,15.6,5.6,30.0,61.0,Data Scientist,Junior
+6502.0,Verizon,Data Scientist,3.0,14.2,9.9,21.8,58.0,Data Scientist,Mid
+2075.0,IQVIA,Data Scientist,2.0,11.4,6.9,22.0,58.0,Data Scientist,Junior
+1093.0,Shell,Data Scientist,3.0,20.9,13.5,27.0,57.0,Data Scientist,Mid
+8466.0,PayPal,Data Scientist,3.0,27.7,15.0,45.0,57.0,Data Scientist,Mid
+1700.0,JP Morgan Chase,Data Scientist,2.0,20.5,12.0,31.0,56.0,Data Scientist,Junior
+2098.0,EXL Service,Data Scientist,1.0,14.0,7.6,21.0,55.0,Data Scientist,Junior
+1634.0,American Express,Data Scientist,2.0,17.7,10.8,26.0,48.0,Data Scientist,Junior
+2073.0,Vodafone Idea,Data Scientist,2.0,13.4,6.0,20.0,45.0,Data Scientist,Junior
+2884.0,HDFC Bank,Data Scientist,0.0,15.3,9.0,22.2,44.0,Data Scientist,
+6527.0,Great Learning,Data Scientist,0.0,9.3,7.0,13.8,44.0,Data Scientist,
+6308.0,Reliance Industries,Data Scientist,1.0,10.4,6.0,21.0,42.0,Data Scientist,Junior
+5241.0,ZS,Data Scientist,1.0,16.9,10.0,25.0,42.0,Data Scientist,Junior
+2744.0,Oracle,Data Scientist,2.0,16.3,6.5,39.0,42.0,Data Scientist,Junior
+7417.0,Novartis Healthcare,Data Scientist,2.0,21.9,9.0,36.0,41.0,Data Scientist,Junior
+5750.0,TheMathCompany,Data Scientist,2.0,10.5,6.0,16.0,41.0,Data Scientist,Junior
+8050.0,PwC,Data Scientist,2.0,12.6,7.5,20.0,41.0,Data Scientist,Junior
+5007.0,SAP,Data Scientist,2.0,17.4,11.0,26.0,40.0,Data Scientist,Junior
+1554.0,Legato Health Technologies,Data Scientist,1.0,14.3,9.0,21.0,39.0,Data Scientist,Junior
+1582.0,Impact Analytics,Data Scientist,0.0,9.0,7.0,13.0,38.0,Data Scientist,
+6534.0,Innominds Software,Data Scientist,1.0,10.7,6.5,15.2,37.0,Data Scientist,Junior
+5702.0,Flipkart,Data Scientist,0.0,23.2,14.7,42.0,37.0,Data Scientist,
+8479.0,Innodatatics,Data Scientist,0.0,4.5,2.0,7.0,37.0,Data Scientist,
+6834.0,KPMG,Data Scientist,2.0,14.1,9.0,20.0,36.0,Data Scientist,Junior
+4726.0,NTT DATA,Data Scientist,2.0,7.7,5.0,17.2,36.0,Data Scientist,Junior
+6624.0,HSBC,Data Scientist,2.0,14.1,8.5,23.9,36.0,Data Scientist,Junior
+4409.0,Societe Generale,Data Scientist,1.0,18.2,7.4,26.0,35.0,Data Scientist,Junior
+4038.0,Mphasis,Data Scientist,2.0,8.9,5.2,15.0,35.0,Data Scientist,Junior
+7493.0,Mercedes-Benz Research & Development India,Data Scientist,2.0,14.1,8.2,21.0,34.0,Data Scientist,Junior
+6130.0,BEPEC Solutions,Data Scientist,1.0,4.9,3.0,7.0,34.0,Data Scientist,Junior
+8451.0,Brillio,Data Scientist,1.0,16.0,9.0,24.0,33.0,Data Scientist,Junior
+2580.0,ABC,Data Scientist,2.0,19.2,6.5,35.0,32.0,Data Scientist,Junior
+1232.0,WNS,Data Scientist,1.0,11.4,7.2,17.0,32.0,Data Scientist,Junior
+1843.0,Hexaware Technologies,Data Scientist,0.0,9.7,4.5,19.0,32.0,Data Scientist,
+5007.0,International School of Engineering,Data Scientist,1.0,10.5,5.4,16.3,31.0,Data Scientist,Junior
+3353.0,Wells Fargo India,Data Scientist,2.0,15.4,5.5,31.2,31.0,Data Scientist,Junior
+1871.0,Kyndryl,Data Scientist,3.0,14.1,6.0,30.0,31.0,Data Scientist,Mid
+3678.0,eClerx,Data Scientist,2.0,9.3,6.0,16.7,30.0,Data Scientist,Junior
+1145.0,DBS Bank,Data Scientist,2.0,14.3,9.0,23.7,30.0,Data Scientist,Junior
+4465.0,Cyient,Data Scientist,2.0,10.4,5.0,18.5,30.0,Data Scientist,Junior
+6940.0,Nagarro,Data Scientist,1.0,12.1,7.0,18.0,29.0,Data Scientist,Junior
+2026.0,Freelancer.com,Data Scientist,1.0,7.1,3.0,15.0,29.0,Data Scientist,Junior
+1160.0,Cisco Systems,Data Scientist,2.0,19.0,12.0,32.5,28.0,Data Scientist,Junior
+5453.0,Bajaj Finserv,Data Scientist,1.0,11.9,7.5,19.4,28.0,Data Scientist,Junior
+7955.0,Dell,Data Scientist,1.0,17.0,8.0,27.0,27.0,Data Scientist,Junior
+2170.0,Dunnhumby,Data Scientist,1.0,12.9,8.5,18.0,26.0,Data Scientist,Junior
+4548.0,Honeywell Technology Solutions,Data Scientist,2.0,15.1,8.5,23.4,26.0,Data Scientist,Junior
+3997.0,Bristlecone,Data Scientist,1.0,9.0,6.6,11.5,26.0,Data Scientist,Junior
+3756.0,Sigmoid Analytics,Data Scientist,0.0,14.9,11.0,20.0,26.0,Data Scientist,
+5538.0,Applied Materials,Data Scientist,2.0,14.2,7.0,22.0,26.0,Data Scientist,Junior
+6821.0,Citicorp,Data Scientist,2.0,19.2,14.0,23.5,26.0,Data Scientist,Junior
+1099.0,Siemens,Data Scientist,2.0,13.5,7.8,24.0,26.0,Data Scientist,Junior
+4945.0,MasterCard,Data Scientist,2.0,19.6,12.1,25.3,26.0,Data Scientist,Junior
+1930.0,Bosch Global Software Technologies,Data Scientist,2.0,11.9,7.0,16.6,25.0,Data Scientist,Junior
+2859.0,Wolters Kluwer,Data Scientist,0.0,12.5,9.9,17.6,25.0,Data Scientist,
+1335.0,Birlasoft,Data Scientist,2.0,8.0,4.0,12.7,25.0,Data Scientist,Junior
+6721.0,Atos,Data Scientist,2.0,13.0,5.0,28.0,25.0,Data Scientist,Junior
+3168.0,Info Edge,Data Scientist,0.0,16.9,12.0,24.0,25.0,Data Scientist,
+6267.0,VMware Software,Data Scientist,4.0,23.6,11.5,32.1,25.0,Data Scientist,Mid
+5215.0,Course5,Data Scientist,1.0,8.1,4.0,12.7,25.0,Data Scientist,Junior
+4062.0,Bridgei2i Analytics Solutions,Data Scientist,2.0,9.4,6.0,14.4,24.0,Data Scientist,Junior
+8614.0,Larsen & Toubro Limited,Data Scientist,1.0,9.4,4.5,23.0,24.0,Data Scientist,Junior
+7202.0,iNeuron.ai,Data Scientist,0.0,5.1,3.0,8.0,24.0,Data Scientist,
+4119.0,Tredence,Data Scientist,2.0,14.4,8.0,19.0,23.0,Data Scientist,Junior
+6033.0,Enquero,Data Scientist,0.0,11.5,5.0,16.2,23.0,Data Scientist,
+5746.0,R Systems International,Data Scientist,2.0,16.2,7.5,24.4,23.0,Data Scientist,Junior
+3004.0,UST,Data Scientist,3.0,9.8,6.5,15.0,23.0,Data Scientist,Mid
+4787.0,Cgi Group,Data Scientist,2.0,8.2,4.2,14.0,23.0,Data Scientist,Junior
+2749.0,Bank of America,Data Scientist,2.0,22.8,13.2,30.3,23.0,Data Scientist,Junior
+3684.0,Axis Bank,Data Scientist,1.0,11.7,7.9,18.0,23.0,Data Scientist,Junior
+7892.0,Ganit Business Solutions,Data Scientist,3.0,12.6,8.5,16.0,23.0,Data Scientist,Mid
+4651.0,Virtusa Consulting Services,Data Scientist,1.0,9.7,4.8,15.6,22.0,Data Scientist,Junior
+2352.0,ITC Infotech India,Data Scientist,2.0,10.9,4.1,20.5,22.0,Data Scientist,Junior
+4307.0,Gramener,Data Scientist,1.0,9.8,7.5,14.0,22.0,Data Scientist,Junior
+1185.0,Subex,Data Scientist,1.0,10.8,8.2,13.7,22.0,Data Scientist,Junior
+7236.0,Xoriant,Data Scientist,2.0,10.4,5.3,17.6,22.0,Data Scientist,Junior
+5318.0,Caterpillar Inc,Data Scientist,2.0,12.8,7.7,18.0,21.0,Data Scientist,Junior
+3508.0,ICICI Bank,Data Scientist,0.0,11.9,5.0,20.0,21.0,Data Scientist,
+8321.0,Freelance Consultants,Data Scientist,1.0,10.2,3.2,24.0,21.0,Data Scientist,Junior
+4710.0,Sutherland Global Services,Data Scientist,1.0,8.5,5.1,12.3,21.0,Data Scientist,Junior
+2597.0,Prodapt Solutions,Data Scientist,1.0,6.9,3.3,16.0,21.0,Data Scientist,Junior
+5388.0,Rubixe,Data Scientist,0.0,4.7,2.4,9.0,21.0,Data Scientist,
+4757.0,NDS InfoServ,Data Scientist,0.0,9.1,5.0,12.0,20.0,Data Scientist,
+7722.0,Zensar Technologies,Data Scientist,1.0,8.2,4.2,15.5,20.0,Data Scientist,Junior
+4470.0,Fidelity National Information Services,Data Scientist,3.0,10.9,7.3,18.6,20.0,Data Scientist,Mid
+4941.0,KPIT Technologies,Data Scientist,1.0,7.7,4.5,15.0,20.0,Data Scientist,Junior
+3365.0,Citibank,Data Scientist,2.0,17.3,10.0,24.2,20.0,Data Scientist,Junior
+4013.0,ValueLabs,Data Scientist,2.0,14.6,7.0,22.5,20.0,Data Scientist,Junior
+3653.0,ABB Group,Data Scientist,2.0,13.0,8.3,19.0,20.0,Data Scientist,Junior
+2520.0,L&T Financial Services,Data Scientist,1.0,9.3,8.2,12.5,20.0,Data Scientist,Junior
+2087.0,Value c Consulting India,Data Scientist,2.0,5.2,4.2,6.0,20.0,Data Scientist,Junior
+2584.0,Lumiq.ai,Data Scientist,0.0,8.3,6.0,13.0,20.0,Data Scientist,
+7885.0,Flip Robo Technologies,Data Scientist,1.0,4.7,3.0,7.9,20.0,Data Scientist,Junior
+8008.0,Philips,Data Scientist,3.0,17.9,11.2,30.0,19.0,Data Scientist,Mid
+1973.0,Nokia,Data Scientist,2.0,13.0,6.2,24.0,19.0,Data Scientist,Junior
+1317.0,Confidential,Data Scientist,1.0,8.5,4.1,18.5,19.0,Data Scientist,Junior
+6614.0,Tata Technologies,Data Scientist,0.0,6.6,4.8,9.2,19.0,Data Scientist,
+3712.0,Nielsen,Data Scientist,1.0,7.0,6.0,10.0,19.0,Data Scientist,Junior
+8220.0,Kantar,Data Scientist,3.0,11.5,6.4,18.0,19.0,Data Scientist,Mid
+3175.0,Persistent Systems,Data Scientist,2.0,10.5,5.8,17.0,19.0,Data Scientist,Junior
+5745.0,Exl India,Data Scientist,1.0,14.0,10.0,18.0,19.0,Data Scientist,Junior
+1389.0,Blue Yonder,Data Scientist,3.0,20.6,15.1,26.0,19.0,Data Scientist,Mid
+8933.0,Brane Enterprises,Data Scientist,1.0,14.0,8.0,22.5,19.0,Data Scientist,Junior
+4768.0,Micron Technology,Data Scientist,0.0,16.4,11.4,25.0,19.0,Data Scientist,
+4243.0,Indegene,Data Scientist,0.0,9.6,8.0,14.5,18.0,Data Scientist,
+8862.0,CARS24.com,Data Scientist,1.0,20.3,14.5,24.0,18.0,Data Scientist,Junior
+5418.0,GlobalLogic,Data Scientist,2.0,14.6,4.0,26.0,18.0,Data Scientist,Junior
+4598.0,Maersk,Data Scientist,4.0,20.9,14.0,31.0,18.0,Data Scientist,Mid
+5705.0,Barclays,Data Scientist,2.0,18.2,13.6,25.0,18.0,Data Scientist,Junior
+7811.0,Indium Software,Data Scientist,1.0,7.9,5.0,12.0,18.0,Data Scientist,Junior
+1171.0,Celebal Technologies,Data Scientist,0.0,8.6,5.7,13.0,18.0,Data Scientist,
+2793.0,Affine Analytics,Data Scientist,1.0,9.7,6.3,18.0,18.0,Data Scientist,Junior
+3797.0,Fidelity Investment,Data Scientist,3.0,23.4,13.8,36.0,18.0,Data Scientist,Mid
+3373.0,Jio Platforms,Data Scientist,2.0,13.9,7.0,23.0,18.0,Data Scientist,Junior
+7971.0,Happiest Minds Technologies,Data Scientist,1.0,8.7,5.2,14.0,17.0,Data Scientist,Junior
+5151.0,Adobe,Data Scientist,3.0,29.4,20.0,44.0,17.0,Data Scientist,Mid
+7118.0,CitiusTech,Data Scientist,2.0,10.4,5.8,17.5,17.0,Data Scientist,Junior
+5497.0,Scienaptic Systems,Data Scientist,0.0,14.6,8.0,19.0,17.0,Data Scientist,
+2525.0,Boeing,Data Scientist,1.0,19.4,13.5,35.0,17.0,Data Scientist,Junior
+2394.0,Citigroup,Data Scientist,1.0,18.4,13.5,27.5,17.0,Data Scientist,Junior
+1823.0,Marlabs,Data Scientist,0.0,9.3,5.5,20.6,16.0,Data Scientist,
+1326.0,TransOrg Analytics,Data Scientist,1.0,9.4,7.0,13.5,16.0,Data Scientist,Junior
+7642.0,T-Systems,Data Scientist,3.0,14.1,7.8,24.0,16.0,Data Scientist,Mid
+6985.0,Sopra Steria,Data Scientist,3.0,12.1,8.0,19.7,16.0,Data Scientist,Mid
+7237.0,Apexon,Data Scientist,2.0,7.5,4.9,10.8,16.0,Data Scientist,Junior
+6915.0,Embibe,Data Scientist,0.0,16.6,12.0,21.0,16.0,Data Scientist,
+7668.0,Quest Global,Data Scientist,2.0,6.7,4.8,8.5,16.0,Data Scientist,Junior
+4290.0,Harman Connected Services,Data Scientist,3.0,13.6,7.0,26.5,16.0,Data Scientist,Mid
+2938.0,Exxon Mobil,Data Scientist,2.0,23.2,14.0,30.1,16.0,Data Scientist,Junior
+3809.0,Ugam Solution,Data Scientist,0.0,9.8,5.0,15.0,16.0,Data Scientist,
+4986.0,L&T Technology Services,Data Scientist,1.0,8.7,4.3,18.0,16.0,Data Scientist,Junior
+6053.0,Credit Suisse,Data Scientist,2.0,17.4,11.0,26.0,16.0,Data Scientist,Junior
+8474.0,Iris Software,Data Scientist,5.0,18.5,11.5,25.8,16.0,Data Scientist,Mid
+8125.0,Delhivery,Data Scientist,1.0,15.6,10.0,20.8,16.0,Data Scientist,Junior
+3506.0,Abzooba India Infotech,Data Scientist,1.0,15.0,8.5,20.1,16.0,Data Scientist,Junior
+2246.0,Sonata Software,Data Scientist,1.0,8.1,4.8,12.0,15.0,Data Scientist,Junior
+2368.0,Incedo,Data Scientist,1.0,12.2,7.0,20.0,15.0,Data Scientist,Junior
+5896.0,Go-Jek,Data Scientist,3.0,30.5,16.5,44.0,15.0,Data Scientist,Mid
+8893.0,GE,Data Scientist,2.0,14.3,8.4,24.0,15.0,Data Scientist,Junior
+8061.0,Fiserv,Data Scientist,3.0,12.1,8.0,17.0,15.0,Data Scientist,Mid
+1973.0,UBS,Data Scientist,2.0,15.2,10.2,22.0,15.0,Data Scientist,Junior
+7863.0,Quantiphi Analytics Solutions,Data Scientist,0.0,9.8,7.0,16.0,15.0,Data Scientist,
+1415.0,Amdocs,Data Scientist,2.0,8.5,6.0,12.0,15.0,Data Scientist,Junior
+5973.0,Apple,Data Scientist,2.0,33.6,8.2,51.0,15.0,Data Scientist,Junior
+7248.0,Oyo Rooms,Data Scientist,0.0,14.7,10.0,20.5,14.0,Data Scientist,
+4274.0,iOPEX Technologies,Data Scientist,1.0,7.9,3.5,12.0,14.0,Data Scientist,Junior
+6032.0,Yash Technologies,Data Scientist,2.0,11.2,7.5,16.0,14.0,Data Scientist,Junior
+5813.0,Franklin Templeton Investments,Data Scientist,3.0,27.7,15.0,45.0,14.0,Data Scientist,Mid
+8498.0,N+A,Data Scientist,0.0,8.6,2.4,15.0,14.0,Data Scientist,
+4553.0,ICICI Lombard General Insurance Company,Data Scientist,0.0,12.1,7.4,15.4,14.0,Data Scientist,
+3091.0,Reserve Bank Information Technology,Data Scientist,2.0,15.9,8.0,23.5,14.0,Data Scientist,Junior
+5037.0,o9 Solutions,Data Scientist,1.0,13.8,11.0,17.5,14.0,Data Scientist,Junior
+8979.0,HTC Global Services,Data Scientist,1.0,6.4,3.6,10.0,13.0,Data Scientist,Junior
+2289.0,Accolite Digital,Data Scientist,0.0,14.5,6.0,19.5,13.0,Data Scientist,
+8250.0,Wipro Digital,Data Scientist,1.0,11.1,7.0,17.5,13.0,Data Scientist,Junior
+6861.0,CSS Corp,Data Scientist,0.0,10.2,7.0,14.5,13.0,Data Scientist,
+6434.0,Morgan Stanley,Data Scientist,2.0,18.1,10.5,23.6,13.0,Data Scientist,Junior
+2855.0,Zee Entertainment Enterprises,Data Scientist,1.0,16.7,13.2,23.0,13.0,Data Scientist,Junior
+6737.0,Ola Cabs,Data Scientist,1.0,21.9,13.0,30.0,13.0,Data Scientist,Junior
+3242.0,NatWest Markets,Data Scientist,1.0,16.0,11.0,26.0,13.0,Data Scientist,Junior
+7193.0,Myntra,Data Scientist,2.0,16.9,8.3,33.0,13.0,Data Scientist,Junior
+4991.0,TCS,Business Analyst,2.0,6.9,3.0,12.0,4200.0,Business Analyst,Junior
+5052.0,Accenture,Business Analyst,1.0,7.0,2.7,14.7,1900.0,Business Analyst,Junior
+4079.0,Genpact,Business Analyst,1.0,6.4,4.5,9.0,1700.0,Business Analyst,Junior
+2938.0,Wipro,Business Analyst,2.0,8.6,4.2,15.5,1200.0,Business Analyst,Junior
+8747.0,Cognizant,Business Analyst,1.0,8.6,4.5,14.0,1100.0,Business Analyst,Junior
+2705.0,Deloitte,Business Analyst,1.0,7.8,5.0,12.0,991.0,Business Analyst,Junior
+5065.0,HCL Technologies,Business Analyst,1.0,6.6,2.3,14.2,714.0,Business Analyst,Junior
+6400.0,Evalueserve,Business Analyst,1.0,6.5,4.7,8.5,693.0,Business Analyst,Junior
+5084.0,Infosys,Business Analyst,1.0,8.9,4.4,16.5,692.0,Business Analyst,Junior
+3139.0,IBM,Business Analyst,2.0,8.3,4.0,16.0,662.0,Business Analyst,Junior
+3059.0,DXC Technology,Business Analyst,2.0,7.7,4.1,13.0,580.0,Business Analyst,Junior
+7033.0,Tech Mahindra,Business Analyst,2.0,7.6,3.8,15.0,575.0,Business Analyst,Junior
+4422.0,American Express,Business Analyst,1.0,8.3,3.0,19.0,539.0,Business Analyst,Junior
+3828.0,Capgemini,Business Analyst,2.0,9.1,4.3,15.0,531.0,Business Analyst,Junior
+3430.0,Societe Generale,Business Analyst,3.0,13.5,7.6,21.0,514.0,Business Analyst,Mid
+8905.0,EXL Service,Business Analyst,0.0,6.2,4.5,8.5,476.0,Business Analyst,
+2779.0,Amazon,Business Analyst,2.0,11.3,4.8,20.0,445.0,Business Analyst,Junior
+1062.0,HSBC,Business Analyst,2.0,12.1,5.0,21.0,382.0,Business Analyst,Junior
+3008.0,ICICI Bank,Business Analyst,1.0,6.7,4.0,12.6,326.0,Business Analyst,Junior
+4230.0,JP Morgan Chase,Business Analyst,2.0,12.4,5.7,21.7,323.0,Business Analyst,Junior
+8110.0,Zomato,Business Analyst,1.0,10.7,8.3,12.0,274.0,Business Analyst,Junior
+2571.0,L&T Infotech,Business Analyst,2.0,9.7,4.5,16.6,271.0,Business Analyst,Junior
+3742.0,Shell,Business Analyst,4.0,19.5,12.0,30.0,258.0,Business Analyst,Mid
+8882.0,Barclays,Business Analyst,2.0,12.3,5.5,19.4,255.0,Business Analyst,Junior
+5353.0,Cgi Group,Business Analyst,2.0,6.9,4.7,11.0,252.0,Business Analyst,Junior
+6214.0,Oracle,Business Analyst,1.0,5.5,3.4,10.0,243.0,Business Analyst,Junior
+2810.0,Amdocs,Business Analyst,4.0,12.1,6.8,20.0,236.0,Business Analyst,Mid
+6444.0,Conduent,Business Analyst,2.0,6.1,4.0,9.4,225.0,Business Analyst,Junior
+4340.0,Fidelity National Information Services,Business Analyst,3.0,10.8,5.8,18.0,214.0,Business Analyst,Mid
+8629.0,HDFC Bank,Business Analyst,2.0,7.9,4.1,12.0,208.0,Business Analyst,Junior
+8282.0,Novo Nordisk,Business Analyst,4.0,11.5,8.0,15.2,207.0,Business Analyst,Mid
+5935.0,Axis Bank,Business Analyst,1.0,9.7,4.2,15.0,199.0,Business Analyst,Junior
+6202.0,Ernst & Young,Business Analyst,1.0,8.8,4.0,20.0,198.0,Business Analyst,Junior
+3346.0,Credit Suisse,Business Analyst,2.0,15.2,10.0,23.0,179.0,Business Analyst,Junior
+5309.0,Hewlett-Packard Enterprise,Business Analyst,2.0,6.7,3.6,11.5,175.0,Business Analyst,Junior
+4779.0,CG Foods,Business Analyst,0.0,4.8,2.0,10.0,175.0,Business Analyst,
+1279.0,Quantiphi Analytics Solutions,Business Analyst,0.0,8.9,6.5,13.0,167.0,Business Analyst,
+8859.0,NetCracker,Business Analyst,5.0,18.7,12.0,28.0,159.0,Business Analyst,Mid
+7549.0,Oyo Rooms,Business Analyst,0.0,10.2,6.0,14.0,153.0,Business Analyst,
+1356.0,VMware Software,Business Analyst,3.0,9.8,6.0,15.0,153.0,Business Analyst,Mid
+8080.0,Mphasis,Business Analyst,1.0,10.0,3.5,19.0,151.0,Business Analyst,Junior
+1024.0,Exl India,Business Analyst,0.0,6.3,4.5,8.6,147.0,Business Analyst,
+1469.0,Mindtree,Business Analyst,2.0,9.5,5.5,15.0,144.0,Business Analyst,Junior
+6070.0,Newgen Software Technologies,Business Analyst,2.0,9.3,7.0,11.5,138.0,Business Analyst,Junior
+7204.0,NTT DATA,Business Analyst,2.0,7.3,4.5,14.0,133.0,Business Analyst,Junior
+2033.0,Hexaware Technologies,Business Analyst,2.0,10.0,4.2,16.8,131.0,Business Analyst,Junior
+3208.0,Temenos,Business Analyst,2.0,8.8,5.6,12.2,128.0,Business Analyst,Junior
+8095.0,Wells Fargo India,Business Analyst,3.0,12.0,6.2,20.8,128.0,Business Analyst,Mid
+7113.0,Barclays Shared Services,Business Analyst,1.0,8.3,3.8,14.2,127.0,Business Analyst,Junior
+6065.0,Bridgei2i Analytics Solutions,Business Analyst,0.0,6.0,5.0,8.0,124.0,Business Analyst,
+4560.0,Tata Technologies,Business Analyst,3.0,6.4,4.3,8.9,119.0,Business Analyst,Mid
+4770.0,Standard Chartered Bank,Business Analyst,2.0,12.0,6.0,20.0,117.0,Business Analyst,Junior
+6767.0,Mu Sigma,Business Analyst,1.0,6.9,5.5,9.0,116.0,Business Analyst,Junior
+1792.0,Virtusa Consulting Services,Business Analyst,2.0,10.6,5.0,18.5,111.0,Business Analyst,Junior
+7720.0,Allianz Technology,Business Analyst,3.0,8.2,5.1,12.0,110.0,Business Analyst,Mid
+8920.0,Kotak Mahindra Bank,Business Analyst,1.0,7.5,3.0,15.5,106.0,Business Analyst,Junior
+4868.0,Citicorp,Business Analyst,2.0,15.6,7.8,21.3,106.0,Business Analyst,Junior
+6540.0,BNP Paribas,Business Analyst,3.0,10.7,6.7,16.3,105.0,Business Analyst,Mid
+5094.0,UST,Business Analyst,3.0,11.1,5.5,17.5,103.0,Business Analyst,Mid
+2991.0,Flipkart,Business Analyst,1.0,12.3,4.7,18.9,103.0,Business Analyst,Junior
+2187.0,Barclays Global Service Centre,Business Analyst,1.0,11.7,4.5,21.6,102.0,Business Analyst,Junior
+1495.0,BNY Mellon,Business Analyst,3.0,8.5,4.5,17.5,101.0,Business Analyst,Mid
+4249.0,Optum,Business Analyst,2.0,8.6,4.8,17.1,100.0,Business Analyst,Junior
+1651.0,Ola Cabs,Business Analyst,0.0,11.3,7.7,15.0,99.0,Business Analyst,
+5470.0,UBS,Business Analyst,2.0,14.5,7.5,23.5,97.0,Business Analyst,Junior
+6625.0,Odessa,Business Analyst,1.0,11.0,8.4,13.0,96.0,Business Analyst,Junior
+3764.0,bnp paribas india solutions,Business Analyst,3.0,10.2,6.5,15.0,96.0,Business Analyst,Mid
+4233.0,UnitedHealth,Business Analyst,2.0,8.3,5.0,13.0,95.0,Business Analyst,Junior
+4270.0,HCL Technologies BPO Services,Business Analyst,1.0,2.3,1.6,4.0,95.0,Business Analyst,Junior
+5516.0,Ramco Systems,Business Analyst,1.0,7.6,4.5,10.5,94.0,Business Analyst,Junior
+3290.0,Tredence,Business Analyst,0.0,6.9,6.1,8.5,92.0,Business Analyst,
+4802.0,Novartis Healthcare,Business Analyst,1.0,10.0,7.0,14.2,92.0,Business Analyst,Junior
+1167.0,Atos Syntel,Business Analyst,2.0,7.6,4.0,13.0,92.0,Business Analyst,Junior
+2387.0,Cisco Systems,Business Analyst,2.0,12.5,6.0,20.5,90.0,Business Analyst,Junior
+6351.0,ITC Infotech India,Business Analyst,1.0,7.8,4.5,14.0,90.0,Business Analyst,Junior
+5121.0,Deutsche Bank,Business Analyst,2.0,9.1,3.3,19.0,89.0,Business Analyst,Junior
+8507.0,Dell,Business Analyst,2.0,7.0,4.6,10.2,89.0,Business Analyst,Junior
+5516.0,Paytm,Business Analyst,1.0,7.7,3.9,15.0,89.0,Business Analyst,Junior
+1192.0,3i Infotech,Business Analyst,1.0,6.1,3.9,8.8,88.0,Business Analyst,Junior
+1140.0,KPMG,Business Analyst,1.0,8.2,3.6,16.0,87.0,Business Analyst,Junior
+6905.0,Fiserv,Business Analyst,3.0,11.6,7.0,20.0,86.0,Business Analyst,Mid
+5289.0,Zensar Technologies,Business Analyst,2.0,6.7,4.1,14.5,85.0,Business Analyst,Junior
+6445.0,Legato Health Technologies,Business Analyst,3.0,8.0,5.0,14.0,85.0,Business Analyst,Mid
+5643.0,Swiggy,Business Analyst,1.0,13.2,8.0,16.5,85.0,Business Analyst,Junior
+2750.0,GEP Worldwide,Business Analyst,0.0,6.4,5.0,8.5,84.0,Business Analyst,
+3854.0,Intellect Design Arena,Business Analyst,2.0,11.2,5.8,16.7,83.0,Business Analyst,Junior
+8135.0,Standard Chartered Global Business Services,Business Analyst,2.0,12.7,5.6,23.2,81.0,Business Analyst,Junior
+8247.0,ZS,Business Analyst,1.0,9.6,7.0,12.8,80.0,Business Analyst,Junior
+8221.0,Concentrix Corporation,Business Analyst,1.0,5.4,2.8,12.0,80.0,Business Analyst,Junior
+1921.0,Reliance jio,Business Analyst,1.0,6.8,3.6,15.0,79.0,Business Analyst,Junior
+3848.0,NatWest Group,Business Analyst,2.0,9.5,3.5,18.8,79.0,Business Analyst,Junior
+2691.0,IQVIA,Business Analyst,1.0,8.3,4.5,16.7,78.0,Business Analyst,Junior
+4898.0,PwC,Business Analyst,1.0,9.9,4.5,17.5,77.0,Business Analyst,Junior
+5810.0,ValueMomentum,Business Analyst,1.0,6.1,3.8,9.5,75.0,Business Analyst,Junior
+8392.0,ADP Solutions,Business Analyst,3.0,8.2,5.3,15.1,74.0,Business Analyst,Mid
+8346.0,Provana,Business Analyst,1.0,4.8,3.5,6.5,73.0,Business Analyst,Junior
+7378.0,ANR Software,Business Analyst,1.0,4.5,3.1,7.0,71.0,Business Analyst,Junior
+5916.0,WNS,Business Analyst,1.0,6.8,3.8,12.0,69.0,Business Analyst,Junior
+4347.0,Oracle Financial Services Software,Business Analyst,3.0,10.2,5.6,16.5,69.0,Business Analyst,Mid
+2581.0,RevGurus Info India,Business Analyst,0.0,8.3,5.8,11.0,68.0,Business Analyst,
+5789.0,Sapiens,Business Analyst,2.0,12.5,8.0,16.7,67.0,Business Analyst,Junior
+4982.0,Etech Global Services,Business Analyst,1.0,6.4,4.4,8.4,67.0,Business Analyst,Junior
+4049.0,Citibank,Business Analyst,2.0,16.7,8.0,24.3,66.0,Business Analyst,Junior
+6179.0,Coforge,Business Analyst,5.0,16.1,8.3,24.0,66.0,Business Analyst,Mid
+6543.0,ABC,Business Analyst,3.0,13.6,5.2,25.0,63.0,Business Analyst,Mid
+6658.0,Merkle Sokrati,Business Analyst,0.0,4.5,4.2,5.0,61.0,Business Analyst,
+7891.0,First Source,Business Analyst,1.0,4.4,2.7,7.0,60.0,Business Analyst,Junior
+3364.0,Meesho,Business Analyst,0.0,14.0,8.5,18.0,60.0,Business Analyst,
+3070.0,Ebix Software India,Business Analyst,2.0,7.0,4.5,11.5,60.0,Business Analyst,Junior
+3864.0,Indus Valley Partners,Business Analyst,1.0,17.0,14.0,20.0,60.0,Business Analyst,Junior
+7264.0,Schlumberger,Business Analyst,3.0,14.5,9.0,21.0,59.0,Business Analyst,Mid
+5586.0,Capita,Business Analyst,1.0,5.9,2.3,13.0,58.0,Business Analyst,Junior
+4648.0,CRMnext,Business Analyst,1.0,6.6,5.0,8.0,58.0,Business Analyst,Junior
+1910.0,NeoSoft Technologies,Business Analyst,1.0,6.9,3.1,10.0,57.0,Business Analyst,Junior
+4406.0,NSE.IT,Business Analyst,1.0,6.8,3.5,12.5,56.0,Business Analyst,Junior
+8516.0,Nokia,Business Analyst,2.0,9.3,5.5,16.6,56.0,Business Analyst,Junior
+8166.0,Capco Technologies,Business Analyst,3.0,13.9,6.0,22.0,56.0,Business Analyst,Mid
+6012.0,eClerx,Business Analyst,1.0,3.7,2.3,9.3,55.0,Business Analyst,Junior
+7955.0,Affine Analytics,Business Analyst,0.0,6.8,6.0,8.3,55.0,Business Analyst,
+6869.0,Exela Technologies,Business Analyst,3.0,8.3,5.1,12.0,54.0,Business Analyst,Mid
+8158.0,Analytics Quotient,Business Analyst,1.0,5.3,4.0,6.8,53.0,Business Analyst,Junior
+6463.0,NIIT Technologies,Business Analyst,3.0,11.1,7.0,17.8,53.0,Business Analyst,Mid
+6317.0,QualityKiosk Technologies,Business Analyst,2.0,7.7,3.6,13.0,53.0,Business Analyst,Junior
+3504.0,Fidelity Investment,Business Analyst,2.0,9.9,6.8,16.0,53.0,Business Analyst,Junior
+8269.0,Altisource,Business Analyst,2.0,5.5,3.3,9.0,52.0,Business Analyst,Junior
+6308.0,Polestar Solutions & Services India,Business Analyst,0.0,6.1,4.2,8.8,52.0,Business Analyst,
+1955.0,Veeraraghavan & Company,Business Analyst,0.0,2.1,1.2020000000000002,3.0,52.0,Business Analyst,
+1490.0,Verizon,Business Analyst,3.0,10.5,6.3,16.3,51.0,Business Analyst,Mid
+3225.0,BYJU'S,Business Analyst,1.0,7.7,4.0,13.0,51.0,Business Analyst,Junior
+8151.0,Bank of America,Business Analyst,3.0,14.1,8.1,21.5,51.0,Business Analyst,Mid
+4840.0,Better.com,Business Analyst,1.0,7.8,6.0,11.2,51.0,Business Analyst,Junior
+2920.0,KJ System,Business Analyst,1.0,2.9,2.4,3.6,50.0,Business Analyst,Junior
+3477.0,ValueLabs,Business Analyst,4.0,11.3,6.1,18.5,50.0,Business Analyst,Mid
+7643.0,Xyz Company,Business Analyst,3.0,12.3,4.4,23.0,50.0,Business Analyst,Mid
+6286.0,IndusInd Bank,Business Analyst,2.0,8.0,4.0,14.3,49.0,Business Analyst,Junior
+3570.0,Vinculum Solutions,Business Analyst,1.0,8.8,6.0,13.0,49.0,Business Analyst,Junior
+6981.0,Confidential,Business Analyst,1.0,8.3,4.2,16.0,49.0,Business Analyst,Junior
+7654.0,Infosys BPM,Business Analyst,0.0,6.0,2.5,13.0,49.0,Business Analyst,
+2332.0,General Mills,Business Analyst,2.0,9.7,7.0,12.0,48.0,Business Analyst,Junior
+6733.0,Yash Technologies,Business Analyst,4.0,8.9,6.1,12.3,48.0,Business Analyst,Mid
+8293.0,Shipco Transport,Business Analyst,1.0,3.4,2.1,5.0,48.0,Business Analyst,Junior
+4542.0,Aon,Business Analyst,2.0,5.4,3.5,9.6,48.0,Business Analyst,Junior
+3305.0,Persistent Systems,Business Analyst,4.0,12.5,8.5,18.4,48.0,Business Analyst,Mid
+5723.0,Unisys,Business Analyst,2.0,7.7,4.0,12.0,48.0,Business Analyst,Junior
+8884.0,Azentio,Business Analyst,0.0,7.1,4.3,11.0,47.0,Business Analyst,
+5848.0,Synechron,Business Analyst,4.0,16.4,9.9,22.0,46.0,Business Analyst,Mid
+5704.0,Ford Motor,Business Analyst,2.0,8.1,2.9,14.0,46.0,Business Analyst,Junior
+6202.0,Birlasoft,Business Analyst,2.0,8.5,4.5,15.0,45.0,Business Analyst,Junior
+5757.0,Cybage,Business Analyst,5.0,14.6,10.1,20.0,45.0,Business Analyst,Mid
+7343.0,Lentra AI,Business Analyst,1.0,6.8,4.1,11.0,45.0,Business Analyst,Junior
+5725.0,N+A,Business Analyst,1.0,6.3,2.5,11.0,44.0,Business Analyst,Junior
+5330.0,IVY Comptech,Business Analyst,4.0,14.6,8.5,20.0,44.0,Business Analyst,Mid
+6304.0,S&P Global,Business Analyst,3.0,11.1,7.5,17.0,44.0,Business Analyst,Mid
+8355.0,Gartner,Business Analyst,1.0,14.2,10.0,19.0,44.0,Business Analyst,Junior
+5784.0,Acidaes Solutions,Business Analyst,2.0,7.0,5.0,10.0,43.0,Business Analyst,Junior
+1805.0,Udaan,Business Analyst,1.0,11.6,4.8,18.0,43.0,Business Analyst,Junior
+5597.0,Reliance Industries,Business Analyst,2.0,8.1,4.9,14.4,43.0,Business Analyst,Junior
+6864.0,Dell EMC,Business Analyst,2.0,6.6,3.8,10.1,43.0,Business Analyst,Junior
+1260.0,GlobalLogic,Business Analyst,2.0,9.0,2.5,20.0,43.0,Business Analyst,Junior
+4239.0,eClinicalWorks,Business Analyst,2.0,5.3,3.8,8.3,43.0,Business Analyst,Junior
+8383.0,ThoughtWorks,Business Analyst,2.0,14.7,8.5,26.0,43.0,Business Analyst,Junior
+8983.0,Landmark Group,Business Analyst,2.0,11.6,7.5,15.0,43.0,Business Analyst,Junior
+5379.0,Merilytics,Business Analyst,0.0,7.0,5.5,8.0,42.0,Business Analyst,
+2570.0,Care Health Insurance,Business Analyst,0.0,5.9,3.3,8.4,42.0,Business Analyst,
+8704.0,Epsilon,Business Analyst,2.0,9.7,6.0,16.5,41.0,Business Analyst,Junior
+8052.0,Gartner India Research and Advisory Services,Business Analyst,2.0,15.4,10.0,20.0,41.0,Business Analyst,Junior
+4612.0,Globant,Business Analyst,3.0,13.3,9.0,20.9,41.0,Business Analyst,Mid
+8989.0,Franklin Templeton Investments,Business Analyst,4.0,8.2,4.7,12.5,40.0,Business Analyst,Mid
+7073.0,Atidiv,Business Analyst,1.0,3.0,2.2,4.0,40.0,Business Analyst,Junior
+2955.0,Maersk,Business Analyst,4.0,8.9,5.0,16.0,40.0,Business Analyst,Mid
+5049.0,Pboplus Consulting Services,Business Analyst,0.0,4.0,3.0,5.2,40.0,Business Analyst,
+3691.0,Reliance Retail,Business Analyst,1.0,7.0,3.5,13.0,40.0,Business Analyst,Junior
+5111.0,Larsen & Toubro Limited,Business Analyst,0.0,8.5,3.8,14.0,40.0,Business Analyst,
+8570.0,TEKsystems,Business Analyst,3.0,12.0,7.1,18.5,40.0,Business Analyst,Mid
+5275.0,Hindustan Unilever,Business Analyst,2.0,7.1,3.4,10.7,39.0,Business Analyst,Junior
+7690.0,Tata Communications,Business Analyst,1.0,5.0,2.9,9.2,39.0,Business Analyst,Junior
+5978.0,Ameriprise Financial,Business Analyst,1.0,5.9,3.9,9.3,39.0,Business Analyst,Junior
+5323.0,Goldman Sachs,Business Analyst,0.0,14.9,6.5,30.0,39.0,Business Analyst,
+5204.0,Factspan Analytics,Business Analyst,1.0,8.1,6.5,10.0,39.0,Business Analyst,Junior
+6064.0,MSC Technology India,Business Analyst,1.0,4.3,2.9,5.7,39.0,Business Analyst,Junior
+3744.0,Simplify Healthcare,Business Analyst,1.0,5.8,4.0,9.5,39.0,Business Analyst,Junior
+6436.0,CMS Computers Limited (INDIA),Business Analyst,1.0,4.0,2.6,6.0,39.0,Business Analyst,Junior
+1909.0,Fluentgrid,Business Analyst,2.0,5.5,3.2,8.8,38.0,Business Analyst,Junior
+6352.0,Bajaj Finserv,Business Analyst,1.0,9.0,3.8,13.0,38.0,Business Analyst,Junior
+7099.0,Ericsson,Business Analyst,3.0,9.7,5.1,16.0,38.0,Business Analyst,Mid
+4181.0,Sonata Software,Business Analyst,1.0,7.8,5.0,11.5,37.0,Business Analyst,Junior
+8230.0,CitiusTech,Business Analyst,2.0,9.0,6.4,12.1,37.0,Business Analyst,Junior
+7723.0,R1 RCM,Business Analyst,1.0,3.8,2.7,6.7,37.0,Business Analyst,Junior
+1525.0,TCS,Data Analyst,1.0,4.7,2.4,8.9,1600.0,Data Analyst,Junior
+5783.0,Cognizant,Data Analyst,1.0,5.5,2.9,8.3,1200.0,Data Analyst,Junior
+3384.0,Accenture,Data Analyst,1.0,5.2,2.3,11.0,1100.0,Data Analyst,Junior
+3229.0,Capgemini,Data Analyst,0.0,4.6,3.0,9.0,485.0,Data Analyst,
+3865.0,Wipro,Data Analyst,1.0,4.8,2.2,9.0,475.0,Data Analyst,Junior
+4313.0,GlobalLogic,Data Analyst,1.0,2.5,2.0,3.5,415.0,Data Analyst,Junior
+7435.0,Tech Mahindra,Data Analyst,1.0,4.6,2.2,7.5,397.0,Data Analyst,Junior
+7620.0,Amazon,Data Analyst,1.0,5.2,2.5,15.3,380.0,Data Analyst,Junior
+5722.0,Infosys,Data Analyst,1.0,5.7,3.4,12.0,323.0,Data Analyst,Junior
+4754.0,HCL Technologies,Data Analyst,1.0,4.5,2.4,9.5,320.0,Data Analyst,Junior
+8750.0,eClerx,Data Analyst,0.0,2.5,2.0,3.9,302.0,Data Analyst,
+5265.0,IBM,Data Analyst,2.0,7.6,4.0,15.5,297.0,Data Analyst,Junior
+1932.0,Ernst & Young,Data Analyst,1.0,5.8,3.4,10.5,297.0,Data Analyst,Junior
+7089.0,Flipkart,Data Analyst,1.0,5.9,3.2,12.0,241.0,Data Analyst,Junior
+1715.0,Genpact,Data Analyst,1.0,4.7,2.5,9.0,228.0,Data Analyst,Junior
+7423.0,Optum,Data Analyst,2.0,12.8,6.0,19.0,219.0,Data Analyst,Junior
+5924.0,Concentrix Corporation,Data Analyst,1.0,3.9,2.4,6.3,209.0,Data Analyst,Junior
+1495.0,Deloitte,Data Analyst,1.0,7.6,4.3,13.0,202.0,Data Analyst,Junior
+7677.0,Zen3 Info Solutions,Data Analyst,1.0,3.1,2.2,4.2,188.0,Data Analyst,Junior
+7125.0,Unilog Content Solutions ( P),Data Analyst,1.0,2.5,2.0,3.2,181.0,Data Analyst,Junior
+4866.0,Cogencis Information Services,Data Analyst,1.0,2.1,1.2020000000000002,3.0,175.0,Data Analyst,Junior
+5305.0,UnitedHealth,Data Analyst,2.0,10.7,3.3,18.0,171.0,Data Analyst,Junior
+4292.0,Qualsquad Infotech,Data Analyst,0.0,2.1,1.2020000000000002,3.0,149.0,Data Analyst,
+2746.0,NTT DATA,Data Analyst,1.0,4.3,2.1,8.0,138.0,Data Analyst,Junior
+7855.0,InnovAccer,Data Analyst,0.0,9.2,5.0,13.0,137.0,Data Analyst,
+8565.0,Teleperformance,Data Analyst,1.0,2.4,1.8,4.4,132.0,Data Analyst,Junior
+1372.0,Mindtree,Data Analyst,1.0,5.6,4.0,9.6,132.0,Data Analyst,Junior
+4169.0,Ericsson,Data Analyst,2.0,5.8,4.0,10.0,126.0,Data Analyst,Junior
+8066.0,Apex CoVantage,Data Analyst,0.0,2.1,1.2020000000000002,3.0,123.0,Data Analyst,
+8119.0,Tiger Analytics,Data Analyst,0.0,8.8,7.5,12.0,120.0,Data Analyst,
+6492.0,Cyient,Data Analyst,1.0,3.4,1.8,6.7,119.0,Data Analyst,Junior
+6332.0,Urjanet Energy Solutions,Data Analyst,1.0,2.7,2.0,4.2,118.0,Data Analyst,Junior
+8641.0,HSBC,Data Analyst,1.0,8.0,3.4,12.4,117.0,Data Analyst,Junior
+4076.0,DXC Technology,Data Analyst,1.0,5.4,3.7,10.2,109.0,Data Analyst,Junior
+8361.0,QUADRANT RESOURCE LLC,Data Analyst,1.0,3.0,1.5,4.0,109.0,Data Analyst,Junior
+4918.0,PwC,Data Analyst,0.0,6.3,3.2,12.0,108.0,Data Analyst,
+2323.0,LatentView Analytics,Data Analyst,0.0,6.3,5.0,9.0,104.0,Data Analyst,
+7136.0,EXL Service,Data Analyst,1.0,5.0,2.2,9.1,102.0,Data Analyst,Junior
+1520.0,KPMG,Data Analyst,1.0,6.7,3.0,12.0,100.0,Data Analyst,Junior
+3875.0,WNS,Data Analyst,1.0,5.2,2.0,8.9,98.0,Data Analyst,Junior
+7181.0,Myntra,Data Analyst,1.0,9.6,4.8,14.0,98.0,Data Analyst,Junior
+7233.0,IQVIA,Data Analyst,1.0,7.3,4.1,12.0,96.0,Data Analyst,Junior
+4383.0,Ugam Solution,Data Analyst,0.0,4.6,1.8,8.0,92.0,Data Analyst,
+6109.0,Bharti Airtel,Data Analyst,1.0,4.6,2.6,11.0,90.0,Data Analyst,Junior
+6498.0,ICICI Bank,Data Analyst,1.0,4.9,2.5,10.0,82.0,Data Analyst,Junior
+8086.0,Walmart,Data Analyst,1.0,13.9,3.8,30.0,81.0,Data Analyst,Junior
+1929.0,JP Morgan Chase,Data Analyst,2.0,10.0,4.1,20.0,81.0,Data Analyst,Junior
+8720.0,Kantar,Data Analyst,1.0,4.2,3.0,5.7,79.0,Data Analyst,Junior
+6312.0,S&P Global,Data Analyst,1.0,4.4,3.1,8.0,79.0,Data Analyst,Junior
+2787.0,Axtria,Data Analyst,0.0,8.8,6.0,13.5,77.0,Data Analyst,
+7507.0,L&T Infotech,Data Analyst,1.0,6.6,3.8,14.5,77.0,Data Analyst,Junior
+8608.0,Nielsen,Data Analyst,1.0,4.0,2.4,7.3,75.0,Data Analyst,Junior
+1390.0,Citicorp,Data Analyst,1.0,12.2,8.5,17.1,75.0,Data Analyst,Junior
+3695.0,Morningstar,Data Analyst,0.0,3.6,3.0,4.8,74.0,Data Analyst,
+7277.0,TheMathCompany,Data Analyst,0.0,5.2,4.5,8.0,73.0,Data Analyst,
+2940.0,Hewlett-Packard Enterprise,Data Analyst,2.0,6.6,3.5,10.0,72.0,Data Analyst,Junior
+1814.0,Datamatics Global Services,Data Analyst,0.0,2.1,1.2020000000000002,5.4,72.0,Data Analyst,
+6717.0,HERE Technologies,Data Analyst,0.0,2.6,2.0,4.0,72.0,Data Analyst,
+4960.0,HDFC Bank,Data Analyst,1.0,4.6,2.0,10.3,69.0,Data Analyst,Junior
+5694.0,Nvidia,Data Analyst,1.0,3.3,2.5,4.1,69.0,Data Analyst,Junior
+4017.0,Dell,Data Analyst,1.0,5.8,2.5,12.0,68.0,Data Analyst,Junior
+8562.0,Zensar Technologies,Data Analyst,1.0,4.4,2.9,6.5,67.0,Data Analyst,Junior
+2088.0,Vodafone Idea,Data Analyst,2.0,5.7,3.0,11.0,67.0,Data Analyst,Junior
+1519.0,Ardem Data Services,Data Analyst,0.0,2.1,1.2020000000000002,3.0,67.0,Data Analyst,
+2675.0,Fiserv,Data Analyst,2.0,11.5,6.0,17.0,66.0,Data Analyst,Junior
+1742.0,Verificient Technologies,Data Analyst,0.0,2.2,1.8,3.3,65.0,Data Analyst,
+3495.0,CRG Solutions,Data Analyst,1.0,5.8,3.7,9.0,64.0,Data Analyst,Junior
+6385.0,Oracle,Data Analyst,1.0,5.8,3.1,13.9,64.0,Data Analyst,Junior
+2623.0,Google,Data Analyst,1.0,15.5,2.6,50.0,63.0,Data Analyst,Junior
+3511.0,Swiggy,Data Analyst,1.0,4.4,3.1,7.3,62.0,Data Analyst,Junior
+7027.0,Kriya It,Data Analyst,0.0,2.1,1.2020000000000002,3.0,61.0,Data Analyst,
+3379.0,Reliance jio,Data Analyst,1.0,5.6,3.5,10.5,58.0,Data Analyst,Junior
+8651.0,Mphasis,Data Analyst,1.0,5.1,2.1,9.5,58.0,Data Analyst,Junior
+6454.0,Wells Fargo India,Data Analyst,1.0,10.3,3.1,20.0,55.0,Data Analyst,Junior
+6466.0,FE fundinfo,Data Analyst,0.0,3.3,2.5,4.0,55.0,Data Analyst,
+7278.0,Oyo Rooms,Data Analyst,1.0,6.5,3.4,11.5,54.0,Data Analyst,Junior
+4321.0,Competent Software,Data Analyst,1.0,3.1,2.0,4.1,54.0,Data Analyst,Junior
+4323.0,Udaan,Data Analyst,1.0,5.0,3.0,9.0,53.0,Data Analyst,Junior
+3482.0,Continental Automotive Components,Data Analyst,1.0,2.6,2.2,3.5,53.0,Data Analyst,Junior
+1322.0,E2OPEN,Data Analyst,2.0,4.1,3.2,5.7,53.0,Data Analyst,Junior
+8508.0,IHS Markit,Data Analyst,1.0,5.8,3.5,9.5,52.0,Data Analyst,Junior
+2174.0,Fidelity National Financial,Data Analyst,0.0,3.3,1.9,4.2,51.0,Data Analyst,
+4312.0,Proziod Analytics,Data Analyst,1.0,3.5,3.0,4.5,51.0,Data Analyst,Junior
+3373.0,American Express,Data Analyst,1.0,9.5,3.2,18.0,50.0,Data Analyst,Junior
+8817.0,Bajaj Finserv,Data Analyst,0.0,6.5,2.0,12.0,49.0,Data Analyst,
+7371.0,Optimint Solutions,Data Analyst,0.0,2.2,1.7,3.0,49.0,Data Analyst,
+2803.0,Mu Sigma,Data Analyst,1.0,7.8,5.0,14.5,48.0,Data Analyst,Junior
+5713.0,Course5,Data Analyst,0.0,3.5,3.0,5.1,48.0,Data Analyst,
+6753.0,Paytm,Data Analyst,2.0,6.0,3.0,12.5,48.0,Data Analyst,Junior
+1911.0,Straive,Data Analyst,0.0,2.4,1.8,3.0,48.0,Data Analyst,
+6918.0,Honeywell Technology Solutions,Data Analyst,2.0,9.4,5.0,13.0,47.0,Data Analyst,Junior
+8649.0,Intelligent Image Management Inc,Data Analyst,0.0,2.1,1.2020000000000002,3.0,47.0,Data Analyst,
+1980.0,UnitedLex,Data Analyst,1.0,3.1,2.5,4.2,47.0,Data Analyst,Junior
+1325.0,Fidelity National Information Services,Data Analyst,1.0,5.0,2.7,8.1,46.0,Data Analyst,Junior
+6689.0,Barclays,Data Analyst,1.0,11.2,6.5,19.0,46.0,Data Analyst,Junior
+4277.0,Novartis Healthcare,Data Analyst,2.0,10.3,6.7,14.2,46.0,Data Analyst,Junior
+7627.0,R1 RCM,Data Analyst,1.0,3.4,2.3,5.5,45.0,Data Analyst,Junior
+2597.0,Nokia,Data Analyst,0.0,4.2,2.2,8.0,45.0,Data Analyst,
+6775.0,Bahar Infocons,Data Analyst,1.0,2.2,1.4,3.1,45.0,Data Analyst,Junior
+6616.0,Axis Bank,Data Analyst,0.0,8.2,4.0,14.0,45.0,Data Analyst,
+4686.0,Freelancer.com,Data Analyst,1.0,3.7,1.5,7.0,45.0,Data Analyst,Junior
+6510.0,Virtusa Consulting Services,Data Analyst,1.0,4.2,2.2,8.8,44.0,Data Analyst,Junior
+2584.0,Aon,Data Analyst,0.0,4.6,2.9,8.5,43.0,Data Analyst,
+3365.0,Conduent,Data Analyst,1.0,3.9,1.6,6.4,42.0,Data Analyst,Junior
+1396.0,Schneider Electric,Data Analyst,1.0,6.3,3.0,12.1,42.0,Data Analyst,Junior
+5831.0,Citibank,Data Analyst,0.0,10.4,4.1,15.8,42.0,Data Analyst,
+7248.0,Sphera Solutions,Data Analyst,0.0,3.4,3.2,3.8,42.0,Data Analyst,
+5005.0,Systech Solutions,Data Analyst,0.0,4.7,3.8,7.5,41.0,Data Analyst,
+6589.0,Ford Motor,Data Analyst,1.0,9.6,5.0,13.1,41.0,Data Analyst,Junior
+6564.0,First Source,Data Analyst,1.0,2.7,1.5,4.9,40.0,Data Analyst,Junior
+6582.0,S&P Global Market Intelligence,Data Analyst,1.0,4.1,3.0,6.1,40.0,Data Analyst,Junior
+5579.0,UST,Data Analyst,2.0,7.4,3.8,12.0,40.0,Data Analyst,Junior
+4728.0,SG Analytics,Data Analyst,1.0,4.6,3.0,6.3,39.0,Data Analyst,Junior
+3255.0,Indegene,Data Analyst,1.0,9.0,7.5,10.9,38.0,Data Analyst,Junior
+5864.0,Cisco Systems,Data Analyst,3.0,9.0,4.0,21.7,38.0,Data Analyst,Mid
+6388.0,Huawei Technologies,Data Analyst,2.0,4.3,3.3,5.8,38.0,Data Analyst,Junior
+6701.0,Data Entry,Data Analyst,0.0,2.1,1.2020000000000002,3.4,38.0,Data Analyst,
+6586.0,Shell,Data Analyst,2.0,13.3,6.0,21.7,37.0,Data Analyst,Junior
+6619.0,Harman Connected Services,Data Analyst,2.0,6.0,3.5,12.6,37.0,Data Analyst,Junior
+1330.0,Johnson & Johnson,Data Analyst,1.0,5.0,3.0,10.5,37.0,Data Analyst,Junior
+6816.0,InSync Analytics,Data Analyst,1.0,2.5,1.9,3.3,37.0,Data Analyst,Junior
+1981.0,Larsen & Toubro Limited,Data Analyst,1.0,5.0,2.0,9.0,37.0,Data Analyst,Junior
+4580.0,Yardi Systems,Data Analyst,2.0,3.7,2.7,4.6,36.0,Data Analyst,Junior
+8679.0,Freelance Consultants,Data Analyst,1.0,3.8,1.8,6.1,36.0,Data Analyst,Junior
+5865.0,Brillio,Data Analyst,0.0,5.8,4.0,11.0,36.0,Data Analyst,
+8908.0,Yodlee,Data Analyst,1.0,5.5,3.9,8.6,35.0,Data Analyst,Junior
+8921.0,ABC,Data Analyst,1.0,9.6,3.0,24.0,35.0,Data Analyst,Junior
+2886.0,JLL,Data Analyst,1.0,5.4,3.5,9.2,35.0,Data Analyst,Junior
+4670.0,Sapient Corporation,Data Analyst,2.0,7.9,5.0,12.0,35.0,Data Analyst,Junior
+2895.0,ZS,Data Analyst,1.0,10.6,7.0,16.0,35.0,Data Analyst,Junior
+7987.0,Uber,Data Analyst,1.0,13.0,6.5,30.0,35.0,Data Analyst,Junior
+6360.0,Numeratr,Data Analyst,0.0,3.0,2.0,4.4,35.0,Data Analyst,
+5656.0,Yukthi Datasoft,Data Analyst,1.0,2.1,1.5,3.0,34.0,Data Analyst,Junior
+8307.0,Infosys BPM,Data Analyst,1.0,3.8,2.1,7.8,34.0,Data Analyst,Junior
+5134.0,Hexaware Technologies,Data Analyst,1.0,6.4,1.2020000000000002,14.0,33.0,Data Analyst,Junior
+6855.0,Ganit Business Solutions,Data Analyst,0.0,6.0,6.0,6.0,33.0,Data Analyst,
+3763.0,Fractal Analytics,Data Analyst,1.0,9.9,4.9,17.5,33.0,Data Analyst,Junior
+6545.0,CAMP Systems,Data Analyst,1.0,3.8,3.0,4.6,32.0,Data Analyst,Junior
+1608.0,Indium Software,Data Analyst,0.0,7.0,4.0,11.0,32.0,Data Analyst,
+6180.0,Data Gyan,Data Analyst,0.0,2.1,1.5,3.0,32.0,Data Analyst,
+7886.0,Randstad,Data Analyst,1.0,4.2,2.5,8.0,31.0,Data Analyst,Junior
+8564.0,Epsilon,Data Analyst,1.0,9.9,5.5,16.1,31.0,Data Analyst,Junior
+8288.0,N+A,Data Analyst,0.0,3.7,2.1,6.0,31.0,Data Analyst,
+4018.0,The Smart Cube,Data Analyst,0.0,7.7,6.3,9.0,31.0,Data Analyst,
+1826.0,Dataction Analytics,Data Analyst,0.0,2.6,1.9,3.5,31.0,Data Analyst,
+7748.0,TSWRDC WOMEN'S DEGREE COLLEGE,Data Analyst,0.0,2.5,2.0,3.5,31.0,Data Analyst,
+2819.0,LiquidHub,Data Analyst,0.0,2.6,1.4,5.0,30.0,Data Analyst,
+6902.0,Sutherland Global Services,Data Analyst,1.0,4.8,2.8,7.3,30.0,Data Analyst,Junior
+3067.0,ValueLabs,Data Analyst,1.0,5.1,2.4,13.8,30.0,Data Analyst,Junior
+1755.0,HCL Technologies BPO Services,Data Analyst,1.0,2.9,1.9,5.0,30.0,Data Analyst,Junior
+1130.0,HUDL,Data Analyst,0.0,2.9,2.0,3.8,30.0,Data Analyst,
+8971.0,Mercedes-Benz Research & Development India,Data Analyst,1.0,10.2,7.5,15.0,30.0,Data Analyst,Junior
+3174.0,Whitehat jr,Data Analyst,1.0,5.9,4.3,8.0,30.0,Data Analyst,Junior
+3254.0,Caterpillar Inc,Data Analyst,1.0,6.2,3.6,10.5,29.0,Data Analyst,Junior
+8159.0,General Mills,Data Analyst,0.0,7.0,5.3,9.2,29.0,Data Analyst,
+1298.0,BYJU'S,Data Analyst,1.0,7.0,5.0,15.4,29.0,Data Analyst,Junior
+8425.0,Hinduja Global Solutions,Data Analyst,1.0,3.7,2.0,6.5,29.0,Data Analyst,Junior
+8410.0,Mercer,Data Analyst,0.0,4.8,2.3,8.5,29.0,Data Analyst,
+8838.0,Bridgei2i Analytics Solutions,Data Analyst,0.0,5.3,4.5,7.8,29.0,Data Analyst,
+4586.0,Annalect,Data Analyst,0.0,5.6,3.6,7.5,29.0,Data Analyst,
+8212.0,Verizon,Data Analyst,1.0,11.4,6.4,17.8,28.0,Data Analyst,Junior
+6087.0,McKinsey & Company,Data Analyst,1.0,15.3,9.0,20.0,28.0,Data Analyst,Junior
+6301.0,ITC Infotech India,Data Analyst,0.0,7.9,3.7,16.0,28.0,Data Analyst,
+6455.0,Vaco Binary Semantics,Data Analyst,0.0,3.7,2.4,6.0,28.0,Data Analyst,
+4568.0,FedEx Express,Data Analyst,0.0,7.4,3.3,12.0,28.0,Data Analyst,
+8142.0,Galytix Analytics,Data Analyst,0.0,6.0,6.0,6.0,28.0,Data Analyst,
+3409.0,VeeTechnologies,Data Analyst,1.0,2.1,1.2020000000000002,3.0,28.0,Data Analyst,Junior
+3897.0,APA Engineering,Data Analyst,0.0,2.1,1.5,3.1,27.0,Data Analyst,
+3711.0,Tesco,Data Analyst,1.0,5.5,3.9,8.9,27.0,Data Analyst,Junior
+7589.0,UBS,Data Analyst,1.0,9.4,6.0,15.5,27.0,Data Analyst,Junior
+8738.0,BCG,Data Analyst,2.0,11.9,6.0,19.4,27.0,Data Analyst,Junior
+4827.0,Reliance Industries,Data Analyst,1.0,6.3,2.2,9.0,26.0,Data Analyst,Junior
+7494.0,Collegedunia,Data Analyst,1.0,4.0,3.0,5.4,26.0,Data Analyst,Junior
+5794.0,Thomson Reuters,Data Analyst,1.0,4.1,2.1,6.9,26.0,Data Analyst,Junior
+7130.0,Tata Communications,Data Analyst,0.0,3.9,2.1,5.1,26.0,Data Analyst,
+6799.0,Cerner,Data Analyst,1.0,7.3,5.2,10.5,26.0,Data Analyst,Junior
+6934.0,Sandcube Analytics,Data Analyst,0.0,2.3,1.2020000000000002,3.6,26.0,Data Analyst,
+5734.0,Bank of America,Data Analyst,2.0,13.9,5.5,20.0,26.0,Data Analyst,Junior
+3953.0,Stats Systems India,Data Analyst,0.0,2.1,1.5,3.1,26.0,Data Analyst,
+5479.0,Objectways Technologies,Data Analyst,0.0,2.1,1.2020000000000002,3.0,26.0,Data Analyst,
+2634.0,Target,Data Analyst,1.0,8.8,2.9,13.0,25.0,Data Analyst,Junior
+2135.0,PayPal,Data Analyst,1.0,17.2,8.0,30.0,25.0,Data Analyst,Junior
+2650.0,NISC Export Services,Data Analyst,1.0,3.2,2.3,5.0,25.0,Data Analyst,Junior
+2214.0,ANZ Banking Group,Data Analyst,2.0,9.8,4.4,15.6,25.0,Data Analyst,Junior
+1609.0,Hive,Data Analyst,0.0,4.2,3.5,5.8,25.0,Data Analyst,
+5913.0,Crif High Mark Credit Information Services,Data Analyst,2.0,5.5,3.8,8.0,25.0,Data Analyst,Junior
+4584.0,Pacecom Technologies,Data Analyst,0.0,2.1,2.0,3.0,25.0,Data Analyst,
+5403.0,TCS,Data Engineer,1.0,5.8,3.9,10.1,819.0,Data Engineer,Junior
+5985.0,IBM,Data Engineer,1.0,10.4,4.8,18.0,727.0,Data Engineer,Junior
+6440.0,L&T Infotech,Data Engineer,1.0,5.7,4.1,9.0,420.0,Data Engineer,Junior
+1403.0,Accenture,Data Engineer,1.0,9.0,5.0,16.8,332.0,Data Engineer,Junior
+8967.0,Cognizant,Data Engineer,1.0,7.5,4.5,13.3,292.0,Data Engineer,Junior
+3793.0,EC-Mobility,Data Engineer,1.0,2.1,1.8,3.0,259.0,Data Engineer,Junior
+4299.0,Capgemini,Data Engineer,1.0,7.4,4.0,13.5,231.0,Data Engineer,Junior
+8920.0,Infosys,Data Engineer,1.0,5.5,3.6,10.0,196.0,Data Engineer,Junior
+8265.0,Fractal Analytics,Data Engineer,2.0,11.8,8.0,18.0,184.0,Data Engineer,Junior
+2453.0,Wipro,Data Engineer,1.0,6.6,4.0,14.5,175.0,Data Engineer,Junior
+4338.0,Amazon,Data Engineer,2.0,22.0,11.0,40.0,166.0,Data Engineer,Junior
+1944.0,Quantiphi Analytics Solutions,Data Engineer,0.0,10.4,6.5,15.0,140.0,Data Engineer,
+5805.0,Tech Mahindra,Data Engineer,2.0,6.5,4.2,13.0,130.0,Data Engineer,Junior
+4495.0,Mindtree,Data Engineer,1.0,6.0,3.9,9.9,124.0,Data Engineer,Junior
+4021.0,DXC Technology,Data Engineer,1.0,6.6,3.8,12.0,122.0,Data Engineer,Junior
+7790.0,Deloitte,Data Engineer,1.0,11.8,6.0,18.0,116.0,Data Engineer,Junior
+5491.0,Walmart,Data Engineer,3.0,22.1,15.0,31.9,88.0,Data Engineer,Mid
+8350.0,Optum,Data Engineer,2.0,11.1,7.9,16.8,80.0,Data Engineer,Junior
+4667.0,Shell,Data Engineer,1.0,17.2,8.0,24.0,79.0,Data Engineer,Junior
+1550.0,HCL Technologies,Data Engineer,1.0,9.0,3.5,18.0,79.0,Data Engineer,Junior
+2614.0,Futurense Technologies,Data Engineer,1.0,9.5,7.0,12.0,72.0,Data Engineer,Junior
+5818.0,Tiger Analytics,Data Engineer,1.0,14.0,7.0,21.0,69.0,Data Engineer,Junior
+3148.0,Teradata,Data Engineer,3.0,13.6,8.8,17.5,68.0,Data Engineer,Mid
+1885.0,Altimetrik,Data Engineer,1.0,12.6,6.5,22.0,59.0,Data Engineer,Junior
+4189.0,Ernst & Young,Data Engineer,2.0,12.8,5.2,20.0,59.0,Data Engineer,Junior
+3776.0,Maersk,Data Engineer,2.0,17.0,7.8,27.8,55.0,Data Engineer,Junior
+2933.0,UnitedHealth,Data Engineer,2.0,10.3,6.3,17.3,53.0,Data Engineer,Junior
+5233.0,Genpact,Data Engineer,1.0,6.8,3.2,14.0,47.0,Data Engineer,Junior
+6910.0,PayPal,Data Engineer,4.0,21.6,12.8,31.0,44.0,Data Engineer,Mid
+6103.0,Enquero,Data Engineer,1.0,9.5,6.2,15.0,41.0,Data Engineer,Junior
+4869.0,DataMetica,Data Engineer,0.0,6.4,4.0,10.7,41.0,Data Engineer,
+2846.0,Ericsson,Data Engineer,2.0,10.6,5.3,17.5,40.0,Data Engineer,Junior
+1308.0,GE,Data Engineer,3.0,12.8,9.6,16.0,39.0,Data Engineer,Mid
+8734.0,Target,Data Engineer,0.0,12.9,10.0,17.7,38.0,Data Engineer,
+6343.0,Brillio,Data Engineer,0.0,7.7,4.5,13.3,38.0,Data Engineer,
+6891.0,ZS,Data Engineer,1.0,11.7,9.0,16.0,37.0,Data Engineer,Junior
+2537.0,Hewlett-Packard Enterprise,Data Engineer,2.0,8.4,4.5,18.0,36.0,Data Engineer,Junior
+2809.0,Reliance jio,Data Engineer,1.0,8.2,4.5,13.0,35.0,Data Engineer,Junior
+5224.0,Sapient Corporation,Data Engineer,2.0,13.5,9.2,17.0,34.0,Data Engineer,Junior
+8736.0,Larsen & Toubro Limited,Data Engineer,1.0,5.8,4.0,10.5,34.0,Data Engineer,Junior
+2516.0,JP Morgan Chase,Data Engineer,4.0,18.7,8.0,29.0,32.0,Data Engineer,Mid
+5049.0,Societe Generale,Data Engineer,2.0,16.8,9.6,23.0,31.0,Data Engineer,Junior
+3209.0,Bajaj Finserv,Data Engineer,0.0,10.9,8.0,12.5,30.0,Data Engineer,
+4795.0,Bharti Airtel,Data Engineer,2.0,4.0,3.0,7.5,30.0,Data Engineer,Junior
+1567.0,Bank of America,Data Engineer,2.0,15.1,8.1,22.0,30.0,Data Engineer,Junior
+2911.0,Mphasis,Data Engineer,1.0,10.1,4.2,19.0,30.0,Data Engineer,Junior
+8199.0,Fragma Data Systems,Data Engineer,0.0,5.5,3.5,11.9,30.0,Data Engineer,
+5796.0,NTT DATA,Data Engineer,2.0,10.4,4.1,25.0,29.0,Data Engineer,Junior
+7031.0,PwC,Data Engineer,1.0,10.0,5.5,16.5,29.0,Data Engineer,Junior
+4222.0,KPMG,Data Engineer,2.0,12.3,7.0,18.0,28.0,Data Engineer,Junior
+7442.0,UST,Data Engineer,1.0,9.8,3.5,17.0,27.0,Data Engineer,Junior
+6201.0,Virtusa Consulting Services,Data Engineer,1.0,9.0,4.2,20.0,27.0,Data Engineer,Junior
+2469.0,DBS Bank,Data Engineer,2.0,13.6,9.1,24.0,27.0,Data Engineer,Junior
+6026.0,Koch Business Solutions,Data Engineer,4.0,23.6,12.0,34.0,27.0,Data Engineer,Mid
+7134.0,Lowe's,Data Engineer,1.0,12.1,10.0,14.3,26.0,Data Engineer,Junior
+1593.0,BA Continuum,Data Engineer,4.0,16.5,12.0,22.8,26.0,Data Engineer,Mid
+1677.0,Dell,Data Engineer,1.0,12.8,5.5,20.0,26.0,Data Engineer,Junior
+2478.0,Data Semantics,Data Engineer,3.0,8.9,4.5,15.5,25.0,Data Engineer,Mid
+4168.0,BlazeClan Technologies,Data Engineer,0.0,5.5,3.2,9.6,24.0,Data Engineer,
+1045.0,Microsoft Corporation,Data Engineer,3.0,25.1,13.0,40.1,24.0,Data Engineer,Mid
+6418.0,DataWeave,Data Engineer,1.0,8.2,5.5,12.0,23.0,Data Engineer,Junior
+6158.0,Celebal Technologies,Data Engineer,0.0,5.5,4.5,10.0,23.0,Data Engineer,
+8377.0,SpringML,Data Engineer,1.0,9.7,5.5,14.0,23.0,Data Engineer,Junior
+6914.0,TEKsystems,Data Engineer,1.0,9.7,6.0,18.0,23.0,Data Engineer,Junior
+6104.0,NatWest Group,Data Engineer,2.0,20.4,11.1,32.0,23.0,Data Engineer,Junior
+4956.0,Saama Technologies,Data Engineer,2.0,9.7,6.0,14.5,22.0,Data Engineer,Junior
+5474.0,GE Aviation,Data Engineer,2.0,12.2,9.0,16.0,22.0,Data Engineer,Junior
+8043.0,Affine Analytics,Data Engineer,0.0,7.7,6.0,12.0,22.0,Data Engineer,
+6322.0,Wells Fargo India,Data Engineer,3.0,15.2,10.1,22.0,21.0,Data Engineer,Mid
+6759.0,EXL Service,Data Engineer,2.0,10.3,6.0,14.1,20.0,Data Engineer,Junior
+8459.0,McKinsey & Company,Data Engineer,2.0,18.5,10.0,25.0,20.0,Data Engineer,Junior
+2298.0,Cisco Systems,Data Engineer,3.0,19.3,12.0,28.0,20.0,Data Engineer,Mid
+8618.0,IDFC FIRST Bank,Data Engineer,1.0,15.4,8.5,21.9,20.0,Data Engineer,Junior
+4803.0,ValueLabs,Data Engineer,1.0,10.3,5.0,23.5,20.0,Data Engineer,Junior
+3443.0,Paytm,Data Engineer,2.0,13.9,5.8,23.0,20.0,Data Engineer,Junior
+7148.0,Blackbuck Insights,Data Engineer,0.0,4.2,2.5,8.5,20.0,Data Engineer,
+7078.0,Lumen Technologies,Data Engineer,1.0,6.6,4.5,9.2,20.0,Data Engineer,Junior
+7409.0,Micron Technology,Data Engineer,3.0,12.9,8.4,18.0,20.0,Data Engineer,Mid
+7952.0,GE Healthcare,Data Engineer,3.0,12.3,10.0,17.0,19.0,Data Engineer,Mid
+2176.0,IQVIA,Data Engineer,2.0,10.5,5.5,15.0,19.0,Data Engineer,Junior
+3333.0,SG Analytics,Data Engineer,0.0,7.3,5.2,12.0,19.0,Data Engineer,
+7965.0,Wavicle Data Solutions,Data Engineer,2.0,5.1,3.5,7.2,19.0,Data Engineer,Junior
+8186.0,Mercedes-Benz Research & Development India,Data Engineer,1.0,13.1,7.0,19.0,19.0,Data Engineer,Junior
+6312.0,LatentView Analytics,Data Engineer,0.0,7.2,5.3,12.0,19.0,Data Engineer,
+4369.0,Schlumberger,Data Engineer,2.0,13.7,6.5,22.5,19.0,Data Engineer,Junior
+2757.0,Adobe,Data Engineer,3.0,23.7,14.0,34.0,18.0,Data Engineer,Mid
+7274.0,Commonwealth Bank of Australia,Data Engineer,2.0,19.9,9.9,28.8,18.0,Data Engineer,Junior
+4142.0,NCR Corporation,Data Engineer,1.0,9.5,6.2,13.5,18.0,Data Engineer,Junior
+8181.0,ITC Infotech India,Data Engineer,1.0,6.8,4.1,13.0,18.0,Data Engineer,Junior
+6615.0,Novartis Healthcare,Data Engineer,2.0,15.0,9.5,19.5,18.0,Data Engineer,Junior
+4764.0,Legato Health Technologies,Data Engineer,2.0,10.8,8.3,13.5,18.0,Data Engineer,Junior
+4104.0,Honeywell Technology Solutions,Data Engineer,0.0,11.2,5.0,26.0,17.0,Data Engineer,
+1687.0,Hexaware Technologies,Data Engineer,1.0,11.7,3.5,23.5,17.0,Data Engineer,Junior
+8621.0,Impetus Technologies,Data Engineer,1.0,13.1,11.5,16.0,17.0,Data Engineer,Junior
+5920.0,Bridgei2i Analytics Solutions,Data Engineer,0.0,6.7,5.0,10.0,17.0,Data Engineer,
+7597.0,Verizon,Data Engineer,1.0,10.5,5.6,15.5,16.0,Data Engineer,Junior
+8623.0,Systech Solutions,Data Engineer,0.0,4.1,3.3,4.5,16.0,Data Engineer,
+1809.0,Ab Inbev,Data Engineer,4.0,16.5,8.2,24.0,16.0,Data Engineer,Mid
+5226.0,Neal Analytics,Data Engineer,1.0,10.5,6.8,16.0,16.0,Data Engineer,Junior
+8074.0,TheMathCompany,Data Engineer,2.0,9.3,7.0,13.2,16.0,Data Engineer,Junior
+8440.0,Atos Syntel,Data Engineer,2.0,7.3,3.8,12.0,16.0,Data Engineer,Junior
+5617.0,Lumiq.ai,Data Engineer,0.0,8.1,6.0,9.5,16.0,Data Engineer,
+2078.0,Axis Bank,Data Engineer,0.0,11.1,7.7,14.7,16.0,Data Engineer,
+4409.0,Google,Data Engineer,3.0,36.599000000000004,16.5,51.0,16.0,Data Engineer,Mid
+7858.0,Maersk Line,Data Engineer,2.0,12.8,8.0,21.0,15.0,Data Engineer,Junior
+5289.0,AstraZeneca,Data Engineer,1.0,9.3,6.8,13.5,15.0,Data Engineer,Junior
+2629.0,Amdocs,Data Engineer,0.0,8.9,6.1,13.0,15.0,Data Engineer,
+5215.0,MasterCard,Data Engineer,0.0,15.1,13.0,18.0,15.0,Data Engineer,
+3322.0,Morgan Stanley,Data Engineer,3.0,20.5,11.0,26.0,14.0,Data Engineer,Mid
+3308.0,Tavant Technologies,Data Engineer,1.0,10.1,5.8,20.0,14.0,Data Engineer,Junior
+3842.0,Flipkart,Data Engineer,2.0,17.5,9.5,25.0,14.0,Data Engineer,Junior
+3417.0,Michelin,Data Engineer,0.0,9.8,7.7,11.3,14.0,Data Engineer,
+4914.0,Concentrix Corporation,Data Engineer,1.0,3.7,2.6,4.5,14.0,Data Engineer,Junior
+7726.0,Siemens,Data Engineer,1.0,12.9,6.8,16.0,14.0,Data Engineer,Junior
+8755.0,Mu Sigma,Data Engineer,1.0,8.4,5.5,12.0,13.0,Data Engineer,Junior
+2147.0,Expedia,Data Engineer,4.0,27.6,20.0,40.0,13.0,Data Engineer,Mid
+2567.0,Decision Point,Data Engineer,0.0,5.9,4.8,7.0,13.0,Data Engineer,
+8059.0,Adidas,Data Engineer,1.0,23.0,14.5,34.0,13.0,Data Engineer,Junior
+5990.0,Nokia,Data Engineer,1.0,10.7,3.6,24.5,13.0,Data Engineer,Junior
+5708.0,Oil Field Instrumentation,Data Engineer,6.0,6.9,1.2020000000000002,11.1,13.0,Data Engineer,Senior
+5566.0,Atos,Data Engineer,2.0,8.5,3.7,17.8,13.0,Data Engineer,Junior
+5427.0,Bitwise Solutions,Data Engineer,0.0,6.1,3.8,9.0,13.0,Data Engineer,
+8208.0,Ford Motor,Data Engineer,0.0,10.1,5.7,15.9,13.0,Data Engineer,
+4158.0,Persistent Systems,Data Engineer,1.0,11.6,4.2,20.4,13.0,Data Engineer,Junior
+3401.0,Indium Software,Data Engineer,0.0,6.8,3.6,11.5,13.0,Data Engineer,
+8353.0,Citicorp,Data Engineer,2.0,17.9,13.5,20.0,13.0,Data Engineer,Junior
+5406.0,The Data Team,Data Engineer,1.0,11.5,8.5,15.0,13.0,Data Engineer,Junior
+2086.0,Cittabase Solutions,Data Engineer,3.0,7.9,5.0,10.3,13.0,Data Engineer,Mid
+3700.0,NIKE,Data Engineer,3.0,21.3,14.1,29.0,13.0,Data Engineer,Mid
+1105.0,Kyndryl,Data Engineer,2.0,12.8,8.5,16.0,13.0,Data Engineer,Junior
+2377.0,Dunnhumby,Data Engineer,1.0,12.3,8.7,18.5,12.0,Data Engineer,Junior
+7558.0,Advance Auto Parts,Data Engineer,3.0,13.3,10.2,15.5,12.0,Data Engineer,Mid
+1092.0,Rackspace,Data Engineer,3.0,16.3,11.0,21.6,12.0,Data Engineer,Mid
+3271.0,Tredence,Data Engineer,2.0,11.4,7.0,16.0,12.0,Data Engineer,Junior
+4433.0,Expert Global Solutions,Data Engineer,0.0,2.1,1.2020000000000002,3.1,12.0,Data Engineer,
+2256.0,Cerner,Data Engineer,2.0,9.9,6.0,14.0,12.0,Data Engineer,Junior
+3995.0,Searce Cosourcing Services,Data Engineer,1.0,7.4,5.0,12.5,12.0,Data Engineer,Junior
+7725.0,Eli Lilly and Company,Data Engineer,3.0,18.4,16.0,22.0,12.0,Data Engineer,Mid
+4723.0,ValueMomentum,Data Engineer,1.0,10.6,4.5,21.3,12.0,Data Engineer,Junior
+4253.0,InfoStretch,Data Engineer,1.0,10.5,4.2,18.0,12.0,Data Engineer,Junior
+4383.0,Nagarro,Data Engineer,2.0,13.1,7.0,25.0,12.0,Data Engineer,Junior
+3800.0,KPI Partners,Data Engineer,1.0,12.0,5.0,22.0,12.0,Data Engineer,Junior
+6560.0,HSBC,Data Engineer,1.0,9.7,6.5,18.0,12.0,Data Engineer,Junior
+4334.0,Bosch Global Software Technologies,Data Engineer,1.0,7.1,3.8,14.0,11.0,Data Engineer,Junior
+5251.0,Axtria,Data Engineer,1.0,11.4,7.5,15.3,11.0,Data Engineer,Junior
+8444.0,Visa,Data Engineer,1.0,28.7,16.5,37.0,11.0,Data Engineer,Junior
+2213.0,Happiest Minds Technologies,Data Engineer,0.0,8.0,4.0,14.8,11.0,Data Engineer,
+4178.0,BYJU'S,Data Engineer,1.0,9.7,4.5,19.5,11.0,Data Engineer,Junior
+4306.0,Yash Technologies,Data Engineer,0.0,5.3,3.2,8.0,11.0,Data Engineer,
+5751.0,GE Digital,Data Engineer,4.0,12.6,8.3,18.3,11.0,Data Engineer,Mid
+4373.0,GSK Pharmaceuticals,Data Engineer,5.0,23.1,19.0,27.0,11.0,Data Engineer,Mid
+3072.0,Rakuten,Data Engineer,0.0,13.3,8.5,18.5,11.0,Data Engineer,
+8897.0,InnovAccer,Data Engineer,1.0,8.2,5.0,15.0,11.0,Data Engineer,Junior
+7854.0,nThrive Global Solutions,Data Engineer,2.0,11.8,7.8,17.6,11.0,Data Engineer,Junior
+7944.0,AI Touch,Data Engineer,0.0,2.3,2.0,3.0,11.0,Data Engineer,
+8022.0,Autodesk,Data Engineer,0.0,26.5,6.4,40.0,11.0,Data Engineer,
+6985.0,Knoema IT Solutions,Data Engineer,0.0,3.3,2.0,4.1,11.0,Data Engineer,
+5736.0,Ecolab Digital Center,Data Engineer,2.0,11.5,8.5,18.0,11.0,Data Engineer,Junior
+7251.0,Apple,Data Engineer,3.0,25.0,17.0,35.0,11.0,Data Engineer,Mid
+6029.0,AVASOFT,Data Engineer,0.0,4.0,3.5,4.9,10.0,Data Engineer,
+8998.0,i2e Consulting,Data Engineer,2.0,13.1,9.0,16.5,10.0,Data Engineer,Junior
+2834.0,Birlasoft,Data Engineer,2.0,11.1,5.2,20.1,10.0,Data Engineer,Junior
+5859.0,EPAM Systems,Data Engineer,4.0,17.3,8.8,24.0,10.0,Data Engineer,Mid
+5390.0,Xyz Company,Data Engineer,1.0,12.3,6.0,21.0,10.0,Data Engineer,Junior
+2744.0,Colgate Palmolive,Data Engineer,1.0,10.7,6.0,15.0,10.0,Data Engineer,Junior
+7828.0,BCG,Data Engineer,2.0,17.2,14.5,19.5,10.0,Data Engineer,Junior
+5835.0,Apisero,Data Engineer,1.0,13.5,8.0,18.0,10.0,Data Engineer,Junior
+5599.0,Fidelity Investment,Data Engineer,1.0,13.3,11.0,16.7,10.0,Data Engineer,Junior
+7336.0,Oracle,Data Engineer,2.0,14.6,7.0,25.0,10.0,Data Engineer,Junior
+2072.0,Accion Labs,Data Engineer,3.0,18.1,8.0,30.0,9.0,Data Engineer,Mid
+5169.0,Dun & Bradstreet,Data Engineer,3.0,11.4,8.6,15.4,9.0,Data Engineer,Mid
+6912.0,Webhelp,Data Engineer,3.0,10.7,8.5,14.0,9.0,Data Engineer,Mid
+5376.0,Ags Infotech,Data Engineer,2.0,5.0,4.4,5.5,9.0,Data Engineer,Junior
+6069.0,Synechron,Data Engineer,4.0,17.3,12.5,24.0,9.0,Data Engineer,Mid
+4641.0,GEP Worldwide,Data Engineer,2.0,13.0,10.1,15.0,9.0,Data Engineer,Junior
+4668.0,Principal Global Services,Data Engineer,1.0,10.2,9.5,11.1,9.0,Data Engineer,Junior
+3137.0,Algonomy,Data Engineer,1.0,7.5,5.0,13.6,9.0,Data Engineer,Junior
+5165.0,Sigmoid Analytics,Data Engineer,1.0,15.0,12.8,18.5,9.0,Data Engineer,Junior
+5935.0,Vodafone Idea,Data Engineer,1.0,11.2,2.1,18.0,9.0,Data Engineer,Junior
+5048.0,Clairvoyant India,Data Engineer,2.0,10.5,5.0,17.0,9.0,Data Engineer,Junior
+7774.0,Aktrix Technologies,Data Engineer,0.0,4.1,3.0,5.5,9.0,Data Engineer,
+6283.0,ThoughtWorks,Data Engineer,1.0,15.7,10.0,19.4,9.0,Data Engineer,Junior
+8752.0,DUNNHUMBY IT SERVICES INDIA,Data Engineer,1.0,11.9,9.0,14.9,9.0,Data Engineer,Junior
+8937.0,Baker Hughes,Data Engineer,3.0,14.8,12.0,16.5,9.0,Data Engineer,Mid
+1144.0,Denodo Technologies,Data Engineer,0.0,8.0,6.0,10.5,9.0,Data Engineer,
+8625.0,Hashedin By Deloitte,Data Engineer,2.0,15.0,11.1,19.0,9.0,Data Engineer,Junior
+5240.0,Red Hat,Data Engineer,2.0,12.4,4.5,17.6,8.0,Data Engineer,Junior
+3833.0,HDFC Bank,Data Engineer,2.0,9.0,6.5,12.5,8.0,Data Engineer,Junior
+4637.0,Accenture,Senior Data Scientist,3.0,18.9,10.5,30.5,80.0,Senior Data Scientist,Mid
+6847.0,TCS,Senior Data Scientist,4.0,16.7,8.6,30.0,79.0,Senior Data Scientist,Mid
+8996.0,Cognizant,Senior Data Scientist,4.0,17.9,12.0,25.2,57.0,Senior Data Scientist,Mid
+5663.0,Fractal Analytics,Senior Data Scientist,4.0,25.6,18.0,32.0,47.0,Senior Data Scientist,Mid
+6528.0,Ab Inbev,Senior Data Scientist,3.0,28.0,22.0,35.0,44.0,Senior Data Scientist,Mid
+1748.0,Wipro,Senior Data Scientist,4.0,16.1,8.0,30.0,43.0,Senior Data Scientist,Mid
+6043.0,Deloitte,Senior Data Scientist,5.0,21.2,14.0,35.0,42.0,Senior Data Scientist,Mid
+6193.0,Walmart,Senior Data Scientist,5.0,36.599000000000004,27.0,51.0,32.0,Senior Data Scientist,Mid
+2608.0,Amazon,Senior Data Scientist,5.0,36.599000000000004,26.0,51.0,30.0,Senior Data Scientist,Mid
+3673.0,UnitedHealth,Senior Data Scientist,4.0,23.0,15.6,30.5,30.0,Senior Data Scientist,Mid
+4333.0,Ernst & Young,Senior Data Scientist,4.0,21.4,15.0,30.0,29.0,Senior Data Scientist,Mid
+2627.0,Optum,Senior Data Scientist,5.0,26.2,18.0,36.0,28.0,Senior Data Scientist,Mid
+3051.0,Impact Analytics,Senior Data Scientist,2.0,13.4,9.0,19.0,28.0,Senior Data Scientist,Junior
+1513.0,Incedo,Senior Data Scientist,3.0,18.9,15.0,25.0,26.0,Senior Data Scientist,Mid
+5422.0,IBM,Senior Data Scientist,5.0,24.4,14.0,36.0,25.0,Senior Data Scientist,Mid
+2450.0,Target,Senior Data Scientist,2.0,23.8,15.5,30.0,25.0,Senior Data Scientist,Junior
+7062.0,Infosys,Senior Data Scientist,4.0,18.1,9.0,30.0,25.0,Senior Data Scientist,Mid
+5031.0,TVS Credit Services,Senior Data Scientist,4.0,14.7,11.5,21.0,24.0,Senior Data Scientist,Mid
+6880.0,Ericsson,Senior Data Scientist,7.0,30.2,14.2,50.6,22.0,Senior Data Scientist,Senior
+4852.0,Microsoft Corporation,Senior Data Scientist,4.0,36.599000000000004,27.0,51.0,22.0,Senior Data Scientist,Mid
+2822.0,HCL Technologies,Senior Data Scientist,4.0,19.3,14.4,25.0,22.0,Senior Data Scientist,Mid
+1796.0,Capgemini,Senior Data Scientist,4.0,16.8,11.5,26.0,22.0,Senior Data Scientist,Mid
+4469.0,Dunnhumby,Senior Data Scientist,3.0,15.4,12.0,22.0,21.0,Senior Data Scientist,Mid
+1406.0,Birlasoft,Senior Data Scientist,3.0,14.3,8.0,22.3,20.0,Senior Data Scientist,Mid
+2826.0,Tech Mahindra,Senior Data Scientist,4.0,16.4,7.1,25.0,20.0,Senior Data Scientist,Mid
+5305.0,Affine Analytics,Senior Data Scientist,1.0,9.9,7.6,16.0,20.0,Senior Data Scientist,Junior
+4608.0,Wolters Kluwer,Senior Data Scientist,6.0,23.7,18.0,30.0,19.0,Senior Data Scientist,Senior
+1636.0,Harman Connected Services,Senior Data Scientist,4.0,16.0,11.5,22.0,19.0,Senior Data Scientist,Mid
+4035.0,L&T Infotech,Senior Data Scientist,2.0,20.0,12.3,28.0,19.0,Senior Data Scientist,Junior
+4536.0,Reliance jio,Senior Data Scientist,4.0,30.0,18.5,46.0,18.0,Senior Data Scientist,Mid
+7545.0,Sapient Corporation,Senior Data Scientist,2.0,21.1,14.2,28.5,18.0,Senior Data Scientist,Junior
+4871.0,Coforge,Senior Data Scientist,4.0,15.0,15.0,15.2,18.0,Senior Data Scientist,Mid
+3769.0,Lowe's,Senior Data Scientist,4.0,25.0,16.0,33.0,17.0,Senior Data Scientist,Mid
+5206.0,Blue Yonder,Senior Data Scientist,2.0,31.6,18.0,50.0,17.0,Senior Data Scientist,Junior
+2399.0,Bosch Global Software Technologies,Senior Data Scientist,2.0,24.1,16.1,30.0,16.0,Senior Data Scientist,Junior
+5977.0,Nielsen,Senior Data Scientist,2.0,9.9,7.9,13.7,16.0,Senior Data Scientist,Junior
+8313.0,Oracle,Senior Data Scientist,3.0,25.2,20.0,37.0,16.0,Senior Data Scientist,Mid
+1048.0,Happiest Minds Technologies,Senior Data Scientist,5.0,16.4,9.0,26.0,15.0,Senior Data Scientist,Mid
+6876.0,DXC Technology,Senior Data Scientist,7.0,17.1,11.0,25.0,15.0,Senior Data Scientist,Senior
+8746.0,PayPal,Senior Data Scientist,6.0,36.599000000000004,27.0,45.0,15.0,Senior Data Scientist,Senior
+3412.0,Citibank,Senior Data Scientist,4.0,22.8,16.0,30.0,15.0,Senior Data Scientist,Mid
+3232.0,Innominds Software,Senior Data Scientist,4.0,18.6,13.5,27.5,14.0,Senior Data Scientist,Mid
+7628.0,Bajaj Finserv,Senior Data Scientist,1.0,17.6,10.0,27.8,14.0,Senior Data Scientist,Junior
+6757.0,Honeywell Technology Solutions,Senior Data Scientist,2.0,18.4,10.0,35.0,14.0,Senior Data Scientist,Junior
+8691.0,eClerx,Senior Data Scientist,2.0,15.3,11.0,21.6,14.0,Senior Data Scientist,Junior
+2056.0,VMware Software,Senior Data Scientist,2.0,23.1,16.0,36.5,14.0,Senior Data Scientist,Junior
+3305.0,PwC,Senior Data Scientist,4.0,21.2,13.0,30.0,14.0,Senior Data Scientist,Mid
+3024.0,EXL Service,Senior Data Scientist,3.0,19.5,14.5,30.0,13.0,Senior Data Scientist,Mid
+6387.0,Mercedes-Benz Research & Development India,Senior Data Scientist,3.0,18.0,10.0,35.0,13.0,Senior Data Scientist,Mid
+3184.0,Mindtree,Senior Data Scientist,5.0,17.8,9.0,28.1,13.0,Senior Data Scientist,Mid
+2768.0,Wells Fargo India,Senior Data Scientist,5.0,23.1,14.0,30.0,13.0,Senior Data Scientist,Mid
+8216.0,Genpact,Senior Data Scientist,4.0,24.2,10.0,35.0,12.0,Senior Data Scientist,Mid
+7790.0,Course5,Senior Data Scientist,3.0,11.7,9.0,17.0,12.0,Senior Data Scientist,Mid
+6413.0,JP Morgan Chase,Senior Data Scientist,5.0,27.7,14.0,51.0,12.0,Senior Data Scientist,Mid
+5608.0,MasterCard,Senior Data Scientist,2.0,25.5,18.2,36.0,12.0,Senior Data Scientist,Junior
+3133.0,GE Healthcare,Senior Data Scientist,3.0,28.0,24.0,33.0,11.0,Senior Data Scientist,Mid
+6009.0,IHS Markit,Senior Data Scientist,5.0,22.5,16.0,29.0,11.0,Senior Data Scientist,Mid
+5677.0,NIIT Technologies,Senior Data Scientist,2.0,15.3,15.0,16.0,11.0,Senior Data Scientist,Junior
+8520.0,Gramener,Senior Data Scientist,2.0,14.4,10.0,20.8,11.0,Senior Data Scientist,Junior
+8214.0,Ford Motor,Senior Data Scientist,4.0,17.6,16.4,19.5,11.0,Senior Data Scientist,Mid
+5154.0,TheMathCompany,Senior Data Scientist,4.0,14.8,12.0,18.0,11.0,Senior Data Scientist,Mid
+8311.0,Legato Health Technologies,Senior Data Scientist,4.0,21.2,15.6,26.0,11.0,Senior Data Scientist,Mid
+4278.0,Dell,Senior Data Scientist,3.0,23.2,15.0,32.0,11.0,Senior Data Scientist,Mid
+7282.0,Great Learning,Senior Data Scientist,3.0,12.3,11.0,14.0,11.0,Senior Data Scientist,Mid
+1989.0,Morningstar,Senior Data Scientist,4.0,19.7,16.2,24.6,10.0,Senior Data Scientist,Mid
+8572.0,Hewlett-Packard Enterprise,Senior Data Scientist,3.0,20.7,17.0,30.0,10.0,Senior Data Scientist,Mid
+7915.0,Tredence,Senior Data Scientist,3.0,18.4,12.4,26.0,10.0,Senior Data Scientist,Mid
+1971.0,UST,Senior Data Scientist,3.0,12.1,10.3,16.0,10.0,Senior Data Scientist,Mid
+2856.0,ValueLabs,Senior Data Scientist,3.0,21.1,10.3,26.5,10.0,Senior Data Scientist,Mid
+8839.0,Novartis Healthcare,Senior Data Scientist,5.0,30.5,16.0,51.0,10.0,Senior Data Scientist,Mid
+7769.0,Vodafone Idea,Senior Data Scientist,4.0,22.7,13.1,32.7,10.0,Senior Data Scientist,Mid
+7832.0,Nagarro,Senior Data Scientist,2.0,18.0,14.3,25.0,10.0,Senior Data Scientist,Junior
+8202.0,HERE Technologies,Senior Data Scientist,6.0,27.1,22.5,30.0,9.0,Senior Data Scientist,Senior
+1426.0,Globant,Senior Data Scientist,2.0,17.8,13.0,26.0,9.0,Senior Data Scientist,Junior
+4581.0,Baker Hughes,Senior Data Scientist,3.0,27.4,23.0,32.0,9.0,Senior Data Scientist,Mid
+7782.0,Tiger Analytics,Senior Data Scientist,5.0,22.2,18.0,27.5,9.0,Senior Data Scientist,Mid
+6515.0,Epsilon,Senior Data Scientist,4.0,23.2,19.0,26.0,8.0,Senior Data Scientist,Mid
+7872.0,AntWorks,Senior Data Scientist,3.0,20.6,14.0,30.0,8.0,Senior Data Scientist,Mid
+5128.0,Altimetrik,Senior Data Scientist,4.0,18.3,12.0,26.0,8.0,Senior Data Scientist,Mid
+8414.0,Info Edge,Senior Data Scientist,1.0,30.9,21.0,37.0,8.0,Senior Data Scientist,Junior
+8715.0,Sigmoid Analytics,Senior Data Scientist,2.0,22.5,15.0,30.0,8.0,Senior Data Scientist,Junior
+4765.0,Eli Lilly and Company,Senior Data Scientist,4.0,26.8,22.5,32.0,8.0,Senior Data Scientist,Mid
+1857.0,Lam Research,Senior Data Scientist,3.0,16.5,13.9,20.0,8.0,Senior Data Scientist,Mid
+2400.0,GE Aviation,Senior Data Scientist,5.0,22.1,14.5,29.0,8.0,Senior Data Scientist,Mid
+5007.0,Iris Software,Senior Data Scientist,6.0,23.0,17.0,27.0,8.0,Senior Data Scientist,Senior
+1303.0,Claim Genius,Senior Data Scientist,3.0,21.4,18.4,27.0,8.0,Senior Data Scientist,Mid
+6735.0,ZS,Senior Data Scientist,1.0,18.0,14.5,24.0,8.0,Senior Data Scientist,Junior
+7619.0,Mphasis,Senior Data Scientist,2.0,13.3,11.0,15.4,8.0,Senior Data Scientist,Junior
+8261.0,NielsenIQ,Senior Data Scientist,3.0,8.7,8.0,9.4,8.0,Senior Data Scientist,Mid
+1570.0,Mu Sigma,Senior Data Scientist,3.0,14.5,12.3,15.0,7.0,Senior Data Scientist,Mid
+6276.0,BNY Mellon,Senior Data Scientist,1.0,16.9,5.2,25.0,7.0,Senior Data Scientist,Junior
+3583.0,Yash Technologies,Senior Data Scientist,5.0,18.4,12.1,23.5,7.0,Senior Data Scientist,Mid
+8310.0,Franklin Templeton Investments,Senior Data Scientist,7.0,27.3,22.0,32.0,7.0,Senior Data Scientist,Senior
+5918.0,Philips,Senior Data Scientist,5.0,22.6,19.0,25.9,7.0,Senior Data Scientist,Mid
+8828.0,DBS Bank,Senior Data Scientist,4.0,20.6,16.5,25.0,7.0,Senior Data Scientist,Mid
+5587.0,International School of Engineering,Senior Data Scientist,9.0,20.2,15.0,25.0,7.0,Senior Data Scientist,Senior
+4169.0,Johnson Controls,Senior Data Scientist,4.0,25.1,18.5,32.0,7.0,Senior Data Scientist,Mid
+1175.0,Bajaj Finance,Senior Data Scientist,1.0,20.0,16.0,30.0,7.0,Senior Data Scientist,Junior
+4121.0,Ganit Business Solutions,Senior Data Scientist,5.0,18.9,15.5,21.5,7.0,Senior Data Scientist,Mid
+2917.0,Xoriant,Senior Data Scientist,6.0,18.6,15.0,23.5,7.0,Senior Data Scientist,Senior
+1792.0,o9 Solutions,Senior Data Scientist,4.0,21.5,13.5,28.0,7.0,Senior Data Scientist,Mid
+8525.0,Verizon,Senior Data Scientist,7.0,26.7,11.0,37.0,6.0,Senior Data Scientist,Senior
+7251.0,Shell,Senior Data Scientist,6.0,29.8,22.0,35.5,6.0,Senior Data Scientist,Senior
+7877.0,Zensar Technologies,Senior Data Scientist,4.0,18.2,14.0,22.0,6.0,Senior Data Scientist,Mid
+3689.0,McKinsey & Company,Senior Data Scientist,6.0,18.2,1.2020000000000002,31.0,6.0,Senior Data Scientist,Senior
+6252.0,Apexon,Senior Data Scientist,4.0,10.3,9.0,11.1,6.0,Senior Data Scientist,Mid
+4268.0,GE,Senior Data Scientist,4.0,23.1,16.0,30.0,6.0,Senior Data Scientist,Mid
+5440.0,Johnson & Johnson,Senior Data Scientist,5.0,24.1,17.0,35.0,6.0,Senior Data Scientist,Mid
+1127.0,Cerner,Senior Data Scientist,6.0,28.9,23.7,35.8,6.0,Senior Data Scientist,Senior
+1233.0,Algonomy,Senior Data Scientist,2.0,28.3,23.0,32.0,6.0,Senior Data Scientist,Junior
+2330.0,Ecolab Food Safety & Hygiene Solutions,Senior Data Scientist,4.0,13.9,11.5,18.0,6.0,Senior Data Scientist,Mid
+6063.0,L&T Technology Services,Senior Data Scientist,4.0,15.2,9.0,24.0,6.0,Senior Data Scientist,Mid
+3956.0,American Express,Senior Data Scientist,3.0,23.3,22.0,25.1,6.0,Senior Data Scientist,Mid
+4716.0,Yum!,Senior Data Scientist,2.0,15.3,11.0,17.8,6.0,Senior Data Scientist,Junior
+8277.0,Indium Software,Senior Data Scientist,2.0,14.5,8.8,20.0,6.0,Senior Data Scientist,Junior
+6415.0,Cummins,Senior Data Scientist,3.0,23.2,17.8,29.9,6.0,Senior Data Scientist,Mid
+5071.0,Eversana,Senior Data Scientist,4.0,14.3,12.0,17.8,6.0,Senior Data Scientist,Mid
+3850.0,Paytm,Senior Data Scientist,3.0,31.6,27.0,40.0,6.0,Senior Data Scientist,Mid
+5470.0,Citicorp,Senior Data Scientist,6.0,28.3,21.0,35.0,6.0,Senior Data Scientist,Senior
+4053.0,Quantium Analytics,Senior Data Scientist,5.0,25.0,24.0,27.0,6.0,Senior Data Scientist,Mid
+1323.0,MKS Vision,Senior Data Scientist,7.0,18.1,15.0,22.0,6.0,Senior Data Scientist,Senior
+7743.0,Oyo Rooms,Senior Data Scientist,3.0,31.0,20.0,42.0,5.0,Senior Data Scientist,Mid
+1930.0,Yodlee,Senior Data Scientist,2.0,32.1,27.0,36.0,5.0,Senior Data Scientist,Junior
+6013.0,CitiusTech,Senior Data Scientist,7.0,17.8,15.0,19.5,5.0,Senior Data Scientist,Senior
+6927.0,SAP,Senior Data Scientist,7.0,36.599000000000004,17.2,51.0,5.0,Senior Data Scientist,Senior
+5030.0,Teleperformance,Senior Data Scientist,3.0,16.2,10.0,20.0,5.0,Senior Data Scientist,Mid
+2427.0,V2 Solutions,Senior Data Scientist,2.0,8.5,8.5,8.6,5.0,Senior Data Scientist,Junior
+8211.0,Dun & Bradstreet,Senior Data Scientist,2.0,11.9,9.5,13.5,5.0,Senior Data Scientist,Junior
+7934.0,Nvidia,Senior Data Scientist,2.0,21.3,10.0,28.0,5.0,Senior Data Scientist,Junior
+5531.0,AlgoAnalytics Financial Consultancy,Senior Data Scientist,3.0,18.9,16.5,20.7,5.0,Senior Data Scientist,Mid
+8873.0,Reliance Industries,Senior Data Scientist,5.0,10.0,9.0,11.0,5.0,Senior Data Scientist,Mid
+3536.0,Scienaptic Systems,Senior Data Scientist,6.0,19.7,15.0,23.5,5.0,Senior Data Scientist,Senior
+8710.0,Freelance Consultants,Senior Data Scientist,7.0,31.7,18.6,42.0,5.0,Senior Data Scientist,Senior
+1576.0,Decision Point,Senior Data Scientist,3.0,22.4,19.0,25.0,5.0,Senior Data Scientist,Mid
+7203.0,IDFC FIRST Bank,Senior Data Scientist,4.0,20.8,14.0,26.0,5.0,Senior Data Scientist,Mid
+8637.0,Thomson Reuters,Senior Data Scientist,4.0,18.4,10.0,27.5,5.0,Senior Data Scientist,Mid
+6054.0,Synechron,Senior Data Scientist,3.0,12.0,9.5,16.0,5.0,Senior Data Scientist,Mid
+5117.0,Akamai Technologies,Senior Data Scientist,4.0,27.3,22.5,34.0,5.0,Senior Data Scientist,Mid
+2993.0,Quest Global,Senior Data Scientist,4.0,22.8,14.0,41.0,5.0,Senior Data Scientist,Mid
+7783.0,GEP Worldwide,Senior Data Scientist,6.0,24.4,22.0,32.0,5.0,Senior Data Scientist,Senior
+7361.0,Hinduja Global Solutions,Senior Data Scientist,3.0,15.6,4.0,24.7,5.0,Senior Data Scientist,Mid
+7586.0,ACL Digital,Senior Data Scientist,3.0,18.8,10.7,25.0,5.0,Senior Data Scientist,Mid
+7673.0,Innova Solutions,Senior Data Scientist,4.0,36.599000000000004,6.0,51.0,5.0,Senior Data Scientist,Mid
+8988.0,Automatic Data Processing,Senior Data Scientist,9.0,34.4,27.0,39.4,5.0,Senior Data Scientist,Senior
+3559.0,Brillio,Senior Data Scientist,4.0,21.2,12.0,34.0,5.0,Senior Data Scientist,Mid
+8533.0,Boeing,Senior Data Scientist,8.0,27.6,25.2,30.0,5.0,Senior Data Scientist,Senior
+3530.0,Flipkart,Senior Data Scientist,5.0,36.599000000000004,27.0,51.0,5.0,Senior Data Scientist,Mid
+7995.0,ITC Infotech India,Senior Data Scientist,3.0,14.9,12.0,18.5,5.0,Senior Data Scientist,Mid
+7241.0,Decision Minds,Senior Data Scientist,5.0,19.0,13.0,22.4,5.0,Senior Data Scientist,Mid
+8716.0,Neal Analytics,Senior Data Scientist,4.0,23.6,21.0,29.0,5.0,Senior Data Scientist,Mid
+1258.0,HALODOC,Senior Data Scientist,2.0,27.4,18.0,38.0,5.0,Senior Data Scientist,Junior
+7097.0,Samsung Research,Senior Data Scientist,2.0,31.7,20.5,40.0,5.0,Senior Data Scientist,Junior
+6705.0,Neewee Analytics,Senior Data Scientist,3.0,14.9,12.1,21.5,5.0,Senior Data Scientist,Mid
+1953.0,Subex,Senior Data Scientist,4.0,25.2,11.8,37.0,5.0,Senior Data Scientist,Mid
+6860.0,BCG,Senior Data Scientist,3.0,20.2,19.8,21.5,5.0,Senior Data Scientist,Mid
+8110.0,Hitachi Vantara,Senior Data Scientist,7.0,24.6,18.7,35.0,5.0,Senior Data Scientist,Senior
+5292.0,ZF Group,Senior Data Scientist,2.0,16.8,14.5,20.3,5.0,Senior Data Scientist,Junior
+1651.0,DUNNHUMBY IT SERVICES INDIA,Senior Data Scientist,2.0,12.3,11.0,15.0,5.0,Senior Data Scientist,Junior
+7071.0,Decimal Point Analytics,Senior Data Scientist,2.0,20.2,12.2,24.0,5.0,Senior Data Scientist,Junior
+5831.0,Koch Business Solutions,Senior Data Scientist,4.0,36.599000000000004,23.0,51.0,5.0,Senior Data Scientist,Mid
+8995.0,Noodle.Ai,Senior Data Scientist,2.0,21.7,18.0,26.0,5.0,Senior Data Scientist,Junior
+2410.0,Publicis,Senior Data Scientist,5.0,18.0,15.0,28.0,5.0,Senior Data Scientist,Mid
+3485.0,Ecolab Digital Center,Senior Data Scientist,4.0,22.7,19.3,26.1,5.0,Senior Data Scientist,Mid
+6779.0,PepsiCo,Senior Data Scientist,8.0,29.5,19.0,39.5,5.0,Senior Data Scientist,Senior
+8055.0,TEKsystems,Senior Data Scientist,3.0,18.2,9.0,23.0,5.0,Senior Data Scientist,Mid
+6706.0,Chubb Group,Senior Data Scientist,4.0,16.6,13.5,21.0,5.0,Senior Data Scientist,Mid
+4224.0,Amnet Digital,Senior Data Scientist,2.0,11.8,1.2020000000000002,18.0,5.0,Senior Data Scientist,Junior
+7913.0,Blend360,Senior Data Scientist,5.0,30.4,26.3,35.0,5.0,Senior Data Scientist,Mid
+2607.0,Kyndryl,Senior Data Scientist,3.0,36.599000000000004,11.6,51.0,5.0,Senior Data Scientist,Mid
+6579.0,HSBC,Senior Data Scientist,0.0,24.6,22.0,28.0,5.0,Senior Data Scientist,
+6967.0,Chegg,Senior Data Scientist,3.0,32.2,27.0,35.0,5.0,Senior Data Scientist,Mid
+1872.0,First Source,Senior Data Scientist,10.0,29.0,27.0,30.0,4.0,Senior Data Scientist,Senior
+5957.0,Caterpillar Inc,Senior Data Scientist,9.0,22.8,20.3,24.0,4.0,Senior Data Scientist,Senior
+2963.0,Pitney Bowes,Senior Data Scientist,3.0,17.5,14.1,22.0,4.0,Senior Data Scientist,Mid
+5691.0,MSCI,Senior Data Scientist,6.0,36.599000000000004,27.0,42.0,4.0,Senior Data Scientist,Senior
+7698.0,Accolite Digital,Senior Data Scientist,2.0,12.8,11.0,14.0,4.0,Senior Data Scientist,Junior
+1187.0,Adobe,Senior Data Scientist,8.0,36.599000000000004,27.0,50.0,4.0,Senior Data Scientist,Senior
+5430.0,Omega Healthcare,Senior Data Scientist,7.0,14.1,10.8,15.8,4.0,Senior Data Scientist,Senior
+4444.0,Western Union,Senior Data Scientist,4.0,22.2,20.0,25.0,4.0,Senior Data Scientist,Mid
+3757.0,HDFC Bank,Senior Data Scientist,6.0,25.1,15.2,33.0,4.0,Senior Data Scientist,Senior
+5615.0,Tata Motors,Senior Data Scientist,4.0,11.5,5.8,14.0,4.0,Senior Data Scientist,Mid
+1099.0,EdgeVerve Systems,Senior Data Scientist,5.0,20.4,12.0,27.5,4.0,Senior Data Scientist,Mid
+3183.0,Aditya Birla Group,Senior Data Scientist,7.0,28.0,26.0,30.0,4.0,Senior Data Scientist,Senior
+1012.0,Commonwealth Bank of Australia,Senior Data Scientist,4.0,31.8,27.0,35.0,4.0,Senior Data Scientist,Mid
+7529.0,Swiss Re,Senior Data Scientist,5.0,26.9,11.9,34.5,4.0,Senior Data Scientist,Mid
+3314.0,TCS,Senior Business Analyst,3.0,7.7,3.5,14.0,1100.0,Senior Business Analyst,Mid
+5537.0,Accenture,Senior Business Analyst,3.0,10.3,5.5,15.4,1100.0,Senior Business Analyst,Mid
+5680.0,Evalueserve,Senior Business Analyst,2.0,9.8,7.1,13.8,1000.0,Senior Business Analyst,Junior
+2340.0,Cognizant,Senior Business Analyst,2.0,13.9,9.0,18.7,616.0,Senior Business Analyst,Junior
+3264.0,HCL Technologies,Senior Business Analyst,4.0,11.9,6.4,18.5,384.0,Senior Business Analyst,Mid
+7302.0,Tech Mahindra,Senior Business Analyst,4.0,9.9,5.5,16.5,382.0,Senior Business Analyst,Mid
+4176.0,EXL Service,Senior Business Analyst,2.0,8.8,6.2,12.0,308.0,Senior Business Analyst,Junior
+8782.0,Wipro,Senior Business Analyst,4.0,12.8,6.1,22.0,280.0,Senior Business Analyst,Mid
+4282.0,Fidelity National Information Services,Senior Business Analyst,4.0,15.0,6.5,22.0,267.0,Senior Business Analyst,Mid
+8284.0,Cgi Group,Senior Business Analyst,5.0,10.7,7.2,15.0,225.0,Senior Business Analyst,Mid
+4066.0,L&T Infotech,Senior Business Analyst,3.0,11.7,7.0,17.3,223.0,Senior Business Analyst,Mid
+5476.0,HSBC,Senior Business Analyst,6.0,17.1,9.2,24.0,219.0,Senior Business Analyst,Senior
+3490.0,Capgemini,Senior Business Analyst,2.0,11.6,4.5,20.0,213.0,Senior Business Analyst,Junior
+6916.0,Newgen Software Technologies,Senior Business Analyst,3.0,11.1,9.0,14.4,170.0,Senior Business Analyst,Mid
+5322.0,IBM,Senior Business Analyst,3.0,12.4,5.1,22.0,158.0,Senior Business Analyst,Mid
+2591.0,Quantiphi Analytics Solutions,Senior Business Analyst,2.0,15.0,11.3,19.0,152.0,Senior Business Analyst,Junior
+4115.0,Tredence,Senior Business Analyst,2.0,11.2,9.0,14.0,150.0,Senior Business Analyst,Junior
+6000.0,Conduent,Senior Business Analyst,4.0,8.8,6.0,13.0,146.0,Senior Business Analyst,Mid
+3354.0,Temenos,Senior Business Analyst,5.0,13.2,9.5,17.1,145.0,Senior Business Analyst,Mid
+6839.0,Amadeus,Senior Business Analyst,4.0,14.8,12.0,18.5,128.0,Senior Business Analyst,Mid
+7669.0,Infosys,Senior Business Analyst,4.0,12.9,7.0,21.0,128.0,Senior Business Analyst,Mid
+8148.0,American Express,Senior Business Analyst,2.0,9.2,5.0,18.5,118.0,Senior Business Analyst,Junior
+2355.0,Deloitte,Senior Business Analyst,3.0,11.5,6.8,20.0,118.0,Senior Business Analyst,Mid
+5271.0,DXC Technology,Senior Business Analyst,5.0,12.0,7.0,19.0,117.0,Senior Business Analyst,Mid
+2420.0,Ernst & Young,Senior Business Analyst,3.0,14.1,6.3,22.7,110.0,Senior Business Analyst,Mid
+1879.0,Exl India,Senior Business Analyst,1.0,9.0,6.8,12.0,109.0,Senior Business Analyst,Junior
+2579.0,bnp paribas india solutions,Senior Business Analyst,6.0,14.6,8.6,21.0,94.0,Senior Business Analyst,Senior
+5015.0,VMware Software,Senior Business Analyst,6.0,18.5,11.7,24.8,92.0,Senior Business Analyst,Senior
+4510.0,Zensar Technologies,Senior Business Analyst,5.0,12.1,7.5,19.5,91.0,Senior Business Analyst,Mid
+1740.0,Ramco Systems,Senior Business Analyst,3.0,12.7,8.7,18.0,90.0,Senior Business Analyst,Mid
+3672.0,Dell,Senior Business Analyst,2.0,11.6,8.5,15.5,84.0,Senior Business Analyst,Junior
+2044.0,JP Morgan Chase,Senior Business Analyst,4.0,12.3,5.1,23.0,84.0,Senior Business Analyst,Mid
+4426.0,UnitedHealth,Senior Business Analyst,3.0,12.5,7.0,19.2,83.0,Senior Business Analyst,Mid
+6237.0,BNP Paribas,Senior Business Analyst,6.0,15.8,9.5,24.0,82.0,Senior Business Analyst,Senior
+8896.0,NTT DATA,Senior Business Analyst,4.0,10.9,6.1,19.0,80.0,Senior Business Analyst,Mid
+5686.0,Flipkart,Senior Business Analyst,3.0,20.4,14.0,27.5,79.0,Senior Business Analyst,Mid
+8628.0,Oracle,Senior Business Analyst,4.0,10.2,5.1,22.0,79.0,Senior Business Analyst,Mid
+8681.0,Merkle Sokrati,Senior Business Analyst,1.0,7.0,6.2,8.4,76.0,Senior Business Analyst,Junior
+7222.0,Societe Generale,Senior Business Analyst,5.0,15.2,7.1,22.5,74.0,Senior Business Analyst,Mid
+3712.0,NatWest Group,Senior Business Analyst,3.0,11.1,4.3,23.2,71.0,Senior Business Analyst,Mid
+5392.0,Allianz Technology,Senior Business Analyst,5.0,11.9,8.0,16.0,69.0,Senior Business Analyst,Mid
+6869.0,Hexaware Technologies,Senior Business Analyst,4.0,9.7,4.0,19.0,68.0,Senior Business Analyst,Mid
+5065.0,Amazon,Senior Business Analyst,3.0,20.1,4.5,30.0,67.0,Senior Business Analyst,Mid
+4438.0,EPAM Systems,Senior Business Analyst,7.0,21.9,17.0,25.5,64.0,Senior Business Analyst,Senior
+7547.0,Deutsche Bank,Senior Business Analyst,4.0,7.2,5.0,12.5,64.0,Senior Business Analyst,Mid
+5261.0,BNY Mellon,Senior Business Analyst,4.0,8.7,5.1,15.0,63.0,Senior Business Analyst,Mid
+7279.0,Legato Health Technologies,Senior Business Analyst,5.0,14.6,9.4,20.0,63.0,Senior Business Analyst,Mid
+8217.0,Iris Software,Senior Business Analyst,7.0,20.5,15.5,27.0,63.0,Senior Business Analyst,Senior
+8704.0,NetCracker,Senior Business Analyst,10.0,28.0,21.0,36.0,62.0,Senior Business Analyst,Senior
+7026.0,Globant,Senior Business Analyst,5.0,16.7,12.7,20.8,62.0,Senior Business Analyst,Mid
+6295.0,Genpact,Senior Business Analyst,3.0,8.0,4.1,16.4,62.0,Senior Business Analyst,Mid
+6209.0,Broadridge Financial Solutions,Senior Business Analyst,3.0,10.8,7.2,16.0,62.0,Senior Business Analyst,Mid
+6702.0,Credit Suisse,Senior Business Analyst,4.0,16.3,10.0,23.4,62.0,Senior Business Analyst,Mid
+1245.0,Tiger Analytics,Senior Business Analyst,2.0,13.8,11.5,15.0,61.0,Senior Business Analyst,Junior
+4222.0,Novartis Healthcare,Senior Business Analyst,3.0,13.0,9.5,18.0,58.0,Senior Business Analyst,Mid
+6565.0,Standard Chartered Bank,Senior Business Analyst,3.0,15.0,4.1,30.0,56.0,Senior Business Analyst,Mid
+5672.0,Wells Fargo India,Senior Business Analyst,5.0,15.5,8.5,23.6,55.0,Senior Business Analyst,Mid
+8626.0,Shell,Senior Business Analyst,7.0,25.6,15.5,35.2,53.0,Senior Business Analyst,Senior
+4665.0,Synechron,Senior Business Analyst,6.0,17.6,9.8,25.0,53.0,Senior Business Analyst,Senior
+5949.0,GEP Worldwide,Senior Business Analyst,2.0,10.3,6.8,12.3,52.0,Senior Business Analyst,Junior
+2936.0,3i Infotech,Senior Business Analyst,4.0,10.8,6.9,16.1,51.0,Senior Business Analyst,Mid
+3550.0,ValueMomentum,Senior Business Analyst,4.0,12.0,8.5,18.5,50.0,Senior Business Analyst,Mid
+1297.0,Mphasis,Senior Business Analyst,3.0,12.6,4.2,20.0,50.0,Senior Business Analyst,Mid
+5028.0,Capita,Senior Business Analyst,5.0,12.6,7.0,17.0,49.0,Senior Business Analyst,Mid
+6966.0,UST,Senior Business Analyst,5.0,13.4,9.0,20.0,49.0,Senior Business Analyst,Mid
+5855.0,Citicorp,Senior Business Analyst,3.0,15.7,6.0,25.0,49.0,Senior Business Analyst,Mid
+8478.0,Optum,Senior Business Analyst,4.0,13.3,5.5,19.8,47.0,Senior Business Analyst,Mid
+2785.0,Barclays,Senior Business Analyst,3.0,14.2,7.1,22.7,47.0,Senior Business Analyst,Mid
+4269.0,IQVIA,Senior Business Analyst,5.0,17.7,11.3,26.5,47.0,Senior Business Analyst,Mid
+1209.0,Epsilon,Senior Business Analyst,5.0,14.5,10.0,18.2,46.0,Senior Business Analyst,Mid
+4031.0,Etech Global Services,Senior Business Analyst,3.0,9.2,7.0,12.1,46.0,Senior Business Analyst,Mid
+2872.0,Sapiens,Senior Business Analyst,5.0,18.0,13.8,22.7,44.0,Senior Business Analyst,Mid
+8625.0,Concentrix Corporation,Senior Business Analyst,2.0,3.7,2.7,6.2,43.0,Senior Business Analyst,Junior
+4805.0,IBS Software Services,Senior Business Analyst,2.0,6.2,4.3,8.3,42.0,Senior Business Analyst,Junior
+5531.0,Hewlett-Packard Enterprise,Senior Business Analyst,3.0,7.9,3.6,16.0,42.0,Senior Business Analyst,Mid
+7625.0,WNS,Senior Business Analyst,2.0,6.5,3.0,13.6,42.0,Senior Business Analyst,Junior
+3384.0,eClerx,Senior Business Analyst,2.0,4.2,3.2,6.0,42.0,Senior Business Analyst,Junior
+3526.0,Citibank,Senior Business Analyst,3.0,19.5,8.2,25.5,42.0,Senior Business Analyst,Mid
+1317.0,Odessa,Senior Business Analyst,3.0,16.2,12.3,24.0,41.0,Senior Business Analyst,Mid
+7098.0,Fidelity International,Senior Business Analyst,5.0,15.9,13.5,19.0,40.0,Senior Business Analyst,Mid
+5556.0,Ameriprise Financial,Senior Business Analyst,4.0,9.6,6.2,16.3,40.0,Senior Business Analyst,Mid
+2399.0,Tsys Card Tech Services,Senior Business Analyst,6.0,15.7,12.5,18.9,40.0,Senior Business Analyst,Senior
+5975.0,Merilytics,Senior Business Analyst,0.0,7.8,6.5,9.5,40.0,Senior Business Analyst,
+7350.0,Barclays Global Service Centre,Senior Business Analyst,3.0,12.5,5.0,22.9,40.0,Senior Business Analyst,Mid
+5270.0,Unisys,Senior Business Analyst,5.0,12.7,8.0,17.3,39.0,Senior Business Analyst,Mid
+2018.0,Photon Interactive,Senior Business Analyst,4.0,9.9,6.3,15.0,38.0,Senior Business Analyst,Mid
+7004.0,Tata Technologies,Senior Business Analyst,4.0,8.7,6.2,14.0,37.0,Senior Business Analyst,Mid
+8937.0,Virtusa Consulting Services,Senior Business Analyst,5.0,15.8,11.0,22.5,36.0,Senior Business Analyst,Mid
+4665.0,Xceedance,Senior Business Analyst,5.0,13.4,9.5,18.6,36.0,Senior Business Analyst,Mid
+8147.0,Uber,Senior Business Analyst,2.0,13.4,10.0,19.0,36.0,Senior Business Analyst,Junior
+6091.0,CitiusTech,Senior Business Analyst,4.0,14.4,9.5,18.0,35.0,Senior Business Analyst,Mid
+2314.0,MetLife,Senior Business Analyst,0.0,6.0,4.0,9.3,35.0,Senior Business Analyst,
+5942.0,eMids Technologies,Senior Business Analyst,5.0,15.3,10.0,21.0,35.0,Senior Business Analyst,Mid
+4161.0,Standard Chartered Global Business Services,Senior Business Analyst,7.0,18.4,11.0,29.9,35.0,Senior Business Analyst,Senior
+3593.0,D Cube Analytics,Senior Business Analyst,2.0,11.7,9.2,14.0,35.0,Senior Business Analyst,Junior
+1187.0,Novo Nordisk,Senior Business Analyst,6.0,15.7,10.3,21.0,34.0,Senior Business Analyst,Senior
+1860.0,Affine Analytics,Senior Business Analyst,1.0,10.0,8.0,13.6,34.0,Senior Business Analyst,Junior
+7981.0,Altisource,Senior Business Analyst,4.0,8.5,5.2,15.0,33.0,Senior Business Analyst,Mid
+4330.0,Mu Sigma,Senior Business Analyst,1.0,8.6,6.3,13.0,32.0,Senior Business Analyst,Junior
+8053.0,Meesho,Senior Business Analyst,2.0,19.3,16.0,23.0,32.0,Senior Business Analyst,Junior
+8227.0,Gartner,Senior Business Analyst,2.0,18.7,12.5,24.0,32.0,Senior Business Analyst,Junior
+4919.0,LearningMate Solutions,Senior Business Analyst,3.0,10.5,6.4,14.0,31.0,Senior Business Analyst,Mid
+8784.0,R1 RCM,Senior Business Analyst,2.0,4.3,3.5,5.9,31.0,Senior Business Analyst,Junior
+1596.0,Sopra Steria,Senior Business Analyst,3.0,14.6,10.0,18.5,31.0,Senior Business Analyst,Mid
+2028.0,Fiserv,Senior Business Analyst,8.0,18.0,11.0,29.8,31.0,Senior Business Analyst,Senior
+1514.0,Harman Connected Services,Senior Business Analyst,3.0,12.3,6.6,20.0,31.0,Senior Business Analyst,Mid
+4027.0,Principal Global Services,Senior Business Analyst,4.0,13.3,5.8,17.5,31.0,Senior Business Analyst,Mid
+6835.0,Danske IT,Senior Business Analyst,7.0,18.7,14.3,24.1,31.0,Senior Business Analyst,Senior
+5675.0,Amdocs,Senior Business Analyst,6.0,17.6,11.1,24.9,31.0,Senior Business Analyst,Senior
+8110.0,Allscripts,Senior Business Analyst,5.0,13.9,11.0,17.7,30.0,Senior Business Analyst,Mid
+7386.0,Collabera Technologies,Senior Business Analyst,4.0,11.7,8.0,20.0,30.0,Senior Business Analyst,Mid
+7112.0,Swiggy,Senior Business Analyst,2.0,18.4,13.8,22.0,30.0,Senior Business Analyst,Junior
+8914.0,Birlasoft,Senior Business Analyst,3.0,9.8,6.0,19.0,29.0,Senior Business Analyst,Mid
+1333.0,ValueLabs,Senior Business Analyst,6.0,14.9,10.0,20.0,29.0,Senior Business Analyst,Senior
+6451.0,Orange Business Services,Senior Business Analyst,5.0,12.8,7.0,20.0,28.0,Senior Business Analyst,Mid
+1417.0,Maersk,Senior Business Analyst,6.0,10.9,5.0,23.0,28.0,Senior Business Analyst,Senior
+7979.0,Gartner India Research and Advisory Services,Senior Business Analyst,3.0,20.4,13.8,26.0,28.0,Senior Business Analyst,Mid
+1282.0,First Source,Senior Business Analyst,2.0,5.1,3.4,6.6,27.0,Senior Business Analyst,Junior
+3226.0,Barclays Shared Services,Senior Business Analyst,2.0,7.1,4.0,14.0,27.0,Senior Business Analyst,Junior
+3033.0,ICICI Bank,Senior Business Analyst,5.0,12.3,5.3,21.0,27.0,Senior Business Analyst,Mid
+4774.0,CES,Senior Business Analyst,5.0,7.4,5.2,9.5,27.0,Senior Business Analyst,Mid
+2098.0,Mercer,Senior Business Analyst,2.0,5.5,2.8,17.0,27.0,Senior Business Analyst,Junior
+8736.0,NatWest Markets,Senior Business Analyst,5.0,13.4,5.0,22.0,27.0,Senior Business Analyst,Mid
+8335.0,Xoriant,Senior Business Analyst,6.0,17.5,11.5,21.7,27.0,Senior Business Analyst,Senior
+5735.0,PwC,Senior Business Analyst,4.0,12.6,6.0,22.0,27.0,Senior Business Analyst,Mid
+6311.0,Statestreet HCL Services,Senior Business Analyst,1.0,3.0,2.4,3.6,27.0,Senior Business Analyst,Junior
+3786.0,First American Corporation,Senior Business Analyst,5.0,13.4,5.9,18.5,26.0,Senior Business Analyst,Mid
+3274.0,MindGate Solutions,Senior Business Analyst,5.0,12.5,8.0,18.0,26.0,Senior Business Analyst,Mid
+2422.0,Mindtree,Senior Business Analyst,4.0,16.9,12.0,22.0,25.0,Senior Business Analyst,Mid
+1590.0,TEKsystems,Senior Business Analyst,5.0,15.6,11.7,20.5,25.0,Senior Business Analyst,Mid
+5347.0,Decision Point,Senior Business Analyst,1.0,11.8,10.0,16.0,24.0,Senior Business Analyst,Junior
+5252.0,Thomson Reuters,Senior Business Analyst,4.0,11.7,5.0,19.5,24.0,Senior Business Analyst,Mid
+2685.0,Eurofins It Solutions,Senior Business Analyst,7.0,22.0,16.0,24.8,24.0,Senior Business Analyst,Senior
+4404.0,Capco Technologies,Senior Business Analyst,7.0,18.2,15.0,20.2,24.0,Senior Business Analyst,Senior
+8792.0,Hsbc Technology,Senior Business Analyst,6.0,18.7,13.0,25.0,24.0,Senior Business Analyst,Senior
+2962.0,S&P Global,Senior Business Analyst,5.0,13.7,9.0,20.0,24.0,Senior Business Analyst,Mid
+5537.0,General Mills,Senior Business Analyst,4.0,13.4,11.0,16.0,23.0,Senior Business Analyst,Mid
+5757.0,Intellect Design Arena,Senior Business Analyst,6.0,17.2,11.7,22.5,23.0,Senior Business Analyst,Senior
+4924.0,Dell EMC,Senior Business Analyst,3.0,10.5,8.5,13.0,23.0,Senior Business Analyst,Mid
+5818.0,Ebix Software India,Senior Business Analyst,4.0,9.8,6.5,13.5,23.0,Senior Business Analyst,Mid
+3649.0,Northern Trust Operating Services,Senior Business Analyst,3.0,6.2,4.9,9.5,23.0,Senior Business Analyst,Mid
+4989.0,IVY Comptech,Senior Business Analyst,7.0,20.7,16.2,25.0,23.0,Senior Business Analyst,Senior
+1799.0,Atos Syntel,Senior Business Analyst,6.0,13.8,7.0,22.8,23.0,Senior Business Analyst,Senior
+6750.0,Provana,Senior Business Analyst,1.0,7.9,5.5,11.5,23.0,Senior Business Analyst,Junior
+5492.0,Coforge,Senior Business Analyst,6.0,17.1,11.2,23.0,23.0,Senior Business Analyst,Senior
+5608.0,HDFC Bank,Senior Business Analyst,4.0,13.2,7.1,20.0,22.0,Senior Business Analyst,Mid
+5791.0,Commonwealth Bank of Australia,Senior Business Analyst,5.0,28.3,21.0,38.0,22.0,Senior Business Analyst,Mid
+5759.0,Volante Technologies,Senior Business Analyst,9.0,22.3,15.0,28.0,22.0,Senior Business Analyst,Senior
+4916.0,Hinduja Global Solutions,Senior Business Analyst,2.0,3.3,2.4,4.3,22.0,Senior Business Analyst,Junior
+2169.0,Tavant Technologies,Senior Business Analyst,3.0,10.0,8.0,14.0,22.0,Senior Business Analyst,Mid
+3261.0,Jocata Financial Advisory and Technology,Senior Business Analyst,6.0,14.3,9.0,23.0,22.0,Senior Business Analyst,Senior
+4122.0,Persistent Systems,Senior Business Analyst,7.0,22.5,15.0,30.5,22.0,Senior Business Analyst,Senior
+4421.0,Axis Bank,Senior Business Analyst,3.0,14.4,9.3,22.0,22.0,Senior Business Analyst,Mid
+2329.0,Sabre,Senior Business Analyst,6.0,20.1,13.8,28.0,22.0,Senior Business Analyst,Senior
+2905.0,MResult Services,Senior Business Analyst,4.0,8.2,5.5,12.0,21.0,Senior Business Analyst,Mid
+3244.0,Franklin Templeton Investments,Senior Business Analyst,5.0,12.1,6.8,17.1,21.0,Senior Business Analyst,Mid
+4133.0,Allsec Technologies,Senior Business Analyst,3.0,6.1,5.2,7.5,21.0,Senior Business Analyst,Mid
+4626.0,MSC Technology India,Senior Business Analyst,3.0,6.7,4.9,8.7,21.0,Senior Business Analyst,Mid
+8416.0,Sopra Banking Software,Senior Business Analyst,6.0,16.3,10.2,25.0,21.0,Senior Business Analyst,Senior
+5397.0,Colgate Global Business Services,Senior Business Analyst,7.0,15.2,13.2,17.5,21.0,Senior Business Analyst,Senior
+3523.0,Azentio,Senior Business Analyst,3.0,13.4,9.5,17.0,21.0,Senior Business Analyst,Mid
+7533.0,Mastek,Senior Business Analyst,7.0,13.6,9.7,17.5,20.0,Senior Business Analyst,Senior
+3325.0,Springer Nature,Senior Business Analyst,6.0,17.0,13.0,21.9,20.0,Senior Business Analyst,Senior
+7848.0,Honeywell Technology Solutions,Senior Business Analyst,5.0,15.9,10.0,23.8,20.0,Senior Business Analyst,Mid
+5543.0,Thryve Digital,Senior Business Analyst,5.0,10.0,7.1,14.0,20.0,Senior Business Analyst,Mid
+6254.0,UBS,Senior Business Analyst,7.0,22.9,10.8,33.0,20.0,Senior Business Analyst,Senior
+1616.0,Zomato,Senior Business Analyst,2.0,15.7,10.0,22.0,20.0,Senior Business Analyst,Junior
+5932.0,Cybage,Senior Business Analyst,8.0,18.0,15.5,23.0,20.0,Senior Business Analyst,Senior
+4379.0,Larsen & Toubro Limited,Senior Business Analyst,4.0,11.3,8.5,14.5,20.0,Senior Business Analyst,Mid
+5971.0,Royal Bank of Scotland International,Senior Business Analyst,3.0,5.7,4.1,10.5,19.0,Senior Business Analyst,Mid
+5097.0,Indegene,Senior Business Analyst,2.0,14.0,10.2,21.0,19.0,Senior Business Analyst,Junior
+5650.0,Accion Labs,Senior Business Analyst,7.0,17.5,11.0,25.2,19.0,Senior Business Analyst,Senior
+2257.0,Infor Global Solution,Senior Business Analyst,6.0,16.8,13.5,20.0,19.0,Senior Business Analyst,Senior
+8565.0,Cygnet Infotech,Senior Business Analyst,4.0,8.6,5.5,11.0,19.0,Senior Business Analyst,Mid
+8572.0,Oracle Financial Services Software,Senior Business Analyst,6.0,14.2,8.4,24.1,19.0,Senior Business Analyst,Senior
+6917.0,ThoughtWorks,Senior Business Analyst,5.0,20.2,15.8,25.0,19.0,Senior Business Analyst,Mid
+1278.0,Citigroup,Senior Business Analyst,3.0,15.6,9.2,21.1,19.0,Senior Business Analyst,Mid
+2849.0,Unacademy,Senior Business Analyst,0.0,13.0,4.0,25.0,18.0,Senior Business Analyst,
+5592.0,State Street Corporation,Senior Business Analyst,2.0,10.7,3.5,22.0,18.0,Senior Business Analyst,Junior
+7436.0,HCL Infosystems,Senior Business Analyst,3.0,9.0,3.4,15.0,18.0,Senior Business Analyst,Mid
+6983.0,Ocwen Financial Solutions,Senior Business Analyst,4.0,9.9,5.9,13.3,18.0,Senior Business Analyst,Mid
+7170.0,Vedantu,Senior Business Analyst,2.0,16.9,6.6,21.0,18.0,Senior Business Analyst,Junior
+5884.0,Infinite Computer Solutions,Senior Business Analyst,4.0,9.3,6.0,13.0,17.0,Senior Business Analyst,Mid
+3977.0,Clover Infotech,Senior Business Analyst,3.0,9.1,6.5,12.5,17.0,Senior Business Analyst,Mid
+1557.0,BYJU'S,Senior Business Analyst,0.0,9.4,6.0,17.0,17.0,Senior Business Analyst,
+7265.0,Majesco,Senior Business Analyst,5.0,13.6,9.0,18.0,17.0,Senior Business Analyst,Mid
+5991.0,R Systems International,Senior Business Analyst,6.0,14.8,9.9,20.0,17.0,Senior Business Analyst,Senior
+8501.0,Accenture,Senior Data Analyst,3.0,9.9,6.5,14.6,213.0,Senior Data Analyst,Mid
+6459.0,Capgemini,Senior Data Analyst,1.0,4.7,3.8,7.1,129.0,Senior Data Analyst,Junior
+3846.0,TCS,Senior Data Analyst,3.0,6.0,2.9,11.2,118.0,Senior Data Analyst,Mid
+1105.0,Unilog Content Solutions ( P),Senior Data Analyst,3.0,3.2,2.8,3.8,110.0,Senior Data Analyst,Mid
+7697.0,Cognizant,Senior Data Analyst,2.0,6.2,3.0,15.2,109.0,Senior Data Analyst,Junior
+4343.0,eClerx,Senior Data Analyst,1.0,4.3,3.0,7.2,90.0,Senior Data Analyst,Junior
+3967.0,Concentrix Corporation,Senior Data Analyst,2.0,4.6,3.1,7.5,85.0,Senior Data Analyst,Junior
+1680.0,Ernst & Young,Senior Data Analyst,3.0,9.5,6.0,15.3,71.0,Senior Data Analyst,Mid
+8717.0,Flipkart,Senior Data Analyst,3.0,11.8,6.0,17.6,66.0,Senior Data Analyst,Mid
+7328.0,Wipro,Senior Data Analyst,2.0,7.1,3.0,11.7,54.0,Senior Data Analyst,Junior
+6097.0,Tech Mahindra,Senior Data Analyst,2.0,7.1,4.0,13.0,53.0,Senior Data Analyst,Junior
+5640.0,HCL Technologies,Senior Data Analyst,2.0,6.2,3.0,10.0,53.0,Senior Data Analyst,Junior
+1220.0,Ugam Solution,Senior Data Analyst,2.0,6.5,3.5,10.5,52.0,Senior Data Analyst,Junior
+6880.0,Cerner,Senior Data Analyst,2.0,6.1,3.0,15.4,52.0,Senior Data Analyst,Junior
+4824.0,Optum,Senior Data Analyst,5.0,16.2,11.0,21.5,51.0,Senior Data Analyst,Mid
+6901.0,InnovAccer,Senior Data Analyst,2.0,15.2,9.3,22.0,50.0,Senior Data Analyst,Junior
+2968.0,GlobalLogic,Senior Data Analyst,2.0,3.5,2.5,5.0,46.0,Senior Data Analyst,Junior
+4671.0,Infosys,Senior Data Analyst,3.0,9.9,5.3,15.0,45.0,Senior Data Analyst,Mid
+5317.0,Tiger Analytics,Senior Data Analyst,1.0,11.3,9.0,15.0,45.0,Senior Data Analyst,Junior
+1637.0,UnitedHealth,Senior Data Analyst,5.0,17.2,8.0,26.0,44.0,Senior Data Analyst,Mid
+2806.0,IBM,Senior Data Analyst,3.0,11.1,6.3,19.0,43.0,Senior Data Analyst,Mid
+4559.0,Cyient,Senior Data Analyst,4.0,3.6,2.5,5.3,43.0,Senior Data Analyst,Mid
+4699.0,Urjanet Energy Solutions,Senior Data Analyst,2.0,3.8,3.1,5.0,42.0,Senior Data Analyst,Junior
+4171.0,Deloitte,Senior Data Analyst,3.0,10.2,6.2,14.9,39.0,Senior Data Analyst,Mid
+5714.0,Epsilon,Senior Data Analyst,4.0,17.4,10.0,24.5,38.0,Senior Data Analyst,Mid
+7137.0,Morningstar,Senior Data Analyst,2.0,5.0,3.8,6.3,37.0,Senior Data Analyst,Junior
+5732.0,BCG,Senior Data Analyst,5.0,19.7,16.0,24.0,36.0,Senior Data Analyst,Mid
+8414.0,Dell,Senior Data Analyst,3.0,11.7,9.0,18.0,33.0,Senior Data Analyst,Mid
+7115.0,Walmart,Senior Data Analyst,4.0,29.0,16.5,40.0,32.0,Senior Data Analyst,Mid
+2005.0,Course5,Senior Data Analyst,3.0,7.4,5.1,12.9,29.0,Senior Data Analyst,Mid
+1024.0,IHS Markit,Senior Data Analyst,4.0,11.1,6.1,18.5,28.0,Senior Data Analyst,Mid
+5862.0,Bharti Airtel,Senior Data Analyst,3.0,16.6,5.9,22.0,28.0,Senior Data Analyst,Mid
+3606.0,L&T Infotech,Senior Data Analyst,3.0,12.2,7.3,19.0,28.0,Senior Data Analyst,Mid
+7888.0,Wells Fargo India,Senior Data Analyst,3.0,13.7,7.8,23.0,28.0,Senior Data Analyst,Mid
+5172.0,Axa XL,Senior Data Analyst,2.0,9.9,6.1,15.0,28.0,Senior Data Analyst,Junior
+1063.0,Zen3 Info Solutions,Senior Data Analyst,3.0,4.3,3.4,5.5,27.0,Senior Data Analyst,Mid
+5443.0,Honeywell Technology Solutions,Senior Data Analyst,4.0,14.6,6.0,22.0,26.0,Senior Data Analyst,Mid
+4401.0,LiquidHub,Senior Data Analyst,2.0,3.5,2.5,4.8,25.0,Senior Data Analyst,Junior
+2190.0,Proziod Analytics,Senior Data Analyst,3.0,4.9,3.6,6.3,25.0,Senior Data Analyst,Mid
+4858.0,LatentView Analytics,Senior Data Analyst,2.0,10.8,9.2,12.5,25.0,Senior Data Analyst,Junior
+6950.0,The Smart Cube,Senior Data Analyst,1.0,9.6,7.0,12.0,23.0,Senior Data Analyst,Junior
+6552.0,Indium Software,Senior Data Analyst,3.0,14.4,10.0,20.0,23.0,Senior Data Analyst,Mid
+3317.0,Citicorp,Senior Data Analyst,2.0,16.1,11.5,20.9,23.0,Senior Data Analyst,Junior
+8970.0,Harman Connected Services,Senior Data Analyst,4.0,10.0,6.0,19.0,22.0,Senior Data Analyst,Mid
+8306.0,Toluna,Senior Data Analyst,3.0,7.1,5.4,9.0,22.0,Senior Data Analyst,Mid
+5415.0,FE fundinfo,Senior Data Analyst,2.0,4.8,4.0,5.4,21.0,Senior Data Analyst,Junior
+3379.0,McKinsey & Company,Senior Data Analyst,3.0,20.7,12.9,27.2,20.0,Senior Data Analyst,Mid
+4641.0,Amazon,Senior Data Analyst,2.0,8.6,3.9,25.5,19.0,Senior Data Analyst,Junior
+1081.0,Ford Motor,Senior Data Analyst,2.0,15.0,11.6,18.9,19.0,Senior Data Analyst,Junior
+2153.0,Subex,Senior Data Analyst,1.0,8.0,5.5,11.0,19.0,Senior Data Analyst,Junior
+3447.0,Mindtree,Senior Data Analyst,2.0,8.0,6.0,12.6,19.0,Senior Data Analyst,Junior
+2787.0,S&P Global,Senior Data Analyst,3.0,8.0,5.7,11.0,19.0,Senior Data Analyst,Mid
+4479.0,EXL Service,Senior Data Analyst,2.0,7.6,4.0,12.0,18.0,Senior Data Analyst,Junior
+4358.0,DXC Technology,Senior Data Analyst,5.0,14.0,6.9,20.0,18.0,Senior Data Analyst,Mid
+8492.0,R1 RCM,Senior Data Analyst,3.0,5.4,3.9,6.9,18.0,Senior Data Analyst,Mid
+4027.0,KPMG,Senior Data Analyst,1.0,8.0,4.2,11.8,18.0,Senior Data Analyst,Junior
+2961.0,Zensar Technologies,Senior Data Analyst,4.0,6.3,4.0,10.6,17.0,Senior Data Analyst,Mid
+6135.0,Schneider Electric,Senior Data Analyst,2.0,9.6,6.0,17.0,17.0,Senior Data Analyst,Junior
+1093.0,WNS,Senior Data Analyst,2.0,6.1,4.0,8.0,17.0,Senior Data Analyst,Junior
+1411.0,Genpact,Senior Data Analyst,3.0,6.2,4.3,11.0,17.0,Senior Data Analyst,Mid
+2218.0,NTT DATA,Senior Data Analyst,2.0,7.2,4.0,11.5,17.0,Senior Data Analyst,Junior
+2895.0,Ganit Business Solutions,Senior Data Analyst,0.0,7.4,5.2,10.5,17.0,Senior Data Analyst,
+6411.0,HSBC,Senior Data Analyst,2.0,11.9,7.1,16.0,17.0,Senior Data Analyst,Junior
+2308.0,Synchrony,Senior Data Analyst,2.0,7.5,5.0,12.5,16.0,Senior Data Analyst,Junior
+1297.0,Kantar,Senior Data Analyst,2.0,6.0,4.5,8.4,16.0,Senior Data Analyst,Junior
+3421.0,Unire Business Solutions,Senior Data Analyst,0.0,2.1,1.4,3.0,16.0,Senior Data Analyst,
+4208.0,JP Morgan Chase,Senior Data Analyst,3.0,12.8,7.4,18.0,16.0,Senior Data Analyst,Mid
+3301.0,Dynata,Senior Data Analyst,4.0,8.8,7.5,10.3,16.0,Senior Data Analyst,Mid
+8877.0,PwC,Senior Data Analyst,3.0,11.1,5.8,20.0,16.0,Senior Data Analyst,Mid
+8777.0,Indegene,Senior Data Analyst,2.0,15.6,11.4,20.5,15.0,Senior Data Analyst,Junior
+3852.0,Lowe's,Senior Data Analyst,1.0,17.4,10.4,20.0,15.0,Senior Data Analyst,Junior
+2247.0,Ameriprise Financial,Senior Data Analyst,3.0,14.2,10.0,18.1,15.0,Senior Data Analyst,Mid
+8570.0,Barclays,Senior Data Analyst,3.0,13.8,9.0,19.4,15.0,Senior Data Analyst,Mid
+2476.0,Continental Automotive Components,Senior Data Analyst,2.0,2.9,2.5,3.5,15.0,Senior Data Analyst,Junior
+7033.0,Johnson & Johnson,Senior Data Analyst,4.0,12.0,5.8,20.0,15.0,Senior Data Analyst,Mid
+4336.0,JLL,Senior Data Analyst,3.0,6.3,4.5,13.0,15.0,Senior Data Analyst,Mid
+3427.0,Paytm,Senior Data Analyst,3.0,7.6,5.0,11.0,15.0,Senior Data Analyst,Mid
+4910.0,Oracle,Senior Data Analyst,3.0,7.7,4.2,15.0,15.0,Senior Data Analyst,Mid
+7892.0,HERE Technologies,Senior Data Analyst,4.0,5.1,4.5,6.5,14.0,Senior Data Analyst,Mid
+6583.0,CAMP Systems,Senior Data Analyst,4.0,5.1,3.8,6.2,14.0,Senior Data Analyst,Mid
+5259.0,Ericsson,Senior Data Analyst,2.0,8.9,5.0,13.0,14.0,Senior Data Analyst,Junior
+5472.0,Novartis Healthcare,Senior Data Analyst,2.0,12.8,6.0,19.0,14.0,Senior Data Analyst,Junior
+2329.0,E2OPEN,Senior Data Analyst,5.0,6.1,4.9,8.3,14.0,Senior Data Analyst,Mid
+8387.0,Bank of America,Senior Data Analyst,5.0,19.2,11.7,26.0,14.0,Senior Data Analyst,Mid
+6131.0,Nielsen,Senior Data Analyst,2.0,5.9,3.1,9.5,14.0,Senior Data Analyst,Junior
+2089.0,VASTA BIO-INFORMATICS,Senior Data Analyst,1.0,3.6,3.3,4.3,14.0,Senior Data Analyst,Junior
+4580.0,VeeTechnologies,Senior Data Analyst,2.0,3.0,2.0,4.0,14.0,Senior Data Analyst,Junior
+7439.0,Nailbiter Research,Senior Data Analyst,0.0,4.7,4.2,5.2,14.0,Senior Data Analyst,
+5055.0,Hewlett-Packard Enterprise,Senior Data Analyst,3.0,8.8,5.0,17.7,13.0,Senior Data Analyst,Mid
+6547.0,S&P Global Market Intelligence,Senior Data Analyst,5.0,6.9,4.9,9.5,13.0,Senior Data Analyst,Mid
+6894.0,MakeMyTrip,Senior Data Analyst,4.0,7.5,6.0,9.0,12.0,Senior Data Analyst,Mid
+2874.0,Advantmed,Senior Data Analyst,3.0,7.1,4.0,12.0,12.0,Senior Data Analyst,Mid
+7732.0,Sutherland Global Services,Senior Data Analyst,2.0,6.6,5.0,8.5,12.0,Senior Data Analyst,Junior
+3909.0,Citibank,Senior Data Analyst,2.0,17.4,16.0,19.5,12.0,Senior Data Analyst,Junior
+8266.0,Mercer,Senior Data Analyst,1.0,4.6,3.0,6.5,12.0,Senior Data Analyst,Junior
+2127.0,American Express,Senior Data Analyst,2.0,14.7,6.1,25.0,12.0,Senior Data Analyst,Junior
+3740.0,Shadowfax Technologies,Senior Data Analyst,0.0,7.7,6.3,10.0,11.0,Senior Data Analyst,
+5129.0,Resilinc,Senior Data Analyst,4.0,5.8,5.0,7.0,11.0,Senior Data Analyst,Mid
+2873.0,Bluemind Solutions,Senior Data Analyst,4.0,3.1,2.8,3.5,11.0,Senior Data Analyst,Mid
+8466.0,Denave,Senior Data Analyst,2.0,6.7,3.5,9.8,11.0,Senior Data Analyst,Junior
+8702.0,Cross-tab Marketing Services,Senior Data Analyst,0.0,5.0,3.5,7.0,11.0,Senior Data Analyst,
+3783.0,Wissend,Senior Data Analyst,0.0,2.1,1.4,3.0,11.0,Senior Data Analyst,
+1165.0,Infosys BPM,Senior Data Analyst,2.0,8.9,3.8,17.0,11.0,Senior Data Analyst,Junior
+5574.0,Adobe,Senior Data Analyst,5.0,14.5,9.8,20.0,10.0,Senior Data Analyst,Mid
+3044.0,BNY Mellon,Senior Data Analyst,3.0,10.4,4.9,13.5,10.0,Senior Data Analyst,Mid
+3959.0,Shell,Senior Data Analyst,4.0,12.4,7.9,20.0,10.0,Senior Data Analyst,Mid
+8834.0,Target,Senior Data Analyst,2.0,13.7,9.9,18.0,10.0,Senior Data Analyst,Junior
+4600.0,Dell EMC,Senior Data Analyst,3.0,9.4,8.5,11.1,10.0,Senior Data Analyst,Mid
+5638.0,comScore,Senior Data Analyst,5.0,19.7,13.5,24.0,10.0,Senior Data Analyst,Mid
+1405.0,Fedby Information Services,Senior Data Analyst,3.0,4.6,4.0,5.5,10.0,Senior Data Analyst,Mid
+3851.0,Experis IT,Senior Data Analyst,5.0,8.2,6.6,9.8,10.0,Senior Data Analyst,Mid
+8688.0,Phoenix American Sales Focus Solutions India,Senior Data Analyst,3.0,5.7,5.0,7.0,10.0,Senior Data Analyst,Mid
+7670.0,Collabera Technologies,Senior Data Analyst,2.0,8.7,7.5,10.5,10.0,Senior Data Analyst,Junior
+4624.0,SG Analytics,Senior Data Analyst,3.0,7.0,6.0,8.3,10.0,Senior Data Analyst,Mid
+4417.0,Mobikwik,Senior Data Analyst,3.0,13.9,11.0,17.0,10.0,Senior Data Analyst,Mid
+4174.0,Ecolab Digital Center,Senior Data Analyst,6.0,17.6,11.2,22.3,10.0,Senior Data Analyst,Senior
+4429.0,Oyo Rooms,Senior Data Analyst,4.0,11.4,7.0,16.0,9.0,Senior Data Analyst,Mid
+5522.0,Randstad,Senior Data Analyst,3.0,6.9,2.5,12.0,9.0,Senior Data Analyst,Mid
+5253.0,Clarivate Analytics,Senior Data Analyst,1.0,17.7,10.0,26.5,9.0,Senior Data Analyst,Junior
+8400.0,Rapido,Senior Data Analyst,2.0,14.9,6.5,20.4,9.0,Senior Data Analyst,Junior
+4517.0,Standard Chartered Bank,Senior Data Analyst,2.0,12.7,5.0,30.0,9.0,Senior Data Analyst,Junior
+2578.0,Equifax,Senior Data Analyst,3.0,6.2,3.5,8.5,9.0,Senior Data Analyst,Mid
+4573.0,Tesco,Senior Data Analyst,1.0,10.3,5.8,15.5,9.0,Senior Data Analyst,Junior
+7253.0,QL2 Software,Senior Data Analyst,4.0,3.4,2.7,5.5,9.0,Senior Data Analyst,Mid
+2554.0,Vodafone Idea,Senior Data Analyst,3.0,10.2,5.2,15.8,9.0,Senior Data Analyst,Mid
+2846.0,IQVIA,Senior Data Analyst,3.0,12.4,8.0,15.3,9.0,Senior Data Analyst,Mid
+5485.0,InSync Analytics,Senior Data Analyst,4.0,3.6,3.1,4.0,9.0,Senior Data Analyst,Mid
+4068.0,Landis+Gyr,Senior Data Analyst,5.0,15.0,12.6,17.5,9.0,Senior Data Analyst,Mid
+2815.0,DecisionTree Analytics & Services,Senior Data Analyst,3.0,12.8,9.0,17.0,9.0,Senior Data Analyst,Mid
+6072.0,Yodlee,Senior Data Analyst,4.0,7.4,5.0,9.0,8.0,Senior Data Analyst,Mid
+7667.0,Yash Technologies,Senior Data Analyst,7.0,5.8,4.6,7.5,8.0,Senior Data Analyst,Senior
+8439.0,Teleperformance,Senior Data Analyst,2.0,3.0,2.0,4.4,8.0,Senior Data Analyst,Junior
+1863.0,Wunderman,Senior Data Analyst,2.0,5.7,4.5,7.4,8.0,Senior Data Analyst,Junior
+5802.0,Xiaomi,Senior Data Analyst,5.0,9.5,8.1,10.5,8.0,Senior Data Analyst,Mid
+7827.0,Sentieo,Senior Data Analyst,2.0,5.9,5.0,7.0,8.0,Senior Data Analyst,Junior
+1596.0,Fidelity National Information Services,Senior Data Analyst,4.0,9.7,6.5,14.0,8.0,Senior Data Analyst,Mid
+4609.0,Thomson Reuters,Senior Data Analyst,3.0,10.5,8.0,15.0,8.0,Senior Data Analyst,Mid
+1159.0,Maersk,Senior Data Analyst,3.0,7.1,5.0,9.0,8.0,Senior Data Analyst,Mid
+1241.0,Home Credit Finance,Senior Data Analyst,3.0,7.6,4.8,10.0,8.0,Senior Data Analyst,Mid
+8814.0,Standard Chartered Global Business Services,Senior Data Analyst,4.0,18.5,10.5,27.4,8.0,Senior Data Analyst,Mid
+6111.0,Mr Cooper,Senior Data Analyst,2.0,13.0,11.0,15.0,8.0,Senior Data Analyst,Junior
+8388.0,Hudson's bay Company,Senior Data Analyst,3.0,15.7,13.2,18.9,8.0,Senior Data Analyst,Mid
+5385.0,S&P Capital IQ,Senior Data Analyst,3.0,6.4,5.0,9.2,8.0,Senior Data Analyst,Mid
+6368.0,Merkle Sokrati,Senior Data Analyst,1.0,9.1,7.8,12.3,8.0,Senior Data Analyst,Junior
+7373.0,Games24x7,Senior Data Analyst,5.0,17.9,11.5,23.1,8.0,Senior Data Analyst,Mid
+4583.0,Iris Software,Senior Data Analyst,5.0,14.4,10.0,20.0,8.0,Senior Data Analyst,Mid
+7974.0,Axis Bank,Senior Data Analyst,0.0,7.0,5.0,8.3,8.0,Senior Data Analyst,
+7078.0,Mphasis,Senior Data Analyst,4.0,10.3,9.0,11.5,8.0,Senior Data Analyst,Mid
+3586.0,Whitehat jr,Senior Data Analyst,2.0,12.6,8.0,17.0,8.0,Senior Data Analyst,Junior
+1069.0,Blinkit,Senior Data Analyst,1.0,16.7,13.5,23.0,8.0,Senior Data Analyst,Junior
+3651.0,BUDDI.AI,Senior Data Analyst,3.0,4.2,4.0,5.0,8.0,Senior Data Analyst,Mid
+5685.0,Cartesian Consulting,Senior Data Analyst,1.0,7.5,5.6,11.0,7.0,Senior Data Analyst,Junior
+5674.0,Fuel Intelligence,Senior Data Analyst,2.0,4.5,4.0,5.0,7.0,Senior Data Analyst,Junior
+8174.0,General Mills,Senior Data Analyst,4.0,12.2,9.0,15.5,7.0,Senior Data Analyst,Mid
+1548.0,Cisco Systems,Senior Data Analyst,7.0,15.3,13.2,20.3,7.0,Senior Data Analyst,Senior
+2289.0,TIAA Global Business Services,Senior Data Analyst,6.0,15.5,12.0,21.5,7.0,Senior Data Analyst,Senior
+6765.0,Nailbiter,Senior Data Analyst,1.0,4.9,4.5,5.2,7.0,Senior Data Analyst,Junior
+3141.0,Aon,Senior Data Analyst,2.0,7.0,3.8,12.2,7.0,Senior Data Analyst,Junior
+5717.0,Aakash Institute,Senior Data Analyst,1.0,5.3,3.8,6.5,7.0,Senior Data Analyst,Junior
+3920.0,D2L Pharma Research Solutions,Senior Data Analyst,4.0,4.3,3.4,5.2,7.0,Senior Data Analyst,Mid
+1699.0,HARMAN,Senior Data Analyst,5.0,9.4,6.5,12.2,7.0,Senior Data Analyst,Mid
+7242.0,Vaco Binary Semantics,Senior Data Analyst,1.0,5.0,3.5,6.8,7.0,Senior Data Analyst,Junior
+1250.0,B3Intelligence,Senior Data Analyst,3.0,6.8,4.0,8.5,7.0,Senior Data Analyst,Mid
+8278.0,Sapient Corporation,Senior Data Analyst,3.0,12.1,5.1,20.8,7.0,Senior Data Analyst,Mid
+3960.0,Legato Health Technologies,Senior Data Analyst,6.0,14.3,11.7,21.0,7.0,Senior Data Analyst,Senior
+3800.0,Fidelity National Financial,Senior Data Analyst,2.0,4.9,3.5,6.2,7.0,Senior Data Analyst,Junior
+4574.0,Zomato,Senior Data Analyst,0.0,6.2,5.5,7.3,7.0,Senior Data Analyst,
+6952.0,Symphony Retail AI,Senior Data Analyst,3.0,10.5,10.0,11.0,7.0,Senior Data Analyst,Mid
+2082.0,Myntra,Senior Data Analyst,5.0,11.9,7.5,23.0,7.0,Senior Data Analyst,Mid
+2160.0,KPI Partners,Senior Data Analyst,6.0,13.9,11.0,16.0,7.0,Senior Data Analyst,Senior
+6774.0,Reliance Retail,Senior Data Analyst,2.0,6.0,4.5,6.8,7.0,Senior Data Analyst,Junior
+8484.0,Publicis,Senior Data Analyst,3.0,14.9,7.5,20.0,7.0,Senior Data Analyst,Mid
+5173.0,TEKsystems,Senior Data Analyst,4.0,12.2,10.0,13.5,7.0,Senior Data Analyst,Mid
+5395.0,Mobile Premier League,Senior Data Analyst,1.0,25.2,20.0,28.0,7.0,Senior Data Analyst,Junior
+4791.0,Citigroup,Senior Data Analyst,2.0,17.0,14.0,21.0,7.0,Senior Data Analyst,Junior
+1331.0,LearningMate Solutions,Senior Data Analyst,4.0,9.1,8.0,10.8,6.0,Senior Data Analyst,Mid
+7095.0,Encore Capital Group,Senior Data Analyst,3.0,8.5,7.5,9.1,6.0,Senior Data Analyst,Mid
+8186.0,MResult Services,Senior Data Analyst,5.0,8.4,7.0,9.0,6.0,Senior Data Analyst,Mid
+7897.0,XL Catlin,Senior Data Analyst,3.0,14.9,11.8,17.4,6.0,Senior Data Analyst,Mid
+8636.0,Williams Lea Tag,Senior Data Analyst,5.0,6.6,5.0,9.0,6.0,Senior Data Analyst,Mid
+3326.0,Ninjacart,Senior Data Analyst,2.0,6.7,6.0,9.5,6.0,Senior Data Analyst,Junior
+6243.0,Bajaj Finserv,Senior Data Analyst,3.0,11.4,9.4,15.0,6.0,Senior Data Analyst,Mid
+7539.0,Collegedunia,Senior Data Analyst,1.0,4.3,3.6,5.0,6.0,Senior Data Analyst,Junior
+8127.0,Arthur J. Gallagher & Co,Senior Data Analyst,3.0,5.5,5.0,6.6,6.0,Senior Data Analyst,Mid
+4568.0,Athenahealth Technology,Senior Data Analyst,6.0,6.1,5.6,6.6,6.0,Senior Data Analyst,Senior
+8924.0,ADP Solutions,Senior Data Analyst,3.0,10.0,4.5,17.5,6.0,Senior Data Analyst,Mid
+2900.0,UST,Senior Data Analyst,5.0,10.4,6.0,12.0,6.0,Senior Data Analyst,Mid
+1261.0,L&T Infotech,Senior Data Engineer,2.0,11.0,6.0,17.0,729.0,Senior Data Engineer,Junior
+6075.0,Quantiphi Analytics Solutions,Senior Data Engineer,2.0,15.0,9.5,22.5,137.0,Senior Data Engineer,Junior
+3355.0,IBM,Senior Data Engineer,3.0,16.9,10.0,25.0,112.0,Senior Data Engineer,Mid
+2019.0,Maersk,Senior Data Engineer,5.0,21.1,13.4,31.0,110.0,Senior Data Engineer,Mid
+5441.0,Optum,Senior Data Engineer,5.0,16.5,11.9,21.0,83.0,Senior Data Engineer,Mid
+7401.0,Accenture,Senior Data Engineer,3.0,14.3,9.5,22.9,83.0,Senior Data Engineer,Mid
+7834.0,TCS,Senior Data Engineer,5.0,13.3,7.9,20.9,65.0,Senior Data Engineer,Mid
+5687.0,Wells Fargo India,Senior Data Engineer,7.0,21.9,16.9,31.5,64.0,Senior Data Engineer,Senior
+3153.0,Altimetrik,Senior Data Engineer,4.0,15.2,9.5,21.1,56.0,Senior Data Engineer,Mid
+3909.0,Coforge,Senior Data Engineer,4.0,15.3,12.0,18.6,53.0,Senior Data Engineer,Mid
+2794.0,Cognizant,Senior Data Engineer,4.0,15.1,9.0,23.0,51.0,Senior Data Engineer,Mid
+5391.0,Sapient Corporation,Senior Data Engineer,4.0,19.4,15.0,26.0,51.0,Senior Data Engineer,Mid
+3669.0,Fractal Analytics,Senior Data Engineer,4.0,21.8,16.0,30.0,49.0,Senior Data Engineer,Mid
+1037.0,Enquero,Senior Data Engineer,2.0,15.8,11.5,20.0,46.0,Senior Data Engineer,Junior
+3471.0,Walmart,Senior Data Engineer,6.0,35.7,23.0,49.3,44.0,Senior Data Engineer,Senior
+5772.0,Shell,Senior Data Engineer,3.0,23.3,11.2,36.0,42.0,Senior Data Engineer,Mid
+4234.0,UnitedHealth,Senior Data Engineer,5.0,16.1,12.2,25.0,42.0,Senior Data Engineer,Mid
+8386.0,Wipro,Senior Data Engineer,4.0,13.1,8.0,20.0,40.0,Senior Data Engineer,Mid
+4606.0,Larsen & Toubro Limited,Senior Data Engineer,2.0,10.4,6.5,16.0,40.0,Senior Data Engineer,Junior
+6867.0,Mindtree,Senior Data Engineer,2.0,6.7,5.8,10.0,36.0,Senior Data Engineer,Junior
+2016.0,Capgemini,Senior Data Engineer,3.0,16.4,6.8,23.5,35.0,Senior Data Engineer,Mid
+1684.0,Teradata,Senior Data Engineer,5.0,13.5,10.0,18.6,34.0,Senior Data Engineer,Mid
+5605.0,Visa,Senior Data Engineer,3.0,27.3,20.0,32.6,31.0,Senior Data Engineer,Mid
+6184.0,Ernst & Young,Senior Data Engineer,3.0,18.5,12.0,28.5,30.0,Senior Data Engineer,Mid
+3549.0,Concentrix Corporation,Senior Data Engineer,2.0,5.4,4.2,6.6,28.0,Senior Data Engineer,Junior
+3017.0,HCL Technologies,Senior Data Engineer,4.0,18.0,5.0,30.0,28.0,Senior Data Engineer,Mid
+2181.0,Lowe's,Senior Data Engineer,5.0,18.9,16.0,25.0,26.0,Senior Data Engineer,Mid
+3474.0,Indium Software,Senior Data Engineer,3.0,15.5,9.0,22.0,26.0,Senior Data Engineer,Mid
+5978.0,Target,Senior Data Engineer,3.0,22.1,15.5,30.0,25.0,Senior Data Engineer,Mid
+8174.0,Tech Mahindra,Senior Data Engineer,4.0,14.3,7.3,27.0,23.0,Senior Data Engineer,Mid
+4095.0,Deloitte,Senior Data Engineer,4.0,16.3,10.5,22.0,23.0,Senior Data Engineer,Mid
+4217.0,Amazon,Senior Data Engineer,6.0,32.0,18.0,45.0,19.0,Senior Data Engineer,Senior
+3206.0,DXC Technology,Senior Data Engineer,5.0,14.7,9.6,24.2,19.0,Senior Data Engineer,Mid
+8759.0,Tiger Analytics,Senior Data Engineer,5.0,22.1,15.0,28.0,19.0,Senior Data Engineer,Mid
+3293.0,GE Healthcare,Senior Data Engineer,5.0,17.8,13.0,24.8,18.0,Senior Data Engineer,Mid
+1825.0,Morgan Stanley,Senior Data Engineer,6.0,28.8,20.0,36.5,18.0,Senior Data Engineer,Senior
+5572.0,EPAM Systems,Senior Data Engineer,4.0,23.1,17.0,27.0,18.0,Senior Data Engineer,Mid
+8874.0,NIIT Technologies,Senior Data Engineer,2.0,15.0,14.5,15.5,17.0,Senior Data Engineer,Junior
+2545.0,GE,Senior Data Engineer,4.0,19.3,14.0,25.2,16.0,Senior Data Engineer,Mid
+8403.0,JLL,Senior Data Engineer,4.0,23.5,16.5,33.0,16.0,Senior Data Engineer,Mid
+3114.0,Nagarro,Senior Data Engineer,3.0,24.1,17.0,32.0,16.0,Senior Data Engineer,Mid
+3013.0,NIKE,Senior Data Engineer,5.0,31.0,27.0,35.0,16.0,Senior Data Engineer,Mid
+6927.0,Micron Technology,Senior Data Engineer,5.0,19.8,12.5,29.0,16.0,Senior Data Engineer,Mid
+4999.0,Nokia,Senior Data Engineer,5.0,17.5,13.5,25.0,14.0,Senior Data Engineer,Mid
+6789.0,UST,Senior Data Engineer,4.0,14.5,9.3,21.0,14.0,Senior Data Engineer,Mid
+3935.0,Wavicle Data Solutions,Senior Data Engineer,0.0,11.8,9.0,15.6,14.0,Senior Data Engineer,
+5076.0,KPI Partners,Senior Data Engineer,4.0,17.1,13.5,22.3,14.0,Senior Data Engineer,Mid
+8837.0,Happiest Minds Technologies,Senior Data Engineer,5.0,16.3,9.5,24.5,13.0,Senior Data Engineer,Mid
+2545.0,BCG,Senior Data Engineer,4.0,24.7,20.1,28.0,13.0,Senior Data Engineer,Mid
+3755.0,Infosys,Senior Data Engineer,2.0,8.7,4.5,15.5,13.0,Senior Data Engineer,Junior
+4023.0,JP Morgan Chase,Senior Data Engineer,5.0,22.3,11.9,28.0,13.0,Senior Data Engineer,Mid
+4444.0,Philips,Senior Data Engineer,2.0,17.5,15.0,22.0,12.0,Senior Data Engineer,Junior
+2606.0,Innova Solutions,Senior Data Engineer,7.0,27.1,16.0,40.0,12.0,Senior Data Engineer,Senior
+8804.0,Legato Health Technologies,Senior Data Engineer,4.0,16.9,11.0,22.0,12.0,Senior Data Engineer,Mid
+5376.0,DUNNHUMBY IT SERVICES INDIA,Senior Data Engineer,2.0,13.2,11.0,18.0,12.0,Senior Data Engineer,Junior
+7827.0,Ecolab Digital Center,Senior Data Engineer,5.0,17.1,12.3,19.8,12.0,Senior Data Engineer,Mid
+5349.0,Bosch Global Software Technologies,Senior Data Engineer,2.0,13.8,9.0,22.0,11.0,Senior Data Engineer,Junior
+7599.0,Maersk Line,Senior Data Engineer,4.0,21.5,16.2,29.5,11.0,Senior Data Engineer,Mid
+6436.0,Commonwealth Bank of Australia,Senior Data Engineer,7.0,31.7,20.8,43.1,11.0,Senior Data Engineer,Senior
+8010.0,Cisco Systems,Senior Data Engineer,10.0,25.9,22.0,32.0,11.0,Senior Data Engineer,Senior
+8941.0,Tredence,Senior Data Engineer,1.0,10.7,8.0,15.0,11.0,Senior Data Engineer,Junior
+6194.0,Oracle,Senior Data Engineer,5.0,29.2,15.0,51.0,11.0,Senior Data Engineer,Mid
+6057.0,Lenovo,Senior Data Engineer,4.0,13.5,12.0,17.0,10.0,Senior Data Engineer,Mid
+5326.0,Photon Interactive,Senior Data Engineer,4.0,8.1,6.4,10.0,10.0,Senior Data Engineer,Mid
+4934.0,Intersoft Data Labs,Senior Data Engineer,3.0,29.2,20.0,37.8,10.0,Senior Data Engineer,Mid
+5877.0,Lumiq.ai,Senior Data Engineer,3.0,14.0,10.0,17.5,10.0,Senior Data Engineer,Mid
+3237.0,Dell,Senior Data Engineer,2.0,13.2,9.2,18.0,10.0,Senior Data Engineer,Junior
+8163.0,SpringML,Senior Data Engineer,2.0,11.1,8.5,16.5,10.0,Senior Data Engineer,Junior
+7150.0,Verizon,Senior Data Engineer,4.0,17.6,10.0,30.2,9.0,Senior Data Engineer,Mid
+4732.0,Dunnhumby,Senior Data Engineer,2.0,13.6,10.0,18.0,9.0,Senior Data Engineer,Junior
+5197.0,Hewlett-Packard Enterprise,Senior Data Engineer,3.0,24.9,9.0,35.0,9.0,Senior Data Engineer,Mid
+8559.0,Bajaj Finserv,Senior Data Engineer,1.0,14.4,9.7,19.0,9.0,Senior Data Engineer,Junior
+6218.0,Ab Inbev,Senior Data Engineer,8.0,26.4,20.0,35.0,9.0,Senior Data Engineer,Senior
+2133.0,Collabera Technologies,Senior Data Engineer,4.0,15.1,11.0,25.0,9.0,Senior Data Engineer,Mid
+3370.0,GE Aviation,Senior Data Engineer,8.0,18.7,16.0,24.0,9.0,Senior Data Engineer,Senior
+4061.0,News Technology Services,Senior Data Engineer,5.0,17.4,12.3,21.0,9.0,Senior Data Engineer,Mid
+4700.0,ZS,Senior Data Engineer,2.0,18.6,15.0,23.0,9.0,Senior Data Engineer,Junior
+3212.0,NTT DATA,Senior Data Engineer,2.0,19.9,11.0,28.6,9.0,Senior Data Engineer,Junior
+8450.0,Koch Business Solutions,Senior Data Engineer,7.0,29.5,23.0,37.0,9.0,Senior Data Engineer,Senior
+6502.0,PwC,Senior Data Engineer,4.0,17.0,11.4,24.0,9.0,Senior Data Engineer,Mid
+2330.0,McKinsey & Company,Senior Data Engineer,5.0,26.6,19.0,33.0,8.0,Senior Data Engineer,Mid
+2302.0,Indegene,Senior Data Engineer,3.0,15.7,10.0,18.8,8.0,Senior Data Engineer,Mid
+3901.0,Johnson & Johnson,Senior Data Engineer,4.0,16.4,12.0,21.0,8.0,Senior Data Engineer,Mid
+1393.0,Optum Global Solutions,Senior Data Engineer,7.0,18.5,14.5,23.5,8.0,Senior Data Engineer,Senior
+5905.0,DBS Bank,Senior Data Engineer,5.0,20.4,14.0,30.0,8.0,Senior Data Engineer,Mid
+3309.0,Bank of America,Senior Data Engineer,4.0,16.1,13.5,19.3,8.0,Senior Data Engineer,Mid
+3917.0,American Express,Senior Data Engineer,7.0,28.6,22.0,40.0,8.0,Senior Data Engineer,Senior
+5663.0,Nisum Technologies,Senior Data Engineer,3.0,20.1,18.0,24.0,8.0,Senior Data Engineer,Mid
+7159.0,Mphasis,Senior Data Engineer,5.0,13.8,8.7,20.0,8.0,Senior Data Engineer,Mid
+5587.0,Samsung,Senior Data Engineer,4.0,15.2,10.0,21.0,8.0,Senior Data Engineer,Mid
+7396.0,MakeMyTrip,Senior Data Engineer,3.0,26.4,17.0,37.0,7.0,Senior Data Engineer,Mid
+7499.0,Saama Technologies,Senior Data Engineer,4.0,16.5,13.7,21.2,7.0,Senior Data Engineer,Mid
+6005.0,TO THE NEW,Senior Data Engineer,4.0,18.9,18.0,20.0,7.0,Senior Data Engineer,Mid
+5448.0,PayPal,Senior Data Engineer,6.0,23.7,19.0,28.0,7.0,Senior Data Engineer,Senior
+8883.0,Harman Connected Services,Senior Data Engineer,5.0,19.8,14.0,32.0,7.0,Senior Data Engineer,Mid
+7936.0,ITC Infotech India,Senior Data Engineer,4.0,16.8,10.6,21.5,7.0,Senior Data Engineer,Mid
+7355.0,IQVIA,Senior Data Engineer,4.0,17.3,13.0,21.5,7.0,Senior Data Engineer,Mid
+3402.0,Luxoft,Senior Data Engineer,5.0,19.5,15.0,23.0,7.0,Senior Data Engineer,Mid
+6249.0,Paytm,Senior Data Engineer,4.0,25.9,20.0,33.0,7.0,Senior Data Engineer,Mid
+8302.0,Citicorp,Senior Data Engineer,4.0,23.1,18.8,28.0,7.0,Senior Data Engineer,Mid
+8836.0,Axa XL,Senior Data Engineer,4.0,7.7,7.0,9.2,7.0,Senior Data Engineer,Mid
+3856.0,TEKsystems,Senior Data Engineer,5.0,16.4,10.5,26.0,7.0,Senior Data Engineer,Mid
+5649.0,HSBC,Senior Data Engineer,5.0,16.1,12.0,20.0,7.0,Senior Data Engineer,Mid
+2135.0,AstraZeneca,Senior Data Engineer,9.0,14.0,11.0,19.0,6.0,Senior Data Engineer,Senior
+2299.0,BlazeClan Technologies,Senior Data Engineer,4.0,10.0,7.3,11.7,6.0,Senior Data Engineer,Mid
+7892.0,Data Semantics,Senior Data Engineer,7.0,15.4,11.0,17.4,6.0,Senior Data Engineer,Senior
+8906.0,Birlasoft,Senior Data Engineer,4.0,12.0,8.8,13.5,6.0,Senior Data Engineer,Mid
+3042.0,Xpo Logistics,Senior Data Engineer,6.0,16.3,14.0,18.0,6.0,Senior Data Engineer,Senior
+7012.0,Renault Nissan Technology & Business Centre India,Senior Data Engineer,5.0,8.2,7.7,9.1,6.0,Senior Data Engineer,Mid
+3802.0,DataWeave,Senior Data Engineer,3.0,13.5,11.3,16.0,6.0,Senior Data Engineer,Mid
+5650.0,Eli Lilly and Company,Senior Data Engineer,7.0,25.4,17.4,32.0,6.0,Senior Data Engineer,Senior
+1056.0,DataMetica,Senior Data Engineer,4.0,13.3,7.5,23.0,6.0,Senior Data Engineer,Mid
+1048.0,InfoStretch,Senior Data Engineer,4.0,16.8,10.7,23.0,6.0,Senior Data Engineer,Mid
+3863.0,GE Transportation,Senior Data Engineer,8.0,22.2,21.0,23.0,6.0,Senior Data Engineer,Senior
+3918.0,Baker Hughes,Senior Data Engineer,8.0,21.4,16.0,27.1,6.0,Senior Data Engineer,Senior
+1765.0,Intuit,Senior Data Engineer,8.0,36.599000000000004,26.0,47.0,5.0,Senior Data Engineer,Senior
+2816.0,Expedia,Senior Data Engineer,6.0,34.8,27.0,41.3,5.0,Senior Data Engineer,Senior
+6860.0,Yash Technologies,Senior Data Engineer,5.0,14.5,10.0,16.0,5.0,Senior Data Engineer,Mid
+2110.0,IHS Markit,Senior Data Engineer,6.0,24.0,19.0,27.0,5.0,Senior Data Engineer,Senior
+1264.0,Swiss Re,Senior Data Engineer,6.0,20.2,17.0,25.0,5.0,Senior Data Engineer,Senior
+4668.0,Dun & Bradstreet,Senior Data Engineer,7.0,18.0,14.2,23.0,5.0,Senior Data Engineer,Senior
+1613.0,Siemens Healthineers,Senior Data Engineer,4.0,20.0,14.0,24.0,5.0,Senior Data Engineer,Mid
+1188.0,Apar Technologies,Senior Data Engineer,8.0,24.5,21.5,28.0,5.0,Senior Data Engineer,Senior
+7288.0,GE Digital,Senior Data Engineer,7.0,16.9,15.0,19.9,5.0,Senior Data Engineer,Senior
+2903.0,Riskonnect,Senior Data Engineer,4.0,8.5,7.0,9.8,5.0,Senior Data Engineer,Mid
+3356.0,T-Systems,Senior Data Engineer,7.0,21.2,17.5,23.5,5.0,Senior Data Engineer,Senior
+8414.0,NCR Corporation,Senior Data Engineer,4.0,16.0,11.3,22.6,5.0,Senior Data Engineer,Mid
+3343.0,BA Continuum,Senior Data Engineer,7.0,19.6,17.4,21.0,5.0,Senior Data Engineer,Senior
+2769.0,Softcrylic Technology Solutions,Senior Data Engineer,4.0,18.6,10.0,29.5,5.0,Senior Data Engineer,Mid
+2156.0,Rakuten,Senior Data Engineer,5.0,23.2,16.6,30.9,5.0,Senior Data Engineer,Mid
+1141.0,Honeywell Technology Solutions,Senior Data Engineer,2.0,22.5,20.1,24.0,5.0,Senior Data Engineer,Junior
+5628.0,GlobalLogic,Senior Data Engineer,3.0,17.3,10.4,23.1,5.0,Senior Data Engineer,Mid
+1241.0,Emirates Airlines,Senior Data Engineer,6.0,36.599000000000004,20.0,51.0,5.0,Senior Data Engineer,Senior
+2007.0,ValueLabs,Senior Data Engineer,5.0,19.5,15.0,21.7,5.0,Senior Data Engineer,Mid
+7656.0,GEP Worldwide,Senior Data Engineer,4.0,15.5,13.5,17.5,5.0,Senior Data Engineer,Mid
+6282.0,Ameriprise Financial,Senior Data Engineer,3.0,11.7,10.0,15.0,5.0,Senior Data Engineer,Mid
+5450.0,Gartner India Research and Advisory Services,Senior Data Engineer,3.0,20.0,16.5,24.5,5.0,Senior Data Engineer,Mid
+5772.0,Information Evolution,Senior Data Engineer,3.0,3.4,2.5,4.3,5.0,Senior Data Engineer,Mid
+1207.0,Alliance Data,Senior Data Engineer,4.0,16.9,14.5,19.0,5.0,Senior Data Engineer,Mid
+1241.0,Franklin Templeton International Services,Senior Data Engineer,5.0,18.7,14.2,23.5,5.0,Senior Data Engineer,Mid
+7539.0,Boeing,Senior Data Engineer,7.0,22.2,14.0,27.0,5.0,Senior Data Engineer,Senior
+6365.0,Kloud 9,Senior Data Engineer,7.0,29.9,24.0,39.0,5.0,Senior Data Engineer,Senior
+4492.0,Algonomy,Senior Data Engineer,8.0,15.2,13.5,16.3,5.0,Senior Data Engineer,Senior
+3633.0,Tavant Technologies,Senior Data Engineer,4.0,13.7,10.5,16.5,5.0,Senior Data Engineer,Mid
+2090.0,Cgi Group,Senior Data Engineer,5.0,12.0,6.5,15.4,5.0,Senior Data Engineer,Mid
+6487.0,Societe Generale,Senior Data Engineer,7.0,21.9,12.5,34.5,5.0,Senior Data Engineer,Senior
+8400.0,Mr Cooper,Senior Data Engineer,4.0,13.8,9.0,17.0,5.0,Senior Data Engineer,Mid
+6787.0,ValueMomentum,Senior Data Engineer,4.0,19.4,12.0,27.0,5.0,Senior Data Engineer,Mid
+4075.0,Clairvoyant India,Senior Data Engineer,5.0,16.1,12.0,20.0,5.0,Senior Data Engineer,Mid
+3862.0,Mercedes-Benz Research & Development India,Senior Data Engineer,3.0,26.2,11.5,51.0,5.0,Senior Data Engineer,Mid
+8290.0,Knoema IT Solutions,Senior Data Engineer,4.0,8.9,5.3,13.0,5.0,Senior Data Engineer,Mid
+7450.0,Evalueserve,Senior Data Engineer,4.0,12.5,10.4,17.4,5.0,Senior Data Engineer,Mid
+2029.0,Uber,Senior Data Engineer,7.0,36.599000000000004,27.0,51.0,5.0,Senior Data Engineer,Senior
+4983.0,GGK Technologies,Senior Data Engineer,5.0,11.2,9.0,14.5,5.0,Senior Data Engineer,Mid
+2232.0,Anju Software,Senior Data Engineer,4.0,16.9,6.8,20.0,5.0,Senior Data Engineer,Mid
+2936.0,phData,Senior Data Engineer,4.0,20.0,16.0,25.0,5.0,Senior Data Engineer,Mid
+3616.0,ACS Solution,Senior Data Engineer,3.0,15.2,13.8,16.4,5.0,Senior Data Engineer,Mid
+6775.0,MassMutual,Senior Data Engineer,6.0,19.3,18.3,21.0,5.0,Senior Data Engineer,Senior
+7634.0,ConcertAI,Senior Data Engineer,5.0,28.2,22.0,32.0,5.0,Senior Data Engineer,Mid
+1776.0,Onepoint IT Consulting,Senior Data Engineer,4.0,10.3,9.6,10.8,4.0,Senior Data Engineer,Mid
+1784.0,Sapient Global Markets,Senior Data Engineer,5.0,19.9,15.0,25.0,4.0,Senior Data Engineer,Mid
+3278.0,Marlabs,Senior Data Engineer,2.0,14.2,6.7,20.0,4.0,Senior Data Engineer,Junior
+4124.0,Red Hat,Senior Data Engineer,2.0,18.9,11.8,26.0,4.0,Senior Data Engineer,Junior
+1076.0,EXL Service,Senior Data Engineer,3.0,18.7,13.0,23.6,4.0,Senior Data Engineer,Mid
+3422.0,Advance Auto Parts,Senior Data Engineer,7.0,25.7,24.0,28.9,4.0,Senior Data Engineer,Senior
+1583.0,Telstra,Senior Data Engineer,7.0,27.6,18.0,32.0,4.0,Senior Data Engineer,Senior
+4777.0,GE Power,Senior Data Engineer,8.0,15.4,11.0,22.0,4.0,Senior Data Engineer,Senior
+5784.0,Epsilon,Senior Data Engineer,8.0,23.8,16.5,26.8,4.0,Senior Data Engineer,Senior
+7490.0,Cimpress,Senior Data Engineer,4.0,20.5,15.0,23.0,4.0,Senior Data Engineer,Mid
+3262.0,Senvion,Senior Data Engineer,4.0,12.7,9.0,16.0,4.0,Senior Data Engineer,Mid
+4343.0,USEReady,Senior Data Engineer,4.0,14.3,9.4,18.4,4.0,Senior Data Engineer,Mid
+4731.0,Milliman,Senior Data Engineer,5.0,19.5,14.1,25.0,4.0,Senior Data Engineer,Mid
+4942.0,Blackhawk Network,Senior Data Engineer,5.0,21.8,16.4,25.0,4.0,Senior Data Engineer,Mid
+8937.0,Wabtec,Senior Data Engineer,9.0,20.0,19.0,21.0,4.0,Senior Data Engineer,Senior
+8506.0,KrazyBee,Senior Data Engineer,3.0,10.3,8.5,15.7,4.0,Senior Data Engineer,Mid
+3916.0,Roche Diagnostics,Senior Data Engineer,5.0,33.1,23.5,43.0,4.0,Senior Data Engineer,Mid
+3081.0,Fidelity National Information Services,Senior Data Engineer,6.0,20.1,12.0,23.8,4.0,Senior Data Engineer,Senior
+6757.0,XL Health,Senior Data Engineer,4.0,9.9,8.5,12.0,4.0,Senior Data Engineer,Mid
+4714.0,ADP Solutions,Senior Data Engineer,4.0,14.3,11.6,19.0,4.0,Senior Data Engineer,Mid
+8979.0,Hexaware Technologies,Senior Data Engineer,8.0,18.4,13.0,22.8,4.0,Senior Data Engineer,Senior
+3261.0,Citibank,Senior Data Engineer,6.0,18.2,14.0,20.0,4.0,Senior Data Engineer,Senior
+2509.0,Akamai Technologies,Senior Data Engineer,5.0,24.1,21.8,25.1,4.0,Senior Data Engineer,Mid
+5427.0,Quest Global,Senior Data Engineer,8.0,20.3,17.0,24.0,4.0,Senior Data Engineer,Senior
+8730.0,TCS,Machine Learning Engineer,1.0,5.8,4.0,9.3,193.0,Machine Learning Engineer,Junior
+7970.0,Quantiphi Analytics Solutions,Machine Learning Engineer,1.0,11.2,7.4,15.0,174.0,Machine Learning Engineer,Junior
+3670.0,Accenture,Machine Learning Engineer,2.0,9.9,5.4,15.2,61.0,Machine Learning Engineer,Junior
+5039.0,Wipro,Machine Learning Engineer,1.0,5.9,3.5,13.0,45.0,Machine Learning Engineer,Junior
+4623.0,Tiger Analytics,Machine Learning Engineer,0.0,13.6,9.0,22.0,37.0,Machine Learning Engineer,
+6359.0,Capgemini,Machine Learning Engineer,2.0,6.3,4.5,12.1,29.0,Machine Learning Engineer,Junior
+3690.0,Infosys,Machine Learning Engineer,2.0,6.7,4.3,14.7,28.0,Machine Learning Engineer,Junior
+5388.0,Cognizant,Machine Learning Engineer,1.0,8.0,4.0,15.2,28.0,Machine Learning Engineer,Junior
+8641.0,HCL Technologies,Machine Learning Engineer,0.0,8.3,4.2,14.0,21.0,Machine Learning Engineer,
+7359.0,Tech Mahindra,Machine Learning Engineer,1.0,7.3,3.9,16.2,20.0,Machine Learning Engineer,Junior
+8279.0,IBM,Machine Learning Engineer,3.0,9.3,4.5,13.2,18.0,Machine Learning Engineer,Mid
+5845.0,Deloitte,Machine Learning Engineer,2.0,13.7,8.3,21.0,14.0,Machine Learning Engineer,Junior
+8614.0,Amazon,Machine Learning Engineer,1.0,12.5,4.2,28.5,13.0,Machine Learning Engineer,Junior
+5078.0,Qualcomm,Machine Learning Engineer,0.0,19.4,12.0,29.8,12.0,Machine Learning Engineer,
+1639.0,OptiSol Business Solutions,Machine Learning Engineer,0.0,5.6,3.5,8.5,11.0,Machine Learning Engineer,
+5795.0,Mindtree,Machine Learning Engineer,1.0,5.3,3.5,7.0,10.0,Machine Learning Engineer,Junior
+2328.0,Virtusa Consulting Services,Machine Learning Engineer,0.0,5.1,4.0,9.0,9.0,Machine Learning Engineer,
+5245.0,Ford Motor,Machine Learning Engineer,2.0,11.8,7.5,16.0,9.0,Machine Learning Engineer,Junior
+4868.0,Samsung Research,Machine Learning Engineer,1.0,17.4,11.0,25.0,9.0,Machine Learning Engineer,Junior
+7490.0,DXC Technology,Machine Learning Engineer,2.0,7.3,4.0,11.0,8.0,Machine Learning Engineer,Junior
+5325.0,UST,Machine Learning Engineer,2.0,6.7,5.0,9.0,8.0,Machine Learning Engineer,Junior
+6058.0,Reliance jio,Machine Learning Engineer,2.0,9.2,5.5,15.0,8.0,Machine Learning Engineer,Junior
+6517.0,Straive,Machine Learning Engineer,3.0,9.3,4.5,13.5,8.0,Machine Learning Engineer,Mid
+2325.0,e-Zest,Machine Learning Engineer,0.0,4.5,2.1,7.0,7.0,Machine Learning Engineer,
+6763.0,Trantor,Machine Learning Engineer,1.0,9.4,7.0,16.5,7.0,Machine Learning Engineer,Junior
+5830.0,JP Morgan Chase,Machine Learning Engineer,3.0,16.9,13.0,22.0,7.0,Machine Learning Engineer,Mid
+8422.0,Freelancer.com,Machine Learning Engineer,0.0,5.1,2.0,8.4,7.0,Machine Learning Engineer,
+5862.0,Jio Platforms,Machine Learning Engineer,0.0,10.9,6.7,16.8,7.0,Machine Learning Engineer,
+3105.0,Monsoon CreditTech,Machine Learning Engineer,0.0,9.6,7.0,12.0,6.0,Machine Learning Engineer,
+3086.0,L&T Technology Services,Machine Learning Engineer,1.0,5.3,4.4,7.0,6.0,Machine Learning Engineer,Junior
+3394.0,Sysark,Machine Learning Engineer,1.0,3.7,3.1,4.5,6.0,Machine Learning Engineer,Junior
+7499.0,Lucida Technologies,Machine Learning Engineer,1.0,3.6,3.3,4.3,6.0,Machine Learning Engineer,Junior
+7243.0,Ignitarium Technology Solutions,Machine Learning Engineer,0.0,5.8,5.0,7.0,6.0,Machine Learning Engineer,
+2489.0,Oracle,Machine Learning Engineer,1.0,20.7,20.0,22.0,6.0,Machine Learning Engineer,Junior
+6012.0,Samsung,Machine Learning Engineer,0.0,16.8,14.0,21.5,6.0,Machine Learning Engineer,
+8657.0,Sri Ayyan Kendra Vidyalaya International School,Machine Learning Engineer,1.0,6.1,2.3,10.0,5.0,Machine Learning Engineer,Junior
+6584.0,Reflections Info Systems,Machine Learning Engineer,1.0,3.6,3.0,4.5,5.0,Machine Learning Engineer,Junior
+6406.0,Qualitas Technologies,Machine Learning Engineer,1.0,4.7,2.8,7.0,5.0,Machine Learning Engineer,Junior
+3804.0,Allstate,Machine Learning Engineer,5.0,12.1,11.2,13.0,5.0,Machine Learning Engineer,Mid
+1576.0,Barclays,Machine Learning Engineer,3.0,19.4,9.0,29.1,5.0,Machine Learning Engineer,Mid
+2744.0,Ericsson,Machine Learning Engineer,2.0,11.9,6.2,18.5,5.0,Machine Learning Engineer,Junior
+5013.0,Confidential,Machine Learning Engineer,1.0,7.4,5.9,9.0,5.0,Machine Learning Engineer,Junior
+3456.0,Taglr Technologies,Machine Learning Engineer,0.0,6.3,4.5,10.0,5.0,Machine Learning Engineer,
+6525.0,Takvaviya Analytics,Machine Learning Engineer,1.0,4.8,4.2,5.3,5.0,Machine Learning Engineer,Junior
+1304.0,AAIC Technologies,Machine Learning Engineer,0.0,9.1,6.0,14.8,5.0,Machine Learning Engineer,
+2171.0,CIMCON Software,Machine Learning Engineer,2.0,6.6,3.0,10.0,5.0,Machine Learning Engineer,Junior
+6484.0,Siemens,Machine Learning Engineer,3.0,11.7,6.0,16.0,5.0,Machine Learning Engineer,Mid
+1122.0,Fractal Analytics,Machine Learning Engineer,4.0,19.4,15.0,25.0,5.0,Machine Learning Engineer,Mid
+6142.0,Metagogy Learning Systems,Machine Learning Engineer,0.0,3.7,3.0,4.2,5.0,Machine Learning Engineer,
+1869.0,EEGRAB,Machine Learning Engineer,1.0,5.1,3.5,7.2,5.0,Machine Learning Engineer,Junior
+7698.0,Digitalmain,Machine Learning Engineer,1.0,4.4,3.0,5.8,5.0,Machine Learning Engineer,Junior
+5256.0,Danaher,Machine Learning Engineer,6.0,24.8,24.0,26.0,5.0,Machine Learning Engineer,Senior
+1064.0,Phenom,Machine Learning Engineer,1.0,12.6,9.0,16.0,5.0,Machine Learning Engineer,Junior
+4348.0,Orange Business Services,Machine Learning Engineer,5.0,16.1,15.0,18.0,4.0,Machine Learning Engineer,Mid
+5584.0,Calsoft,Machine Learning Engineer,1.0,10.9,6.0,25.0,4.0,Machine Learning Engineer,Junior
+1151.0,Hewlett-Packard Enterprise,Machine Learning Engineer,2.0,23.3,7.0,40.0,4.0,Machine Learning Engineer,Junior
+5171.0,Datamatics Global Services,Machine Learning Engineer,1.0,5.1,3.1,8.0,4.0,Machine Learning Engineer,Junior
+4016.0,Techolution,Machine Learning Engineer,4.0,10.0,7.0,14.0,4.0,Machine Learning Engineer,Mid
+8875.0,Intel,Machine Learning Engineer,1.0,14.4,10.5,16.1,4.0,Machine Learning Engineer,Junior
+6274.0,Accenture,Data Architect,8.0,24.6,15.8,33.0,55.0,Data Architect,Senior
+6618.0,TCS,Data Architect,8.0,19.9,13.0,30.0,49.0,Data Architect,Senior
+2337.0,Fiserv,Data Architect,3.0,11.2,8.4,18.4,47.0,Data Architect,Mid
+2022.0,IBM,Data Architect,10.0,19.6,13.5,29.0,44.0,Data Architect,Senior
+4135.0,Cognizant,Data Architect,10.0,19.6,15.0,25.5,42.0,Data Architect,Senior
+3034.0,Wipro,Data Architect,8.0,20.2,13.0,27.5,29.0,Data Architect,Senior
+6142.0,Globant,Data Architect,4.0,21.2,15.5,32.0,21.0,Data Architect,Mid
+1839.0,Capgemini,Data Architect,10.0,22.6,16.0,32.0,19.0,Data Architect,Senior
+3084.0,Tech Mahindra,Data Architect,13.0,17.3,11.2,25.0,12.0,Data Architect,Executive
+8450.0,HCL Technologies,Data Architect,13.0,23.1,16.6,31.0,10.0,Data Architect,Executive
+8451.0,UST,Data Architect,9.0,26.8,16.0,45.0,9.0,Data Architect,Senior
+1314.0,Adobe,Data Architect,9.0,32.6,27.0,37.0,8.0,Data Architect,Senior
+2672.0,Cgi Group,Data Architect,8.0,23.9,17.0,30.6,8.0,Data Architect,Senior
+7853.0,Infosys,Data Architect,13.0,19.8,11.9,32.0,8.0,Data Architect,Executive
+1848.0,JP Morgan Chase,Data Architect,8.0,35.1,27.0,45.0,8.0,Data Architect,Senior
+8820.0,Genpact,Data Architect,7.0,26.1,15.0,37.0,7.0,Data Architect,Senior
+8211.0,Ernst & Young,Data Architect,8.0,23.5,20.0,27.7,6.0,Data Architect,Senior
+3608.0,Deloitte,Data Architect,11.0,27.6,21.2,32.3,6.0,Data Architect,Executive
+2239.0,PepsiCo,Data Architect,10.0,33.6,26.1,49.0,6.0,Data Architect,Senior
+3202.0,Anthology,Data Architect,11.0,25.5,25.0,26.3,6.0,Data Architect,Executive
+1941.0,DXC Technology,Data Architect,14.0,19.8,15.5,24.0,5.0,Data Architect,Executive
+4478.0,Atos,Data Architect,12.0,22.8,17.2,35.7,5.0,Data Architect,Executive
+8902.0,ValueLabs,Data Architect,9.0,22.5,21.0,26.7,5.0,Data Architect,Senior
+4813.0,Barclays,Data Architect,15.0,30.4,27.0,30.7,5.0,Data Architect,Executive
+2588.0,Ericsson,Data Architect,8.0,17.5,12.8,26.5,5.0,Data Architect,Senior
+7967.0,Vodafone Idea,Data Architect,10.0,25.8,21.3,30.0,5.0,Data Architect,Senior
+6303.0,IQVIA,Data Architect,8.0,28.6,25.0,34.0,5.0,Data Architect,Senior
+3861.0,Amdocs,Data Architect,5.0,12.5,9.9,16.1,5.0,Data Architect,Mid
+7616.0,Mindtree,Data Architect,10.0,20.5,17.5,23.0,5.0,Data Architect,Senior
+7678.0,Mphasis,Data Architect,13.0,20.9,14.0,32.0,5.0,Data Architect,Executive
+1377.0,PwC,Data Architect,8.0,21.6,13.0,32.0,5.0,Data Architect,Senior
+5109.0,Happiest Minds Technologies,Data Architect,12.0,27.6,26.5,29.0,4.0,Data Architect,Executive
+5994.0,Shell,Data Architect,14.0,35.7,27.0,38.0,4.0,Data Architect,Executive
+6714.0,Fidelity International,Data Architect,8.0,36.599000000000004,23.4,51.0,4.0,Data Architect,Senior
+2842.0,Maveric Systems,Data Architect,9.0,19.0,19.0,19.0,4.0,Data Architect,Senior
+5485.0,Webhelp,Data Architect,5.0,12.0,7.5,18.0,4.0,Data Architect,Mid
+3847.0,Bajaj Finserv,Data Architect,6.0,33.1,19.0,42.5,4.0,Data Architect,Senior
+1379.0,GlobalLogic,Data Architect,10.0,25.5,22.7,28.5,4.0,Data Architect,Senior
+1999.0,L&T Infotech,Data Architect,11.0,24.8,20.5,33.5,4.0,Data Architect,Executive
+7143.0,Ab Inbev,Data Architect,14.0,29.8,26.1,31.0,4.0,Data Architect,Executive
+1125.0,Automatic Data Processing,Data Architect,7.0,36.5,14.0,51.0,4.0,Data Architect,Senior
+5862.0,Brillio,Data Architect,14.0,28.3,25.0,38.0,4.0,Data Architect,Executive
+3083.0,Whishworks It Consulting,Data Architect,13.0,29.8,20.0,37.0,4.0,Data Architect,Executive
+1459.0,ITC Infotech India,Data Architect,12.0,29.0,19.8,40.0,4.0,Data Architect,Executive
+8528.0,IVY Comptech,Data Architect,12.0,21.8,17.0,29.0,4.0,Data Architect,Executive
+3456.0,Collabera Technologies,Data Architect,8.0,17.0,12.0,23.1,4.0,Data Architect,Senior
+7737.0,Coforge,Data Architect,7.0,27.1,18.5,39.0,4.0,Data Architect,Senior
+5920.0,Hitachi,Data Architect,21.0,36.599000000000004,25.0,50.0,3.0,Data Architect,Executive
+8388.0,GE Power,Data Architect,7.0,16.7,14.9,19.0,3.0,Data Architect,Senior
+1385.0,T-Systems,Data Architect,16.0,33.3,27.0,34.0,3.0,Data Architect,Executive
