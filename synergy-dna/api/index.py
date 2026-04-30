@@ -81,6 +81,45 @@ INDIAN_NAMES = [
 
 INDIAN_CITIES = ["Bengaluru", "Mumbai", "Hyderabad", "Pune", "Chennai", "Delhi NCR", "Kolkata", "Ahmedabad"]
 
+# Realistic Indian company names keyed by (company_type, industry)
+COMPANY_NAMES = {
+    ("Startup",      "Tech"):        ["Razorpay", "Zepto", "Groww", "Meesho", "BrowserStack", "Postman", "Darwinbox"],
+    ("Startup",      "Finance"):     ["Cred", "Slice", "Fi Money", "Jupiter", "Freo", "Juspay"],
+    ("Startup",      "Education"):   ["Byju's", "Unacademy", "Scaler", "upGrad", "Vedantu", "PrepLadder"],
+    ("Startup",      "Healthcare"):  ["Practo", "PharmEasy", "1mg", "HealthifyMe", "Innovaccer"],
+    ("Startup",      "E-commerce"):  ["Nykaa", "Meesho", "Dealshare", "Udaan", "Vahak"],
+    ("MNC",          "Tech"):        ["Google India", "Microsoft IDC", "Amazon India", "Adobe Systems", "Salesforce India"],
+    ("MNC",          "Finance"):     ["Goldman Sachs Bengaluru", "JP Morgan India", "Deutsche Bank India", "Citi India"],
+    ("MNC",          "Education"):   ["Pearson India", "Coursera India", "Duolingo India"],
+    ("MNC",          "Healthcare"):  ["Johnson & Johnson India", "Philips Healthcare", "Siemens Healthineers"],
+    ("MNC",          "E-commerce"):  ["Amazon India", "Flipkart", "Myntra"],
+    ("Large",        "Tech"):        ["Tata Consultancy Services", "Infosys", "Wipro", "HCL Technologies", "Tech Mahindra"],
+    ("Large",        "Finance"):     ["HDFC Bank Tech", "ICICI Lombard", "Bajaj Finserv", "Kotak Digital"],
+    ("Large",        "Education"):   ["Tata ClassEdge", "NIIT Technologies", "Educomp"],
+    ("Research Lab", "Tech"):        ["IISc Research", "TCS Innovation Labs", "Samsung R&D India", "Intel India"],
+    ("Research Lab", "Finance"):     ["Reserve Bank Innovation Hub", "SEBI Research", "NPCI Analytics"],
+    ("Research Lab", "Education"):   ["IIT Bombay AI Lab", "IISc ML Lab", "IIIT Hyderabad NLP Lab"],
+    ("Small",        "Tech"):        ["Hasura", "Setu", "Clarisights", "Dukaan", "SuperOps", "Zuddl"],
+    ("Small",        "Finance"):     ["Smallcase", "Stable Money", "Finvasia", "Paytm Money"],
+    ("Medium",       "Tech"):        ["Freshworks", "Zoho Corp", "Chargebee", "Kissflow", "Saama Tech"],
+    ("Medium",       "Finance"):     ["Moneytap", "Lendingkart", "NeoGrowth", "Stashfin"],
+}
+DEFAULT_COMPANIES = ["Infosys", "Wipro", "HCL Technologies", "Mphasis", "Hexaware", "Mindtree", "L&T Infotech"]
+
+def get_company_name(company_type: str, industry: str, rng) -> str:
+    key = (company_type, industry)
+    pool = COMPANY_NAMES.get(key)
+    if not pool:
+        # Try matching just company_type
+        for k, v in COMPANY_NAMES.items():
+            if k[0] == company_type:
+                pool = v
+                break
+    if not pool:
+        pool = DEFAULT_COMPANIES
+    return rng.choice(pool)
+
+
 def compute_cultural_resonance(personality, company_type):
     score = (personality.get('conscientiousness', 50) * 0.5) + (personality.get('agreeableness', 50) * 0.5)
     ctype = str(company_type).lower()
@@ -97,18 +136,26 @@ def get_open_jobs():
         return []
     sampled = df_jobs.sample(min(8, len(df_jobs))).to_dict('records')
     jobs = []
+    rng = random.Random(42)  # Fixed seed so jobs list is stable on refresh
     for row in sampled:
+        ctype = str(row.get('company_type', 'Large'))
+        industry = str(row.get('industry', 'Tech'))
+        company_name = get_company_name(ctype, industry, rng)
+        # Use city from dataset if present and non-remote, else pick Indian city
+        raw_city = str(row.get('city', ''))
+        location = raw_city if (raw_city and raw_city.lower() != 'remote' and raw_city != 'nan') else rng.choice(INDIAN_CITIES)
         jobs.append(JobReq(
             job_id=str(row['job_id']),
             job_title=str(row['job_title']),
-            company_name=str(row.get('company_name', 'Tech Corp India')),
-            industry=str(row['industry']),
-            location=str(row.get('location', random.choice(INDIAN_CITIES))),
+            company_name=company_name,
+            industry=industry,
+            location=location,
             salary=str(row.get('salary_max_usd', '100000')),
             company_size=str(row['company_size']),
-            company_type=str(row.get('company_type', 'MNC'))
+            company_type=ctype
         ))
     return jobs
+
 
 @app.get("/api/jobs/{job_id}/candidates", response_model=List[CandidateProfile])
 def generate_candidates_for_job(job_id: str):
